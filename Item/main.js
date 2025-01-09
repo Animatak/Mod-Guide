@@ -31,8 +31,7 @@ Item['void SetDefaults(int Type, bool noMatCheck, ItemVariant variant)'].hook((o
 	/**
 	 * Example: Modifying damage for a specific Item type (Type === 1).
 	 */
-	if (Type == 1) {
-		// Iron Pickaxe
+	if (Type == 1) { // Iron Pickaxe
 		self.damage = 12; // Sets the damage value of the Iron Pickaxe.
 
 		self.shoot = 1; // Sets the shoot type to Arrow.
