@@ -15,14 +15,14 @@ const NPCID = new NativeClass('Terraria.ID', 'NPCID');
 /**
  * Hook to modify NPC properties during the SetDefaults process.
  */
-NPC.SetDefaults.hook((original, npc, type, spawnparans) => {
+NPC.SetDefaults.hook((original, npc, Type, spawnparans) => {
 	// Preserve the original behavior of the NPC
-	original(npc, type, spawnparans);
+	original(npc, Type, spawnparans);
 
 	/**
 	 * Switch block to modify specific NPC types.
 	 */
-	switch (type) {
+	switch (Type) {
 		case 1: // Blue Slime
 		case 2: // Demon Eye
 		case 3: // Zombie
@@ -38,7 +38,7 @@ NPC.SetDefaults.hook((original, npc, type, spawnparans) => {
 
 	// You can use NPCID to get the Type.
 	// Example: NPCID.Guide will return the Type 22.
-	if (type == 22) {
+	if (Type == 22) {
 		// Correctly multiplies both life and lifeMax to avoid inconsistencies.
 		npc.life = npc.lifeMax *= 2;
 	}
