@@ -17,7 +17,7 @@ const NPCID = new NativeClass('Terraria.ID', 'NPCID');
 /**
  * Hook to modify NPC properties during the SetDefaults process.
  */
-NPC.SetDefaults.hook((original, npc, Type, spawnparans) => {
+NPC.SetDefaults.hook((original, self, Type, spawnparans) => {
 	// Preserve the original behavior of the NPC
 	original(self, Type, spawnparans);
 
