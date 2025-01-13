@@ -51,4 +51,10 @@ NPC.AI.hook((original, self) => {
 			}
 		}
 	}
+
+	/*
+	 **Note**: The hook allows the player to modify the behavior of the NPC in any way they choose. You can add
+	 * additional checks, modify the NPC's properties, or even change its AI logic, giving full control over the NPC's
+	 * actions during this phase.
+	 */
 });
