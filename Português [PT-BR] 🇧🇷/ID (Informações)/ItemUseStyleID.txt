@@ -1,0 +1,45 @@
+InternalName: None
+ID-Type: 0
+
+InternalName: Swing
+ID-Type: 1
+
+InternalName: DrinkOld
+ID-Type: 7
+
+InternalName: Thrust
+ID-Type: 3
+
+InternalName: HoldUp
+ID-Type: 4
+
+InternalName: Shoot
+ID-Type: 5
+
+InternalName: DrinkLong
+ID-Type: 6
+
+InternalName: EatFood
+ID-Type: 2
+
+InternalName: GolfPlay
+ID-Type: 8
+
+InternalName: DrinkLiquid
+ID-Type: 9
+
+InternalName: HiddenAnimation
+ID-Type: 10
+
+InternalName: MowTheLawn
+ID-Type: 11
+
+InternalName: Guitar
+ID-Type: 12
+
+InternalName: Rapier
+ID-Type: 13
+
+InternalName: RaiseLamp
+ID-Type: 14
+

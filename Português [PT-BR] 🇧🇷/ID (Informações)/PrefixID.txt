@@ -1,0 +1,340 @@
+PrefixName: (Grande)
+InternalName: Large
+ID-Type: 1
+
+PrefixName: (Enorme)
+InternalName: Massive
+ID-Type: 2
+
+PrefixName: (Perigoso)
+InternalName: Dangerous
+ID-Type: 3
+
+PrefixName: (Bárbaro)
+InternalName: Savage
+ID-Type: 4
+
+PrefixName: (Afiado)
+InternalName: Sharp
+ID-Type: 5
+
+PrefixName: (Pontudo)
+InternalName: Pointy
+ID-Type: 6
+
+PrefixName: (Minúsculo)
+InternalName: Tiny
+ID-Type: 7
+
+PrefixName: (Terrível)
+InternalName: Terrible
+ID-Type: 8
+
+PrefixName: (Pequeno)
+InternalName: Small
+ID-Type: 9
+
+PrefixName: (Fraco)
+InternalName: Dull
+ID-Type: 10
+
+PrefixName: (Infeliz)
+InternalName: Unhappy
+ID-Type: 11
+
+PrefixName: (Volumoso)
+InternalName: Bulky
+ID-Type: 12
+
+PrefixName: (Vergonhoso)
+InternalName: Shameful
+ID-Type: 13
+
+PrefixName: (Pesado)
+InternalName: Heavy
+ID-Type: 14
+
+PrefixName: (Luz)
+InternalName: Light
+ID-Type: 15
+
+PrefixName: (Visto)
+InternalName: Sighted
+ID-Type: 16
+
+PrefixName: (Acelerado)
+InternalName: Rapid
+ID-Type: 17
+
+PrefixName: (Rápido)
+InternalName: Hasty
+ID-Type: 18
+
+PrefixName: (Intimidador)
+InternalName: Intimidating
+ID-Type: 19
+
+PrefixName: (Mortal)
+InternalName: Deadly
+ID-Type: 20
+
+PrefixName: (Convicto)
+InternalName: Staunch
+ID-Type: 21
+
+PrefixName: (Terrível)
+InternalName: Awful
+ID-Type: 22
+
+PrefixName: (Letárgico)
+InternalName: Lethargic
+ID-Type: 23
+
+PrefixName: (Estranho)
+InternalName: Awkward
+ID-Type: 24
+
+PrefixName: (Poderoso)
+InternalName: Powerful
+ID-Type: 25
+
+PrefixName: (Místico)
+InternalName: Mystic
+ID-Type: 26
+
+PrefixName: (Adepto)
+InternalName: Adept
+ID-Type: 27
+
+PrefixName: (Mestre)
+InternalName: Masterful
+ID-Type: 28
+
+PrefixName: (Incapaz)
+InternalName: Inept
+ID-Type: 29
+
+PrefixName: (Ignorante)
+InternalName: Ignorant
+ID-Type: 30
+
+PrefixName: (Demente)
+InternalName: Deranged
+ID-Type: 31
+
+PrefixName: (Intenso)
+InternalName: Intense
+ID-Type: 32
+
+PrefixName: (Tabu)
+InternalName: Taboo
+ID-Type: 33
+
+PrefixName: (Celestial)
+InternalName: Celestial
+ID-Type: 34
+
+PrefixName: (Furioso)
+InternalName: Furious
+ID-Type: 35
+
+PrefixName: (Disposto)
+InternalName: Keen
+ID-Type: 36
+
+PrefixName: (Superior)
+InternalName: Superior
+ID-Type: 37
+
+PrefixName: (Vigoroso)
+InternalName: Forceful
+ID-Type: 38
+
+PrefixName: (Quebrado)
+InternalName: Broken
+ID-Type: 39
+
+PrefixName: (Danificado)
+InternalName: Damaged
+ID-Type: 40
+
+PrefixName: (Pobre)
+InternalName: Shoddy
+ID-Type: 41
+
+PrefixName: (Rápido)
+InternalName: Quick
+ID-Type: 42
+
+PrefixName: (Mortal)
+InternalName: Deadly2
+ID-Type: 43
+
+PrefixName: (Ágil)
+InternalName: Agile
+ID-Type: 44
+
+PrefixName: (Ligeiro)
+InternalName: Nimble
+ID-Type: 45
+
+PrefixName: (Assassino)
+InternalName: Murderous
+ID-Type: 46
+
+PrefixName: (Lento)
+InternalName: Slow
+ID-Type: 47
+
+PrefixName: (Vagaroso)
+InternalName: Sluggish
+ID-Type: 48
+
+PrefixName: (Preguiçoso)
+InternalName: Lazy
+ID-Type: 49
+
+PrefixName: (Irritante)
+InternalName: Annoying
+ID-Type: 50
+
+PrefixName: (Nojento)
+InternalName: Nasty
+ID-Type: 51
+
+PrefixName: (Maníaco)
+InternalName: Manic
+ID-Type: 52
+
+PrefixName: (Doloroso)
+InternalName: Hurtful
+ID-Type: 53
+
+PrefixName: (Forte)
+InternalName: Strong
+ID-Type: 54
+
+PrefixName: (Desagradável)
+InternalName: Unpleasant
+ID-Type: 55
+
+PrefixName: (Fraco)
+InternalName: Weak
+ID-Type: 56
+
+PrefixName: (Implacável)
+InternalName: Ruthless
+ID-Type: 57
+
+PrefixName: (Enlouquecedor)
+InternalName: Frenzying
+ID-Type: 58
+
+PrefixName: (Divino)
+InternalName: Godly
+ID-Type: 59
+
+PrefixName: (Demoníaco)
+InternalName: Demonic
+ID-Type: 60
+
+PrefixName: (Zeloso)
+InternalName: Zealous
+ID-Type: 61
+
+PrefixName: (Difícil)
+InternalName: Hard
+ID-Type: 62
+
+PrefixName: (Protetor)
+InternalName: Guarding
+ID-Type: 63
+
+PrefixName: (Blindado)
+InternalName: Armored
+ID-Type: 64
+
+PrefixName: (Vigia)
+InternalName: Warding
+ID-Type: 65
+
+PrefixName: (Arcano)
+InternalName: Arcane
+ID-Type: 66
+
+PrefixName: (Preciso)
+InternalName: Precise
+ID-Type: 67
+
+PrefixName: (Sortudo)
+InternalName: Lucky
+ID-Type: 68
+
+PrefixName: (Dentado)
+InternalName: Jagged
+ID-Type: 69
+
+PrefixName: (Perfurante)
+InternalName: Spiked
+ID-Type: 70
+
+PrefixName: (Raivoso)
+InternalName: Angry
+ID-Type: 71
+
+PrefixName: (Ameaçador)
+InternalName: Menacing
+ID-Type: 72
+
+PrefixName: (Fugaz)
+InternalName: Brisk
+ID-Type: 73
+
+PrefixName: (Apressado)
+InternalName: Fleeting
+ID-Type: 74
+
+PrefixName: (Rápido)
+InternalName: Hasty2
+ID-Type: 75
+
+PrefixName: (Rápido)
+InternalName: Quick2
+ID-Type: 76
+
+PrefixName: (Selvagem)
+InternalName: Wild
+ID-Type: 77
+
+PrefixName: (Impetuoso)
+InternalName: Rash
+ID-Type: 78
+
+PrefixName: (Intrépido)
+InternalName: Intrepid
+ID-Type: 79
+
+PrefixName: (Violento)
+InternalName: Violent
+ID-Type: 80
+
+PrefixName: (Lendário)
+InternalName: Legendary
+ID-Type: 81
+
+PrefixName: (Surreal)
+InternalName: Unreal
+ID-Type: 82
+
+PrefixName: (Mítico)
+InternalName: Mythical
+ID-Type: 83
+
+PrefixName: (Lendário)
+InternalName: Legendary2
+ID-Type: 84
+
+PrefixName: Unknown_Prefix_85
+InternalName: Count
+ID-Type: 85
+

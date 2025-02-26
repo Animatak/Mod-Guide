@@ -1,0 +1,246 @@
+InternalName: HousingQuery
+ID-Type: 0
+
+InternalName: Guide
+ID-Type: 1
+
+InternalName: Merchant
+ID-Type: 2
+
+InternalName: Nurse
+ID-Type: 3
+
+InternalName: Demolitionist
+ID-Type: 4
+
+InternalName: Dryad
+ID-Type: 5
+
+InternalName: ArmsDealer
+ID-Type: 6
+
+InternalName: Clothier
+ID-Type: 7
+
+InternalName: Mechanic
+ID-Type: 8
+
+InternalName: GoblinTinkerer
+ID-Type: 9
+
+InternalName: Wizard
+ID-Type: 10
+
+InternalName: SantaClaus
+ID-Type: 11
+
+InternalName: Truffle
+ID-Type: 12
+
+InternalName: Steampunker
+ID-Type: 13
+
+InternalName: DyeTrader
+ID-Type: 14
+
+InternalName: PartyGirl
+ID-Type: 15
+
+InternalName: Cyborg
+ID-Type: 16
+
+InternalName: Painter
+ID-Type: 17
+
+InternalName: WitchDoctor
+ID-Type: 18
+
+InternalName: Pirate
+ID-Type: 19
+
+InternalName: Stylist
+ID-Type: 20
+
+InternalName: TravellingMerchant
+ID-Type: 21
+
+InternalName: Angler
+ID-Type: 22
+
+InternalName: TaxCollector
+ID-Type: 23
+
+InternalName: DD2Bartender
+ID-Type: 24
+
+InternalName: Golfer
+ID-Type: 25
+
+InternalName: BestiaryGirl
+ID-Type: 26
+
+InternalName: CatSiamese
+ID-Type: 27
+
+InternalName: CatBlack
+ID-Type: 28
+
+InternalName: CatOrangeTabby
+ID-Type: 29
+
+InternalName: CatRussianBlue
+ID-Type: 30
+
+InternalName: CatSilver
+ID-Type: 31
+
+InternalName: CatWhite
+ID-Type: 32
+
+InternalName: DogLabrador
+ID-Type: 33
+
+InternalName: DogPitBull
+ID-Type: 34
+
+InternalName: DogBeagle
+ID-Type: 35
+
+InternalName: DogCorgi
+ID-Type: 36
+
+InternalName: DogDalmation
+ID-Type: 37
+
+InternalName: DogHusky
+ID-Type: 38
+
+InternalName: BunnyWhite
+ID-Type: 39
+
+InternalName: BunnyAngora
+ID-Type: 40
+
+InternalName: BunnyDutch
+ID-Type: 41
+
+InternalName: BunnyFlemish
+ID-Type: 42
+
+InternalName: BunnyLop
+ID-Type: 43
+
+InternalName: BunnySilver
+ID-Type: 44
+
+InternalName: Princess
+ID-Type: 45
+
+InternalName: SlimeBlue
+ID-Type: 46
+
+InternalName: SlimeGreen
+ID-Type: 47
+
+InternalName: SlimeOld
+ID-Type: 48
+
+InternalName: SlimePurple
+ID-Type: 49
+
+InternalName: SlimeRainbow
+ID-Type: 50
+
+InternalName: SlimeRed
+ID-Type: 51
+
+InternalName: SlimeYellow
+ID-Type: 52
+
+InternalName: SlimeCopper
+ID-Type: 53
+
+InternalName: PrincessShimmered
+ID-Type: 54
+
+InternalName: AnglerShimmered
+ID-Type: 55
+
+InternalName: BestiaryGirlShimmered
+ID-Type: 56
+
+InternalName: ClothierShimmered
+ID-Type: 57
+
+InternalName: CyborgShimmered
+ID-Type: 58
+
+InternalName: DemolitionistShimmered
+ID-Type: 59
+
+InternalName: DyeTraderShimmered
+ID-Type: 60
+
+InternalName: GolferShimmered
+ID-Type: 61
+
+InternalName: MechanicShimmered
+ID-Type: 62
+
+InternalName: MerchantShimmered
+ID-Type: 63
+
+InternalName: NurseShimmered
+ID-Type: 64
+
+InternalName: PainterShimmered
+ID-Type: 65
+
+InternalName: PirateShimmered
+ID-Type: 66
+
+InternalName: SantaClausShimmered
+ID-Type: 67
+
+InternalName: SteampunkerShimmered
+ID-Type: 68
+
+InternalName: StylistShimmered
+ID-Type: 69
+
+InternalName: TaxCollectorShimmered
+ID-Type: 70
+
+InternalName: WizardShimmered
+ID-Type: 71
+
+InternalName: GuideShimmered
+ID-Type: 72
+
+InternalName: DryadShimmered
+ID-Type: 73
+
+InternalName: ArmsDealerShimmered
+ID-Type: 74
+
+InternalName: GoblinTinkererShimmered
+ID-Type: 75
+
+InternalName: TruffleShimmered
+ID-Type: 76
+
+InternalName: PartyGirlShimmered
+ID-Type: 77
+
+InternalName: WitchDoctorShimmered
+ID-Type: 78
+
+InternalName: TavernkeepShimmered
+ID-Type: 79
+
+InternalName: TravelingMerchantShimmered
+ID-Type: 80
+
+InternalName: Count
+ID-Type: 81
+

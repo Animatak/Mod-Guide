@@ -1,0 +1,4092 @@
+ProjectileName: Unknown_Projectile_0
+InternalName: None
+ID-Type: 0
+
+ProjectileName: Flecha de Madeira
+InternalName: WoodenArrowFriendly
+ID-Type: 1
+
+ProjectileName: Flecha de Fogo
+InternalName: FireArrow
+ID-Type: 2
+
+ProjectileName: Estrela Ninja
+InternalName: Shuriken
+ID-Type: 3
+
+ProjectileName: Flecha Profana
+InternalName: UnholyArrow
+ID-Type: 4
+
+ProjectileName: Flecha do Jester
+InternalName: JestersArrow
+ID-Type: 5
+
+ProjectileName: Bumerangue Encantado
+InternalName: EnchantedBoomerang
+ID-Type: 6
+
+ProjectileName: Espinho Infame
+InternalName: VilethornBase
+ID-Type: 7
+
+ProjectileName: Espinho Infame
+InternalName: VilethornTip
+ID-Type: 8
+
+ProjectileName: Fúria das Estrelas
+InternalName: Starfury
+ID-Type: 9
+
+ProjectileName: Pó Purificador
+InternalName: PurificationPowder
+ID-Type: 10
+
+ProjectileName: Pó Infame
+InternalName: VilePowder
+ID-Type: 11
+
+ProjectileName: Estrela Cadente
+InternalName: FallingStar
+ID-Type: 12
+
+ProjectileName: Gancho
+InternalName: Hook
+ID-Type: 13
+
+ProjectileName: Bala
+InternalName: Bullet
+ID-Type: 14
+
+ProjectileName: Bola de Fogo
+InternalName: BallofFire
+ID-Type: 15
+
+ProjectileName: Míssil Mágico
+InternalName: MagicMissile
+ID-Type: 16
+
+ProjectileName: Bola de Terra
+InternalName: DirtBall
+ID-Type: 17
+
+ProjectileName: Esfera das Sombras
+InternalName: ShadowOrb
+ID-Type: 18
+
+ProjectileName: Bumerangue Flamejante
+InternalName: Flamarang
+ID-Type: 19
+
+ProjectileName: Laser Verde
+InternalName: GreenLaser
+ID-Type: 20
+
+ProjectileName: Osso
+InternalName: Bone
+ID-Type: 21
+
+ProjectileName: Fio d'água
+InternalName: WaterStream
+ID-Type: 22
+
+ProjectileName: Arpão
+InternalName: Harpoon
+ID-Type: 23
+
+ProjectileName: Bola com Espinhos
+InternalName: SpikyBall
+ID-Type: 24
+
+ProjectileName: Bola de Dor
+InternalName: BallOHurt
+ID-Type: 25
+
+ProjectileName: Lua Azul
+InternalName: BlueMoon
+ID-Type: 26
+
+ProjectileName: Raio d'água
+InternalName: WaterBolt
+ID-Type: 27
+
+ProjectileName: Bomba
+InternalName: Bomb
+ID-Type: 28
+
+ProjectileName: Dinamite
+InternalName: Dynamite
+ID-Type: 29
+
+ProjectileName: Granada
+InternalName: Grenade
+ID-Type: 30
+
+ProjectileName: Bola de Areia
+InternalName: SandBallFalling
+ID-Type: 31
+
+ProjectileName: Chicote de Hera
+InternalName: IvyWhip
+ID-Type: 32
+
+ProjectileName: Chakram com Espinhos
+InternalName: ThornChakram
+ID-Type: 33
+
+ProjectileName: Chicote Flamejante
+InternalName: Flamelash
+ID-Type: 34
+
+ProjectileName: Fúria do Sol
+InternalName: Sunfury
+ID-Type: 35
+
+ProjectileName: Tiro de Meteoros
+InternalName: MeteorShot
+ID-Type: 36
+
+ProjectileName: Bomba Adesiva
+InternalName: StickyBomb
+ID-Type: 37
+
+ProjectileName: Pena de Harpia
+InternalName: HarpyFeather
+ID-Type: 38
+
+ProjectileName: Bola de Lama
+InternalName: MudBall
+ID-Type: 39
+
+ProjectileName: Bola de Cinzas
+InternalName: AshBallFalling
+ID-Type: 40
+
+ProjectileName: Flecha do Inferno
+InternalName: HellfireArrow
+ID-Type: 41
+
+ProjectileName: Bola de Areia
+InternalName: SandBallGun
+ID-Type: 42
+
+ProjectileName: Lápide
+InternalName: Tombstone
+ID-Type: 43
+
+ProjectileName: Foice Demoníaca
+InternalName: DemonSickle
+ID-Type: 44
+
+ProjectileName: Gadanha Demoníaca
+InternalName: DemonScythe
+ID-Type: 45
+
+ProjectileName: Lança das Trevas
+InternalName: DarkLance
+ID-Type: 46
+
+ProjectileName: Tridente
+InternalName: Trident
+ID-Type: 47
+
+ProjectileName: Faca de Arremessar
+InternalName: ThrowingKnife
+ID-Type: 48
+
+ProjectileName: Lança
+InternalName: Spear
+ID-Type: 49
+
+ProjectileName: Bastão Luminoso
+InternalName: Glowstick
+ID-Type: 50
+
+ProjectileName: Semente
+InternalName: Seed
+ID-Type: 51
+
+ProjectileName: Bumerangue de Madeira
+InternalName: WoodenBoomerang
+ID-Type: 52
+
+ProjectileName: Bastão Luminoso Adesivo
+InternalName: StickyGlowstick
+ID-Type: 53
+
+ProjectileName: Faca Envenenada
+InternalName: PoisonedKnife
+ID-Type: 54
+
+ProjectileName: Ferrão
+InternalName: Stinger
+ID-Type: 55
+
+ProjectileName: Alabarda de Mithril
+InternalName: EbonsandBallFalling
+ID-Type: 56
+
+ProjectileName: Serra-elétrica de Cobalto
+InternalName: CobaltChainsaw
+ID-Type: 57
+
+ProjectileName: Serra-elétrica de Mithril
+InternalName: MythrilChainsaw
+ID-Type: 58
+
+ProjectileName: Furadeira de Cobalto
+InternalName: CobaltDrill
+ID-Type: 59
+
+ProjectileName: Furadeira de Mithril
+InternalName: MythrilDrill
+ID-Type: 60
+
+ProjectileName: Serra-elétrica de Adamantina
+InternalName: AdamantiteChainsaw
+ID-Type: 61
+
+ProjectileName: Furadeira de Adamantina
+InternalName: AdamantiteDrill
+ID-Type: 62
+
+ProjectileName: Corrente de Dao
+InternalName: TheDaoofPow
+ID-Type: 63
+
+ProjectileName: Alabarda de Mithril
+InternalName: MythrilHalberd
+ID-Type: 64
+
+ProjectileName: Alabarda de Mithril
+InternalName: EbonsandBallGun
+ID-Type: 65
+
+ProjectileName: Gládio de Adamantina
+InternalName: AdamantiteGlaive
+ID-Type: 66
+
+ProjectileName: Bola de Areia Pérola
+InternalName: PearlSandBallFalling
+ID-Type: 67
+
+ProjectileName: Bola de Areia Pérola
+InternalName: PearlSandBallGun
+ID-Type: 68
+
+ProjectileName: Água Benta
+InternalName: HolyWater
+ID-Type: 69
+
+ProjectileName: Água Profana
+InternalName: UnholyWater
+ID-Type: 70
+
+ProjectileName: Bola de Limo
+InternalName: SiltBall
+ID-Type: 71
+
+ProjectileName: Fada Azul
+InternalName: BlueFairy
+ID-Type: 72
+
+ProjectileName: Gancho
+InternalName: DualHookBlue
+ID-Type: 73
+
+ProjectileName: Gancho
+InternalName: DualHookRed
+ID-Type: 74
+
+ProjectileName: Bomba Feliz
+InternalName: HappyBomb
+ID-Type: 75
+
+ProjectileName: Nota
+InternalName: QuarterNote
+ID-Type: 76
+
+ProjectileName: Nota
+InternalName: EighthNote
+ID-Type: 77
+
+ProjectileName: Nota
+InternalName: TiedEighthNote
+ID-Type: 78
+
+ProjectileName: Arco-íris
+InternalName: RainbowRodBullet
+ID-Type: 79
+
+ProjectileName: Bloco de Gelo
+InternalName: IceBlock
+ID-Type: 80
+
+ProjectileName: Flecha de Madeira
+InternalName: WoodenArrowHostile
+ID-Type: 81
+
+ProjectileName: Flecha Flamejante
+InternalName: FlamingArrow
+ID-Type: 82
+
+ProjectileName: Laser dos Olhos
+InternalName: EyeLaser
+ID-Type: 83
+
+ProjectileName: Laser Cor-de-rosa
+InternalName: PinkLaser
+ID-Type: 84
+
+ProjectileName: Chamas
+InternalName: Flames
+ID-Type: 85
+
+ProjectileName: Fada Cor-de-rosa
+InternalName: PinkFairy
+ID-Type: 86
+
+ProjectileName: Fada Cor-de-rosa
+InternalName: GreenFairy
+ID-Type: 87
+
+ProjectileName: Laser Roxo
+InternalName: PurpleLaser
+ID-Type: 88
+
+ProjectileName: Projétil de Cristal
+InternalName: CrystalBullet
+ID-Type: 89
+
+ProjectileName: Fragmento de Cristal
+InternalName: CrystalShard
+ID-Type: 90
+
+ProjectileName: Flecha Consagrada
+InternalName: HolyArrow
+ID-Type: 91
+
+ProjectileName: Estrela Consagrada
+InternalName: HallowStar
+ID-Type: 92
+
+ProjectileName: Adaga Mágica
+InternalName: MagicDagger
+ID-Type: 93
+
+ProjectileName: Tempestade de Cristal
+InternalName: CrystalStorm
+ID-Type: 94
+
+ProjectileName: Chama Amaldiçoada
+InternalName: CursedFlameFriendly
+ID-Type: 95
+
+ProjectileName: Chama Amaldiçoada
+InternalName: CursedFlameHostile
+ID-Type: 96
+
+ProjectileName: Naginata de Cobalto
+InternalName: CobaltNaginata
+ID-Type: 97
+
+ProjectileName: Dardo Envenenado
+InternalName: PoisonDart
+ID-Type: 98
+
+ProjectileName: Rochedo
+InternalName: Boulder
+ID-Type: 99
+
+ProjectileName: Laser da Morte
+InternalName: DeathLaser
+ID-Type: 100
+
+ProjectileName: Fogo dos Olhos
+InternalName: EyeFire
+ID-Type: 101
+
+ProjectileName: Bomba
+InternalName: BombSkeletronPrime
+ID-Type: 102
+
+ProjectileName: Flecha Amaldiçoada
+InternalName: CursedArrow
+ID-Type: 103
+
+ProjectileName: Projétil Amaldiçoada
+InternalName: CursedBullet
+ID-Type: 104
+
+ProjectileName: Gungnir
+InternalName: Gungnir
+ID-Type: 105
+
+ProjectileName: Disco de Luz
+InternalName: LightDisc
+ID-Type: 106
+
+ProjectileName: Hamdrax
+InternalName: Hamdrax
+ID-Type: 107
+
+ProjectileName: Explosivos
+InternalName: Explosives
+ID-Type: 108
+
+ProjectileName: Bola de Neve
+InternalName: SnowBallHostile
+ID-Type: 109
+
+ProjectileName: Bala
+InternalName: BulletSnowman
+ID-Type: 110
+
+ProjectileName: Coelhinho
+InternalName: Bunny
+ID-Type: 111
+
+ProjectileName: Pinguim
+InternalName: Penguin
+ID-Type: 112
+
+ProjectileName: Bumerangue de Gelo
+InternalName: IceBoomerang
+ID-Type: 113
+
+ProjectileName: Tridente Profano
+InternalName: UnholyTridentFriendly
+ID-Type: 114
+
+ProjectileName: Tridente Profano
+InternalName: UnholyTridentHostile
+ID-Type: 115
+
+ProjectileName: Feixe de Espada
+InternalName: SwordBeam
+ID-Type: 116
+
+ProjectileName: Flecha de Osso
+InternalName: BoneArrow
+ID-Type: 117
+
+ProjectileName: Raio de Gelo
+InternalName: IceBolt
+ID-Type: 118
+
+ProjectileName: Raio Congelado
+InternalName: FrostBoltSword
+ID-Type: 119
+
+ProjectileName: Flecha Congelada
+InternalName: FrostArrow
+ID-Type: 120
+
+ProjectileName: Raio Ametista
+InternalName: AmethystBolt
+ID-Type: 121
+
+ProjectileName: Raio Topázio
+InternalName: TopazBolt
+ID-Type: 122
+
+ProjectileName: Raio Safira
+InternalName: SapphireBolt
+ID-Type: 123
+
+ProjectileName: Raio Esmeralda
+InternalName: EmeraldBolt
+ID-Type: 124
+
+ProjectileName: Raio Rubi
+InternalName: RubyBolt
+ID-Type: 125
+
+ProjectileName: Raio Diamante
+InternalName: DiamondBolt
+ID-Type: 126
+
+ProjectileName: Tartaruga
+InternalName: Turtle
+ID-Type: 127
+
+ProjectileName: Explosão Congelante
+InternalName: FrostBlastHostile
+ID-Type: 128
+
+ProjectileName: Explosão de Runas
+InternalName: RuneBlast
+ID-Type: 129
+
+ProjectileName: Lança de Cogumelos
+InternalName: MushroomSpear
+ID-Type: 130
+
+ProjectileName: Cogumelo
+InternalName: Mushroom
+ID-Type: 131
+
+ProjectileName: Feixe da Terra
+InternalName: TerraBeam
+ID-Type: 132
+
+ProjectileName: Granada
+InternalName: GrenadeI
+ID-Type: 133
+
+ProjectileName: Foguete
+InternalName: RocketI
+ID-Type: 134
+
+ProjectileName: Minas de Proximidade
+InternalName: ProximityMineI
+ID-Type: 135
+
+ProjectileName: Granada
+InternalName: GrenadeII
+ID-Type: 136
+
+ProjectileName: Foguete
+InternalName: RocketII
+ID-Type: 137
+
+ProjectileName: Minas de Proximidade
+InternalName: ProximityMineII
+ID-Type: 138
+
+ProjectileName: Granada
+InternalName: GrenadeIII
+ID-Type: 139
+
+ProjectileName: Foguete
+InternalName: RocketIII
+ID-Type: 140
+
+ProjectileName: Minas de Proximidade
+InternalName: ProximityMineIII
+ID-Type: 141
+
+ProjectileName: Granada
+InternalName: GrenadeIV
+ID-Type: 142
+
+ProjectileName: Foguete
+InternalName: RocketIV
+ID-Type: 143
+
+ProjectileName: Minas de Proximidade
+InternalName: ProximityMineIV
+ID-Type: 144
+
+ProjectileName: Jato Puro
+InternalName: PureSpray
+ID-Type: 145
+
+ProjectileName: Jato Consagrado
+InternalName: HallowSpray
+ID-Type: 146
+
+ProjectileName: Jato Corrompido
+InternalName: CorruptSpray
+ID-Type: 147
+
+ProjectileName: Jato de Cogumelos
+InternalName: MushroomSpray
+ID-Type: 148
+
+ProjectileName: Jato de Carmesim
+InternalName: CrimsonSpray
+ID-Type: 149
+
+ProjectileName: Explosão de Urtiga
+InternalName: NettleBurstRight
+ID-Type: 150
+
+ProjectileName: Explosão de Urtiga
+InternalName: NettleBurstLeft
+ID-Type: 151
+
+ProjectileName: Explosão de Urtiga
+InternalName: NettleBurstEnd
+ID-Type: 152
+
+ProjectileName: O Garfo Podre
+InternalName: TheRottedFork
+ID-Type: 153
+
+ProjectileName: A Almôndega
+InternalName: TheMeatball
+ID-Type: 154
+
+ProjectileName: Bola de Praia
+InternalName: BeachBall
+ID-Type: 155
+
+ProjectileName: Feixe de Luz
+InternalName: LightBeam
+ID-Type: 156
+
+ProjectileName: Feixe da Noite
+InternalName: NightBeam
+ID-Type: 157
+
+ProjectileName: Moeda de Cobre
+InternalName: CopperCoin
+ID-Type: 158
+
+ProjectileName: Moeda de Prata
+InternalName: SilverCoin
+ID-Type: 159
+
+ProjectileName: Moeda de Ouro
+InternalName: GoldCoin
+ID-Type: 160
+
+ProjectileName: Moeda de Platina
+InternalName: PlatinumCoin
+ID-Type: 161
+
+ProjectileName: Bala de Canhão
+InternalName: CannonballFriendly
+ID-Type: 162
+
+ProjectileName: Sinalizador
+InternalName: Flare
+ID-Type: 163
+
+ProjectileName: Mina Terrestre
+InternalName: Landmine
+ID-Type: 164
+
+ProjectileName: Teia
+InternalName: Web
+ID-Type: 165
+
+ProjectileName: Bola de Neve
+InternalName: SnowBallFriendly
+ID-Type: 166
+
+ProjectileName: Foguete
+InternalName: RocketFireworkRed
+ID-Type: 167
+
+ProjectileName: Foguete
+InternalName: RocketFireworkGreen
+ID-Type: 168
+
+ProjectileName: Foguete
+InternalName: RocketFireworkBlue
+ID-Type: 169
+
+ProjectileName: Foguete
+InternalName: RocketFireworkYellow
+ID-Type: 170
+
+ProjectileName: Rolo de Corda
+InternalName: RopeCoil
+ID-Type: 171
+
+ProjectileName: Flecha de Queimadura de Gelo
+InternalName: FrostburnArrow
+ID-Type: 172
+
+ProjectileName: Feixe Encantado
+InternalName: EnchantedBeam
+ID-Type: 173
+
+ProjectileName: Espeto de Gelo
+InternalName: IceSpike
+ID-Type: 174
+
+ProjectileName: Devorador de Bebês
+InternalName: BabyEater
+ID-Type: 175
+
+ProjectileName: Espeto da Selva
+InternalName: JungleSpike
+ID-Type: 176
+
+ProjectileName: Cusparada de Água Gelada
+InternalName: IcewaterSpit
+ID-Type: 177
+
+ProjectileName: Confetes
+InternalName: ConfettiGun
+ID-Type: 178
+
+ProjectileName: Bola de Neve com Lama
+InternalName: SlushBall
+ID-Type: 179
+
+ProjectileName: Bala
+InternalName: BulletDeadeye
+ID-Type: 180
+
+ProjectileName: Abelha
+InternalName: Bee
+ID-Type: 181
+
+ProjectileName: Machadinha Possuída
+InternalName: PossessedHatchet
+ID-Type: 182
+
+ProjectileName: Granada de Abelhas
+InternalName: Beenade
+ID-Type: 183
+
+ProjectileName: Dardo Envenenado
+InternalName: PoisonDartTrap
+ID-Type: 184
+
+ProjectileName: Bola com Espinhos
+InternalName: SpikyBallTrap
+ID-Type: 185
+
+ProjectileName: Lança
+InternalName: SpearTrap
+ID-Type: 186
+
+ProjectileName: Lança-Chamas
+InternalName: FlamethrowerTrap
+ID-Type: 187
+
+ProjectileName: Chamas
+InternalName: FlamesTrap
+ID-Type: 188
+
+ProjectileName: Vespa
+InternalName: Wasp
+ID-Type: 189
+
+ProjectileName: Piranha Mecânica
+InternalName: MechanicalPiranha
+ID-Type: 190
+
+ProjectileName: Pigmeu
+InternalName: Pygmy
+ID-Type: 191
+
+ProjectileName: Pigmeu
+InternalName: Pygmy2
+ID-Type: 192
+
+ProjectileName: Pigmeu
+InternalName: Pygmy3
+ID-Type: 193
+
+ProjectileName: Pigmeu
+InternalName: Pygmy4
+ID-Type: 194
+
+ProjectileName: Pigmeu
+InternalName: PygmySpear
+ID-Type: 195
+
+ProjectileName: Bomba de Fumaça
+InternalName: SmokeBomb
+ID-Type: 196
+
+ProjectileName: Cabeça de Esqueletron Bebê
+InternalName: BabySkeletronHead
+ID-Type: 197
+
+ProjectileName: Filhote de Vespa
+InternalName: BabyHornet
+ID-Type: 198
+
+ProjectileName: Espírito Tiki
+InternalName: TikiSpirit
+ID-Type: 199
+
+ProjectileName: Lagarto de Estimação
+InternalName: PetLizard
+ID-Type: 200
+
+ProjectileName: Lápide
+InternalName: GraveMarker
+ID-Type: 201
+
+ProjectileName: Lápide
+InternalName: CrossGraveMarker
+ID-Type: 202
+
+ProjectileName: Lápide
+InternalName: Headstone
+ID-Type: 203
+
+ProjectileName: Lápide
+InternalName: Gravestone
+ID-Type: 204
+
+ProjectileName: Lápide
+InternalName: Obelisk
+ID-Type: 205
+
+ProjectileName: Folha
+InternalName: Leaf
+ID-Type: 206
+
+ProjectileName: Bala
+InternalName: ChlorophyteBullet
+ID-Type: 207
+
+ProjectileName: Papagaio
+InternalName: Parrot
+ID-Type: 208
+
+ProjectileName: Trufa
+InternalName: Truffle
+ID-Type: 209
+
+ProjectileName: Muda
+InternalName: Sapling
+ID-Type: 210
+
+ProjectileName: Luz Fantasma
+InternalName: Wisp
+ID-Type: 211
+
+ProjectileName: Pique de Paládio
+InternalName: PalladiumPike
+ID-Type: 212
+
+ProjectileName: Furadeira de Paládio
+InternalName: PalladiumDrill
+ID-Type: 213
+
+ProjectileName: Serra Elétrica de Paládio
+InternalName: PalladiumChainsaw
+ID-Type: 214
+
+ProjectileName: Alabarda de Oricalco
+InternalName: OrichalcumHalberd
+ID-Type: 215
+
+ProjectileName: Furadeira de Oricalco
+InternalName: OrichalcumDrill
+ID-Type: 216
+
+ProjectileName: Serra Elétrica de Oricalco
+InternalName: OrichalcumChainsaw
+ID-Type: 217
+
+ProjectileName: Tridente de Titânio
+InternalName: TitaniumTrident
+ID-Type: 218
+
+ProjectileName: Furadeira de Titânio
+InternalName: TitaniumDrill
+ID-Type: 219
+
+ProjectileName: Serra-elétrica de Titânio
+InternalName: TitaniumChainsaw
+ID-Type: 220
+
+ProjectileName: Pétala
+InternalName: FlowerPetal
+ID-Type: 221
+
+ProjectileName: Partisan de Clorofita
+InternalName: ChlorophytePartisan
+ID-Type: 222
+
+ProjectileName: Furadeira de Clorofita
+InternalName: ChlorophyteDrill
+ID-Type: 223
+
+ProjectileName: Serra-elétrica de Clorofita
+InternalName: ChlorophyteChainsaw
+ID-Type: 224
+
+ProjectileName: Flecha de Clorofita
+InternalName: ChlorophyteArrow
+ID-Type: 225
+
+ProjectileName: Folha de Cristal
+InternalName: CrystalLeaf
+ID-Type: 226
+
+ProjectileName: Folha de Cristal
+InternalName: CrystalLeafShot
+ID-Type: 227
+
+ProjectileName: Nuvem de Esporos
+InternalName: SporeCloud
+ID-Type: 228
+
+ProjectileName: Esfera de Clorofita
+InternalName: ChlorophyteOrb
+ID-Type: 229
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookAmethyst
+ID-Type: 230
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookTopaz
+ID-Type: 231
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookSapphire
+ID-Type: 232
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookEmerald
+ID-Type: 233
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookRuby
+ID-Type: 234
+
+ProjectileName: Gancho de Pedras Preciosas
+InternalName: GemHookDiamond
+ID-Type: 235
+
+ProjectileName: Filhote de Dinossauro
+InternalName: BabyDino
+ID-Type: 236
+
+ProjectileName: Nuvem de Chuva
+InternalName: RainCloudMoving
+ID-Type: 237
+
+ProjectileName: Nuvem de Chuva
+InternalName: RainCloudRaining
+ID-Type: 238
+
+ProjectileName: Chuva
+InternalName: RainFriendly
+ID-Type: 239
+
+ProjectileName: Bala de Canhão
+InternalName: CannonballHostile
+ID-Type: 240
+
+ProjectileName: Bola de Areia Vermelha
+InternalName: CrimsandBallFalling
+ID-Type: 241
+
+ProjectileName: Bala
+InternalName: BulletHighVelocity
+ID-Type: 242
+
+ProjectileName: Nuvem de Sangue
+InternalName: BloodCloudMoving
+ID-Type: 243
+
+ProjectileName: Nuvem de Sangue
+InternalName: BloodCloudRaining
+ID-Type: 244
+
+ProjectileName: Chuva de Sangue
+InternalName: BloodRain
+ID-Type: 245
+
+ProjectileName: Ferroada
+InternalName: Stynger
+ID-Type: 246
+
+ProjectileName: Poder das Flores
+InternalName: FlowerPow
+ID-Type: 247
+
+ProjectileName: Poder das Flores
+InternalName: FlowerPowPetal
+ID-Type: 248
+
+ProjectileName: Ferroada
+InternalName: StyngerShrapnel
+ID-Type: 249
+
+ProjectileName: Arco-íris
+InternalName: RainbowFront
+ID-Type: 250
+
+ProjectileName: Arco-íris
+InternalName: RainbowBack
+ID-Type: 251
+
+ProjectileName: Britadeira de Clorofita
+InternalName: ChlorophyteJackhammer
+ID-Type: 252
+
+ProjectileName: Bola Congelada
+InternalName: BallofFrost
+ID-Type: 253
+
+ProjectileName: Esfera Magnética
+InternalName: MagnetSphereBall
+ID-Type: 254
+
+ProjectileName: Esfera Magnética
+InternalName: MagnetSphereBolt
+ID-Type: 255
+
+ProjectileName: Mão de Esqueletron
+InternalName: SkeletronHand
+ID-Type: 256
+
+ProjectileName: Feixe Congelado
+InternalName: FrostBeam
+ID-Type: 257
+
+ProjectileName: Bola de Fogo
+InternalName: Fireball
+ID-Type: 258
+
+ProjectileName: Feixe de Olhos
+InternalName: EyeBeam
+ID-Type: 259
+
+ProjectileName: Raio de Calor
+InternalName: HeatRay
+ID-Type: 260
+
+ProjectileName: Rochedo
+InternalName: BoulderStaffOfEarth
+ID-Type: 261
+
+ProjectileName: Punho de Golem
+InternalName: GolemFist
+ID-Type: 262
+
+ProjectileName: Foice de Gelo
+InternalName: IceSickle
+ID-Type: 263
+
+ProjectileName: Chuva
+InternalName: RainNimbus
+ID-Type: 264
+
+ProjectileName: Presa Envenenada
+InternalName: PoisonFang
+ID-Type: 265
+
+ProjectileName: Bebê de Geleia
+InternalName: BabySlime
+ID-Type: 266
+
+ProjectileName: Dardo Envenenado
+InternalName: PoisonDartBlowgun
+ID-Type: 267
+
+ProjectileName: Olho com Mola
+InternalName: EyeSpring
+ID-Type: 268
+
+ProjectileName: Filhote de Boneco de Neve
+InternalName: BabySnowman
+ID-Type: 269
+
+ProjectileName: Caveira
+InternalName: Skull
+ID-Type: 270
+
+ProjectileName: Luva de Boxe
+InternalName: BoxingGlove
+ID-Type: 271
+
+ProjectileName: Bananarangue
+InternalName: Bananarang
+ID-Type: 272
+
+ProjectileName: Faca com Corrente
+InternalName: ChainKnife
+ID-Type: 273
+
+ProjectileName: Foice da Morte
+InternalName: DeathSickle
+ID-Type: 274
+
+ProjectileName: Semente
+InternalName: SeedPlantera
+ID-Type: 275
+
+ProjectileName: Semente Envenenada
+InternalName: PoisonSeedPlantera
+ID-Type: 276
+
+ProjectileName: Bola com Espinhos
+InternalName: ThornBall
+ID-Type: 277
+
+ProjectileName: Flecha de Ichor
+InternalName: IchorArrow
+ID-Type: 278
+
+ProjectileName: Projétil de Ichor
+InternalName: IchorBullet
+ID-Type: 279
+
+ProjectileName: Chuveiro Dourado
+InternalName: GoldenShowerFriendly
+ID-Type: 280
+
+ProjectileName: Coelhinho Explosivo
+InternalName: ExplosiveBunny
+ID-Type: 281
+
+ProjectileName: Flecha com Veneno
+InternalName: VenomArrow
+ID-Type: 282
+
+ProjectileName: Projétil com Veneno
+InternalName: VenomBullet
+ID-Type: 283
+
+ProjectileName: Projétil de Festa
+InternalName: PartyBullet
+ID-Type: 284
+
+ProjectileName: Nano-Projétil
+InternalName: NanoBullet
+ID-Type: 285
+
+ProjectileName: Projétil Explosiva
+InternalName: ExplosiveBullet
+ID-Type: 286
+
+ProjectileName: Projétil Dourado
+InternalName: GoldenBullet
+ID-Type: 287
+
+ProjectileName: Chuveiro Dourado
+InternalName: GoldenShowerHostile
+ID-Type: 288
+
+ProjectileName: Confetes
+InternalName: ConfettiMelee
+ID-Type: 289
+
+ProjectileName: Feixe das Sombras
+InternalName: ShadowBeamHostile
+ID-Type: 290
+
+ProjectileName: Inferno
+InternalName: InfernoHostileBolt
+ID-Type: 291
+
+ProjectileName: Inferno
+InternalName: InfernoHostileBlast
+ID-Type: 292
+
+ProjectileName: Alma Perdida
+InternalName: LostSoulHostile
+ID-Type: 293
+
+ProjectileName: Feixe das Sombras
+InternalName: ShadowBeamFriendly
+ID-Type: 294
+
+ProjectileName: Inferno
+InternalName: InfernoFriendlyBolt
+ID-Type: 295
+
+ProjectileName: Inferno
+InternalName: InfernoFriendlyBlast
+ID-Type: 296
+
+ProjectileName: Alma Perdida
+InternalName: LostSoulFriendly
+ID-Type: 297
+
+ProjectileName: Cura Espiritual
+InternalName: SpiritHeal
+ID-Type: 298
+
+ProjectileName: Chamas das Sombras
+InternalName: Shadowflames
+ID-Type: 299
+
+ProjectileName: Martelo do Paladino
+InternalName: PaladinsHammerHostile
+ID-Type: 300
+
+ProjectileName: Martelo do Paladino
+InternalName: PaladinsHammerFriendly
+ID-Type: 301
+
+ProjectileName: Projétil do Atirador
+InternalName: SniperBullet
+ID-Type: 302
+
+ProjectileName: Foguete
+InternalName: RocketSkeleton
+ID-Type: 303
+
+ProjectileName: Faca do Vampiro
+InternalName: VampireKnife
+ID-Type: 304
+
+ProjectileName: Cura do Vampiro
+InternalName: VampireHeal
+ID-Type: 305
+
+ProjectileName: Mordida do Devorador
+InternalName: EatersBite
+ID-Type: 306
+
+ProjectileName: Pequeno Devorador
+InternalName: TinyEater
+ID-Type: 307
+
+ProjectileName: Hidra Congelada
+InternalName: FrostHydra
+ID-Type: 308
+
+ProjectileName: Explosão Congelante
+InternalName: FrostBlastFriendly
+ID-Type: 309
+
+ProjectileName: Chama Azul
+InternalName: BlueFlare
+ID-Type: 310
+
+ProjectileName: Doces
+InternalName: CandyCorn
+ID-Type: 311
+
+ProjectileName: Abóbora do Dia das Bruxas
+InternalName: JackOLantern
+ID-Type: 312
+
+ProjectileName: Aranha
+InternalName: Spider
+ID-Type: 313
+
+ProjectileName: Abóbora
+InternalName: Squashling
+ID-Type: 314
+
+ProjectileName: Gancho de Morcego
+InternalName: BatHook
+ID-Type: 315
+
+ProjectileName: Morcego
+InternalName: Bat
+ID-Type: 316
+
+ProjectileName: Corvo
+InternalName: Raven
+ID-Type: 317
+
+ProjectileName: Ovo Podre
+InternalName: RottenEgg
+ID-Type: 318
+
+ProjectileName: Gato Preto
+InternalName: BlackCat
+ID-Type: 319
+
+ProjectileName: Machadinha Sangrenta
+InternalName: BloodyMachete
+ID-Type: 320
+
+ProjectileName: Abóbora Flamejante
+InternalName: FlamingJack
+ID-Type: 321
+
+ProjectileName: Gancho de Madeira
+InternalName: WoodHook
+ID-Type: 322
+
+ProjectileName: Estaca
+InternalName: Stake
+ID-Type: 323
+
+ProjectileName: Plantinha Amaldiçoada
+InternalName: CursedSapling
+ID-Type: 324
+
+ProjectileName: Madeira em Chamas
+InternalName: FlamingWood
+ID-Type: 325
+
+ProjectileName: Fogo Grego
+InternalName: GreekFire1
+ID-Type: 326
+
+ProjectileName: Fogo Grego
+InternalName: GreekFire2
+ID-Type: 327
+
+ProjectileName: Fogo Grego
+InternalName: GreekFire3
+ID-Type: 328
+
+ProjectileName: Foice em Chamas
+InternalName: FlamingScythe
+ID-Type: 329
+
+ProjectileName: Estrela Anise
+InternalName: StarAnise
+ID-Type: 330
+
+ProjectileName: Gancho de Doce
+InternalName: CandyCaneHook
+ID-Type: 331
+
+ProjectileName: Gancho de Natal
+InternalName: ChristmasHook
+ID-Type: 332
+
+ProjectileName: Chakram com Frutas Cristalizadas
+InternalName: FruitcakeChakram
+ID-Type: 333
+
+ProjectileName: Cachorrinho
+InternalName: Puppy
+ID-Type: 334
+
+ProjectileName: Ornamento
+InternalName: OrnamentFriendly
+ID-Type: 335
+
+ProjectileName: Agulha de Pinheiro
+InternalName: PineNeedleFriendly
+ID-Type: 336
+
+ProjectileName: Nevasca
+InternalName: Blizzard
+ID-Type: 337
+
+ProjectileName: Foguete
+InternalName: RocketSnowmanI
+ID-Type: 338
+
+ProjectileName: Foguete
+InternalName: RocketSnowmanII
+ID-Type: 339
+
+ProjectileName: Foguete
+InternalName: RocketSnowmanIII
+ID-Type: 340
+
+ProjectileName: Foguete
+InternalName: RocketSnowmanIV
+ID-Type: 341
+
+ProjectileName: Polo Norte
+InternalName: NorthPoleWeapon
+ID-Type: 342
+
+ProjectileName: Polo Norte
+InternalName: NorthPoleSpear
+ID-Type: 343
+
+ProjectileName: Polo Norte
+InternalName: NorthPoleSnowflake
+ID-Type: 344
+
+ProjectileName: Agulha de Pinheiro
+InternalName: PineNeedleHostile
+ID-Type: 345
+
+ProjectileName: Ornamento
+InternalName: OrnamentHostile
+ID-Type: 346
+
+ProjectileName: Ornamento
+InternalName: OrnamentHostileShrapnel
+ID-Type: 347
+
+ProjectileName: Onda de Gelo
+InternalName: FrostWave
+ID-Type: 348
+
+ProjectileName: Estilhaço Congelado
+InternalName: FrostShard
+ID-Type: 349
+
+ProjectileName: Míssil
+InternalName: Missile
+ID-Type: 350
+
+ProjectileName: Presente
+InternalName: Present
+ID-Type: 351
+
+ProjectileName: Espinho
+InternalName: Spike
+ID-Type: 352
+
+ProjectileName: Filhote de Grinch
+InternalName: BabyGrinch
+ID-Type: 353
+
+ProjectileName: Bola de Areia Vermelha
+InternalName: CrimsandBallGun
+ID-Type: 354
+
+ProjectileName: Presa com Veneno
+InternalName: VenomFang
+ID-Type: 355
+
+ProjectileName: Ira do Espectro
+InternalName: SpectreWrath
+ID-Type: 356
+
+ProjectileName: Raio de Pulso
+InternalName: PulseBolt
+ID-Type: 357
+
+ProjectileName: Arma d'água
+InternalName: WaterGun
+ID-Type: 358
+
+ProjectileName: Raio Congelado
+InternalName: FrostBoltStaff
+ID-Type: 359
+
+ProjectileName: Isca Flutuante
+InternalName: BobberWooden
+ID-Type: 360
+
+ProjectileName: Isca Flutuante
+InternalName: BobberReinforced
+ID-Type: 361
+
+ProjectileName: Isca Flutuante
+InternalName: BobberFiberglass
+ID-Type: 362
+
+ProjectileName: Isca Flutuante
+InternalName: BobberFisherOfSouls
+ID-Type: 363
+
+ProjectileName: Isca Flutuante
+InternalName: BobberGolden
+ID-Type: 364
+
+ProjectileName: Isca Flutuante
+InternalName: BobberMechanics
+ID-Type: 365
+
+ProjectileName: Isca Flutuante
+InternalName: BobbersittingDuck
+ID-Type: 366
+
+ProjectileName: Peixe-Espada de Obsidiana
+InternalName: ObsidianSwordfish
+ID-Type: 367
+
+ProjectileName: Peixe-Espada
+InternalName: Swordfish
+ID-Type: 368
+
+ProjectileName: Tubarão de Dentes Serrados
+InternalName: SawtoothShark
+ID-Type: 369
+
+ProjectileName: Poção do Amor
+InternalName: LovePotion
+ID-Type: 370
+
+ProjectileName: Poção Terrível
+InternalName: FoulPotion
+ID-Type: 371
+
+ProjectileName: Anzol para Peixes
+InternalName: FishHook
+ID-Type: 372
+
+ProjectileName: Vespa
+InternalName: Hornet
+ID-Type: 373
+
+ProjectileName: Ferroada de Vespa
+InternalName: HornetStinger
+ID-Type: 374
+
+ProjectileName: Demônio Voador
+InternalName: FlyingImp
+ID-Type: 375
+
+ProjectileName: Bola de Fogo de Demônio
+InternalName: ImpFireball
+ID-Type: 376
+
+ProjectileName: Torreão Aranha
+InternalName: SpiderHiver
+ID-Type: 377
+
+ProjectileName: Ovo de Aranha
+InternalName: SpiderEgg
+ID-Type: 378
+
+ProjectileName: Filhote de Aranha
+InternalName: BabySpider
+ID-Type: 379
+
+ProjectileName: Peixe do Zéfiro
+InternalName: ZephyrFish
+ID-Type: 380
+
+ProjectileName: Isca Flutuante
+InternalName: BobberFleshcatcher
+ID-Type: 381
+
+ProjectileName: Isca Flutuante
+InternalName: BobberHotline
+ID-Type: 382
+
+ProjectileName: Âncora
+InternalName: Anchor
+ID-Type: 383
+
+ProjectileName: Tornado de Tubarões
+InternalName: Sharknado
+ID-Type: 384
+
+ProjectileName: Raio do Tornado de Tubarões
+InternalName: SharknadoBolt
+ID-Type: 385
+
+ProjectileName: Cthulunado
+InternalName: Cthulunado
+ID-Type: 386
+
+ProjectileName: Retanimini
+InternalName: Retanimini
+ID-Type: 387
+
+ProjectileName: Spazmamini
+InternalName: Spazmamini
+ID-Type: 388
+
+ProjectileName: Mini-Laser Retina
+InternalName: MiniRetinaLaser
+ID-Type: 389
+
+ProjectileName: Aranha Venenosa
+InternalName: VenomSpider
+ID-Type: 390
+
+ProjectileName: Aranha Saltitante
+InternalName: JumperSpider
+ID-Type: 391
+
+ProjectileName: Aranha Perigosa
+InternalName: DangerousSpider
+ID-Type: 392
+
+ProjectileName: Pirata de Um Olho Só
+InternalName: OneEyedPirate
+ID-Type: 393
+
+ProjectileName: Pirata Atormentador de Almas
+InternalName: SoulscourgePirate
+ID-Type: 394
+
+ProjectileName: Capitão Pirata
+InternalName: PirateCaptain
+ID-Type: 395
+
+ProjectileName: Gancho de Geleia
+InternalName: SlimeHook
+ID-Type: 396
+
+ProjectileName: Granada Adesiva
+InternalName: StickyGrenade
+ID-Type: 397
+
+ProjectileName: Mini-Minotauro
+InternalName: MiniMinotaur
+ID-Type: 398
+
+ProjectileName: Coquetel Molotov
+InternalName: MolotovCocktail
+ID-Type: 399
+
+ProjectileName: Fogo Molotov
+InternalName: MolotovFire
+ID-Type: 400
+
+ProjectileName: Fogo Molotov
+InternalName: MolotovFire2
+ID-Type: 401
+
+ProjectileName: Fogo Molotov
+InternalName: MolotovFire3
+ID-Type: 402
+
+ProjectileName: Gancho de Trilho
+InternalName: TrackHook
+ID-Type: 403
+
+ProjectileName: Mangual-Dragão
+InternalName: Flairon
+ID-Type: 404
+
+ProjectileName: Bolha do Mangual-Dragão
+InternalName: FlaironBubble
+ID-Type: 405
+
+ProjectileName: Arma de Geleia
+InternalName: SlimeGun
+ID-Type: 406
+
+ProjectileName: Tempestade
+InternalName: Tempest
+ID-Type: 407
+
+ProjectileName: Mini Tubarão-Dragão
+InternalName: MiniSharkron
+ID-Type: 408
+
+ProjectileName: Tufão
+InternalName: Typhoon
+ID-Type: 409
+
+ProjectileName: Bolha
+InternalName: Bubble
+ID-Type: 410
+
+ProjectileName: Moedas de Cobre
+InternalName: CopperCoinsFalling
+ID-Type: 411
+
+ProjectileName: Moedas de Prata
+InternalName: SilverCoinsFalling
+ID-Type: 412
+
+ProjectileName: Moedas de Ouro
+InternalName: GoldCoinsFalling
+ID-Type: 413
+
+ProjectileName: Moedas de Platina
+InternalName: PlatinumCoinsFalling
+ID-Type: 414
+
+ProjectileName: Foguete
+InternalName: RocketFireworksBoxRed
+ID-Type: 415
+
+ProjectileName: Foguete
+InternalName: RocketFireworksBoxGreen
+ID-Type: 416
+
+ProjectileName: Foguete
+InternalName: RocketFireworksBoxBlue
+ID-Type: 417
+
+ProjectileName: Foguete
+InternalName: RocketFireworksBoxYellow
+ID-Type: 418
+
+ProjectileName: Fonte de Fogos de Artifício
+InternalName: FireworkFountainYellow
+ID-Type: 419
+
+ProjectileName: Fonte de Fogos de Artifício
+InternalName: FireworkFountainRed
+ID-Type: 420
+
+ProjectileName: Fonte de Fogos de Artifício
+InternalName: FireworkFountainBlue
+ID-Type: 421
+
+ProjectileName: Fonte de Fogos de Artifício
+InternalName: FireworkFountainRainbow
+ID-Type: 422
+
+ProjectileName: OVNI
+InternalName: UFOMinion
+ID-Type: 423
+
+ProjectileName: Meteoro
+InternalName: Meteor1
+ID-Type: 424
+
+ProjectileName: Meteoro
+InternalName: Meteor2
+ID-Type: 425
+
+ProjectileName: Meteoro
+InternalName: Meteor3
+ID-Type: 426
+
+ProjectileName: Serra-elétrica do Vórtice
+InternalName: VortexChainsaw
+ID-Type: 427
+
+ProjectileName: Furadeira do Vórtice
+InternalName: VortexDrill
+ID-Type: 428
+
+ProjectileName: Serra-elétrica de Nébula
+InternalName: NebulaChainsaw
+ID-Type: 429
+
+ProjectileName: Furadeira de Nébula
+InternalName: NebulaDrill
+ID-Type: 430
+
+ProjectileName: Serra-elétrica das Chamas do Sol
+InternalName: SolarFlareChainsaw
+ID-Type: 431
+
+ProjectileName: Furadeira das Chamas do Sol
+InternalName: SolarFlareDrill
+ID-Type: 432
+
+ProjectileName: Raio do OVNI
+InternalName: UFOLaser
+ID-Type: 433
+
+ProjectileName: Laser do Scutlix
+InternalName: ScutlixLaserFriendly
+ID-Type: 434
+
+ProjectileName: Raio Elétrico
+InternalName: MartianTurretBolt
+ID-Type: 435
+
+ProjectileName: Raio Embaralhador de Cérebro
+InternalName: BrainScramblerBolt
+ID-Type: 436
+
+ProjectileName: Ponta-de-Lança Gigaelétrica
+InternalName: GigaZapperSpear
+ID-Type: 437
+
+ProjectileName: Raio Laser
+InternalName: RayGunnerLaser
+ID-Type: 438
+
+ProjectileName: Metralhadora Laser
+InternalName: LaserMachinegun
+ID-Type: 439
+
+ProjectileName: Laser
+InternalName: LaserMachinegunLaser
+ID-Type: 440
+
+ProjectileName: Mira do Scutlix
+InternalName: ScutlixLaserCrosshair
+ID-Type: 441
+
+ProjectileName: Míssil de Eletroesfera
+InternalName: ElectrosphereMissile
+ID-Type: 442
+
+ProjectileName: Eletroesfera
+InternalName: Electrosphere
+ID-Type: 443
+
+ProjectileName: Xenopopper
+InternalName: Xenopopper
+ID-Type: 444
+
+ProjectileName: Furadeira Laser
+InternalName: LaserDrill
+ID-Type: 445
+
+ProjectileName: Gancho Antigravitacional
+InternalName: AntiGravityHook
+ID-Type: 446
+
+ProjectileName: Raio da Morte de Marte
+InternalName: SaucerDeathray
+ID-Type: 447
+
+ProjectileName: Foguete de Marte
+InternalName: SaucerMissile
+ID-Type: 448
+
+ProjectileName: Laser do Disco Voador
+InternalName: SaucerLaser
+ID-Type: 449
+
+ProjectileName: Sucata de Disco Voador
+InternalName: SaucerScrap
+ID-Type: 450
+
+ProjectileName: Ondulador de Fluxo
+InternalName: InfluxWaver
+ID-Type: 451
+
+ProjectileName: Olho Fantasmagórico
+InternalName: PhantasmalEye
+ID-Type: 452
+
+ProjectileName: Mira da Furadeira
+InternalName: DrillMountCrosshair
+ID-Type: 453
+
+ProjectileName: Esfera Fantasmagórica
+InternalName: PhantasmalSphere
+ID-Type: 454
+
+ProjectileName: Raio da Morte Fantasmagórico
+InternalName: PhantasmalDeathray
+ID-Type: 455
+
+ProjectileName: Sanguessuga da Lua
+InternalName: MoonLeech
+ID-Type: 456
+
+ProjectileName: Unknown_Projectile_457
+InternalName: PhasicWarpEjector
+ID-Type: 457
+
+ProjectileName: Unknown_Projectile_458
+InternalName: PhasicWarpDisc
+ID-Type: 458
+
+ProjectileName: Esfera Detonadora Carregada
+InternalName: ChargedBlasterOrb
+ID-Type: 459
+
+ProjectileName: Canhão Detonador Carregado
+InternalName: ChargedBlasterCannon
+ID-Type: 460
+
+ProjectileName: Laser Detonador Carregado
+InternalName: ChargedBlasterLaser
+ID-Type: 461
+
+ProjectileName: Raio Fantasmagórico
+InternalName: PhantasmalBolt
+ID-Type: 462
+
+ProjectileName: Pó Terrível
+InternalName: ViciousPowder
+ID-Type: 463
+
+ProjectileName: Névoa de Gelo
+InternalName: CultistBossIceMist
+ID-Type: 464
+
+ProjectileName: Esfera Relâmpago
+InternalName: CultistBossLightningOrb
+ID-Type: 465
+
+ProjectileName: Arco de Esfera Relâmpago
+InternalName: CultistBossLightningOrbArc
+ID-Type: 466
+
+ProjectileName: Bola de Fogo
+InternalName: CultistBossFireBall
+ID-Type: 467
+
+ProjectileName: Bola de Fogo de Sombra
+InternalName: CultistBossFireBallClone
+ID-Type: 468
+
+ProjectileName: Flecha de Abelha
+InternalName: BeeArrow
+ID-Type: 469
+
+ProjectileName: Dinamite Adesiva
+InternalName: StickyDynamite
+ID-Type: 470
+
+ProjectileName: Osso
+InternalName: SkeletonBone
+ID-Type: 471
+
+ProjectileName: Cusparada de Teia
+InternalName: WebSpit
+ID-Type: 472
+
+ProjectileName: Bastão Luminoso do Espeleólogo
+InternalName: SpelunkerGlowstick
+ID-Type: 473
+
+ProjectileName: Flecha de Osso
+InternalName: BoneArrowFromMerchant
+ID-Type: 474
+
+ProjectileName: Rolo de Corda de Vinha
+InternalName: VineRopeCoil
+ID-Type: 475
+
+ProjectileName: Drenagem da Vida
+InternalName: SoulDrain
+ID-Type: 476
+
+ProjectileName: Dardo de Cristal
+InternalName: CrystalDart
+ID-Type: 477
+
+ProjectileName: Dardo Amaldiçoado
+InternalName: CursedDart
+ID-Type: 478
+
+ProjectileName: Dardo de Ichor
+InternalName: IchorDart
+ID-Type: 479
+
+ProjectileName: Chama Amaldiçoada
+InternalName: CursedDartFlame
+ID-Type: 480
+
+ProjectileName: Guilhotina com Corrente
+InternalName: ChainGuillotine
+ID-Type: 481
+
+ProjectileName: Chamas Amaldiçoadas
+InternalName: ClingerStaff
+ID-Type: 482
+
+ProjectileName: Espada Espinho
+InternalName: SeedlerNut
+ID-Type: 483
+
+ProjectileName: Espada Espinho
+InternalName: SeedlerThorn
+ID-Type: 484
+
+ProjectileName: Asa do Inferno
+InternalName: Hellwing
+ID-Type: 485
+
+ProjectileName: Gancho
+InternalName: TendonHook
+ID-Type: 486
+
+ProjectileName: Gancho
+InternalName: ThornHook
+ID-Type: 487
+
+ProjectileName: Gancho
+InternalName: IlluminantHook
+ID-Type: 488
+
+ProjectileName: Gancho
+InternalName: WormHook
+ID-Type: 489
+
+ProjectileName: Ritual do Relâmpago
+InternalName: CultistRitual
+ID-Type: 490
+
+ProjectileName: Faca Voadora
+InternalName: FlyingKnife
+ID-Type: 491
+
+ProjectileName: Lanterna Mágica
+InternalName: MagicLantern
+ID-Type: 492
+
+ProjectileName: Fragmento de Cristal Infame
+InternalName: CrystalVileShardHead
+ID-Type: 493
+
+ProjectileName: Fragmento de Cristal Infame
+InternalName: CrystalVileShardShaft
+ID-Type: 494
+
+ProjectileName: Flecha das Chamas das Sombras
+InternalName: ShadowFlameArrow
+ID-Type: 495
+
+ProjectileName: Chamas das Sombras
+InternalName: ShadowFlame
+ID-Type: 496
+
+ProjectileName: Faca das Chamas das Sombras
+InternalName: ShadowFlameKnife
+ID-Type: 497
+
+ProjectileName: Prego
+InternalName: Nail
+ID-Type: 498
+
+ProjectileName: Monstro Cara de Bebê
+InternalName: BabyFaceMonster
+ID-Type: 499
+
+ProjectileName: Coração de Carmesim
+InternalName: CrimsonHeart
+ID-Type: 500
+
+ProjectileName: Frasco
+InternalName: DrManFlyFlask
+ID-Type: 501
+
+ProjectileName: Espada-Gato
+InternalName: Meowmere
+ID-Type: 502
+
+ProjectileName: Ira das Estrelas
+InternalName: StarWrath
+ID-Type: 503
+
+ProjectileName: Faísca
+InternalName: Spark
+ID-Type: 504
+
+ProjectileName: Rolo de Corda
+InternalName: SilkRopeCoil
+ID-Type: 505
+
+ProjectileName: Rolo de Corda
+InternalName: WebRopeCoil
+ID-Type: 506
+
+ProjectileName: Dardo
+InternalName: JavelinFriendly
+ID-Type: 507
+
+ProjectileName: Dardo
+InternalName: JavelinHostile
+ID-Type: 508
+
+ProjectileName: Serra-elétrica do Açougueiro
+InternalName: ButchersChainsaw
+ID-Type: 509
+
+ProjectileName: Frasco Tóxico
+InternalName: ToxicFlask
+ID-Type: 510
+
+ProjectileName: Nuvem Tóxica
+InternalName: ToxicCloud
+ID-Type: 511
+
+ProjectileName: Nuvem Tóxica
+InternalName: ToxicCloud2
+ID-Type: 512
+
+ProjectileName: Nuvem Tóxica
+InternalName: ToxicCloud3
+ID-Type: 513
+
+ProjectileName: Prego
+InternalName: NailFriendly
+ID-Type: 514
+
+ProjectileName: Bastão Luminoso Saltitante
+InternalName: BouncyGlowstick
+ID-Type: 515
+
+ProjectileName: Bomba Saltitante
+InternalName: BouncyBomb
+ID-Type: 516
+
+ProjectileName: Granada Saltitante
+InternalName: BouncyGrenade
+ID-Type: 517
+
+ProjectileName: Portal de Moedas
+InternalName: CoinPortal
+ID-Type: 518
+
+ProjectileName: Peixe Bomba
+InternalName: BombFish
+ID-Type: 519
+
+ProjectileName: Peixe-Adaga Congelado
+InternalName: FrostDaggerfish
+ID-Type: 520
+
+ProjectileName: Carga de Cristal
+InternalName: CrystalPulse
+ID-Type: 521
+
+ProjectileName: Carga de Cristal
+InternalName: CrystalPulse2
+ID-Type: 522
+
+ProjectileName: Bolha Tóxica
+InternalName: ToxicBubble
+ID-Type: 523
+
+ProjectileName: Respingo de Ichor
+InternalName: IchorSplash
+ID-Type: 524
+
+ProjectileName: Porquinho Voador
+InternalName: FlyingPiggyBank
+ID-Type: 525
+
+ProjectileName: Energia
+InternalName: CultistBossParticle
+ID-Type: 526
+
+ProjectileName: Lápide
+InternalName: RichGravestone1
+ID-Type: 527
+
+ProjectileName: Lápide
+InternalName: RichGravestone2
+ID-Type: 528
+
+ProjectileName: Lápide
+InternalName: RichGravestone3
+ID-Type: 529
+
+ProjectileName: Lápide
+InternalName: RichGravestone4
+ID-Type: 530
+
+ProjectileName: Lápide
+InternalName: RichGravestone5
+ID-Type: 531
+
+ProjectileName: XBOsso
+InternalName: BoneGloveProj
+ID-Type: 532
+
+ProjectileName: Esfera Mortal
+InternalName: DeadlySphere
+ID-Type: 533
+
+ProjectileName: Ioiô
+InternalName: Code1
+ID-Type: 534
+
+ProjectileName: Raio da Medusa
+InternalName: MedusaHead
+ID-Type: 535
+
+ProjectileName: Raio da Medusa
+InternalName: MedusaHeadRay
+ID-Type: 536
+
+ProjectileName: Laser de Pó das Estrelas
+InternalName: StardustSoldierLaser
+ID-Type: 537
+
+ProjectileName: Brilho
+InternalName: Twinkle
+ID-Type: 538
+
+ProjectileName: Invasor de Fluxo
+InternalName: StardustJellyfishSmall
+ID-Type: 539
+
+ProjectileName: Marca das Estrelas
+InternalName: StardustTowerMark
+ID-Type: 540
+
+ProjectileName: Ioiô
+InternalName: WoodYoyo
+ID-Type: 541
+
+ProjectileName: Ioiô
+InternalName: CorruptYoyo
+ID-Type: 542
+
+ProjectileName: Ioiô
+InternalName: CrimsonYoyo
+ID-Type: 543
+
+ProjectileName: Ioiô
+InternalName: JungleYoyo
+ID-Type: 544
+
+ProjectileName: Ioiô
+InternalName: Cascade
+ID-Type: 545
+
+ProjectileName: Ioiô
+InternalName: Chik
+ID-Type: 546
+
+ProjectileName: Ioiô
+InternalName: Code2
+ID-Type: 547
+
+ProjectileName: Ioiô
+InternalName: Rally
+ID-Type: 548
+
+ProjectileName: Ioiô
+InternalName: Yelets
+ID-Type: 549
+
+ProjectileName: Ioiô
+InternalName: RedsYoyo
+ID-Type: 550
+
+ProjectileName: Ioiô
+InternalName: ValkyrieYoyo
+ID-Type: 551
+
+ProjectileName: Ioiô
+InternalName: Amarok
+ID-Type: 552
+
+ProjectileName: Ioiô
+InternalName: HelFire
+ID-Type: 553
+
+ProjectileName: Ioiô
+InternalName: Kraken
+ID-Type: 554
+
+ProjectileName: Ioiô
+InternalName: TheEyeOfCthulhu
+ID-Type: 555
+
+ProjectileName: Contrapeso
+InternalName: BlackCounterweight
+ID-Type: 556
+
+ProjectileName: Contrapeso
+InternalName: BlueCounterweight
+ID-Type: 557
+
+ProjectileName: Contrapeso
+InternalName: GreenCounterweight
+ID-Type: 558
+
+ProjectileName: Contrapeso
+InternalName: PurpleCounterweight
+ID-Type: 559
+
+ProjectileName: Contrapeso
+InternalName: RedCounterweight
+ID-Type: 560
+
+ProjectileName: Contrapeso
+InternalName: YellowCounterweight
+ID-Type: 561
+
+ProjectileName: Ioiô
+InternalName: FormatC
+ID-Type: 562
+
+ProjectileName: Ioiô
+InternalName: Gradient
+ID-Type: 563
+
+ProjectileName: Ioiô
+InternalName: Valor
+ID-Type: 564
+
+ProjectileName: Cérebro da Confusão
+InternalName: BrainOfConfusion
+ID-Type: 565
+
+ProjectileName: Abelha
+InternalName: GiantBee
+ID-Type: 566
+
+ProjectileName: Esporo
+InternalName: SporeTrap
+ID-Type: 567
+
+ProjectileName: Esporo
+InternalName: SporeTrap2
+ID-Type: 568
+
+ProjectileName: Esporo
+InternalName: SporeGas
+ID-Type: 569
+
+ProjectileName: Esporo
+InternalName: SporeGas2
+ID-Type: 570
+
+ProjectileName: Esporo
+InternalName: SporeGas3
+ID-Type: 571
+
+ProjectileName: Cusparada de Veneno
+InternalName: SalamanderSpit
+ID-Type: 572
+
+ProjectileName: Perfuratriz de Nébula
+InternalName: NebulaBolt
+ID-Type: 573
+
+ProjectileName: Olho de Nébula
+InternalName: NebulaEye
+ID-Type: 574
+
+ProjectileName: Esfera de Nébula
+InternalName: NebulaSphere
+ID-Type: 575
+
+ProjectileName: Laser de Nébula
+InternalName: NebulaLaser
+ID-Type: 576
+
+ProjectileName: Laser do Vórtice
+InternalName: VortexLaser
+ID-Type: 577
+
+ProjectileName: Vórtice
+InternalName: VortexVortexLightning
+ID-Type: 578
+
+ProjectileName: Vórtice
+InternalName: VortexVortexPortal
+ID-Type: 579
+
+ProjectileName: Relâmpago do Vórtice
+InternalName: VortexLightning
+ID-Type: 580
+
+ProjectileName: Meleca Alienígena
+InternalName: VortexAcid
+ID-Type: 581
+
+ProjectileName: Ferramenta da Mecânica
+InternalName: MechanicWrench
+ID-Type: 582
+
+ProjectileName: Seringa
+InternalName: NurseSyringeHurt
+ID-Type: 583
+
+ProjectileName: Seringa
+InternalName: NurseSyringeHeal
+ID-Type: 584
+
+ProjectileName: Caveira
+InternalName: ClothiersCurse
+ID-Type: 585
+
+ProjectileName: Proteção da Dríade
+InternalName: DryadsWardCircle
+ID-Type: 586
+
+ProjectileName: Paintball
+InternalName: PainterPaintball
+ID-Type: 587
+
+ProjectileName: Granada de Confetes
+InternalName: PartyGirlGrenade
+ID-Type: 588
+
+ProjectileName: Decoração de Natal
+InternalName: SantaBombs
+ID-Type: 589
+
+ProjectileName: Esporo da Trufa
+InternalName: TruffleSpore
+ID-Type: 590
+
+ProjectileName: Laser da Vagoneta
+InternalName: MinecartMechLaser
+ID-Type: 591
+
+ProjectileName: Raio Laser
+InternalName: MartianWalkerLaser
+ID-Type: 592
+
+ProjectileName: Fim da Profecia
+InternalName: AncientDoomProjectile
+ID-Type: 593
+
+ProjectileName: Fumaça de Explosão
+InternalName: BlowupSmoke
+ID-Type: 594
+
+ProjectileName: Arkhalis
+InternalName: Arkhalis
+ID-Type: 595
+
+ProjectileName: Maldição do Espírito do Deserto
+InternalName: DesertDjinnCurse
+ID-Type: 596
+
+ProjectileName: Raio de Âmbar
+InternalName: AmberBolt
+ID-Type: 597
+
+ProjectileName: Lança de Osso
+InternalName: BoneJavelin
+ID-Type: 598
+
+ProjectileName: Adaga de Osso
+InternalName: BoneDagger
+ID-Type: 599
+
+ProjectileName: Pistola do Portal
+InternalName: PortalGun
+ID-Type: 600
+
+ProjectileName: Raio do Portal
+InternalName: PortalGunBolt
+ID-Type: 601
+
+ProjectileName: Entrada do Portal
+InternalName: PortalGunGate
+ID-Type: 602
+
+ProjectileName: Terrariano
+InternalName: Terrarian
+ID-Type: 603
+
+ProjectileName: Terrariano
+InternalName: TerrarianBeam
+ID-Type: 604
+
+ProjectileName: Lança da Geleia
+InternalName: SpikedSlimeSpike
+ID-Type: 605
+
+ProjectileName: Laser
+InternalName: ScutlixLaser
+ID-Type: 606
+
+ProjectileName: Chamas do Sol
+InternalName: SolarFlareRay
+ID-Type: 607
+
+ProjectileName: Resplendor Solar
+InternalName: SolarCounter
+ID-Type: 608
+
+ProjectileName: Furadeira de Pó das Estrelas
+InternalName: StardustDrill
+ID-Type: 609
+
+ProjectileName: Serra-elétrica de Pó das Estrelas
+InternalName: StardustChainsaw
+ID-Type: 610
+
+ProjectileName: Erupção Solar
+InternalName: SolarWhipSword
+ID-Type: 611
+
+ProjectileName: Explosão Solar
+InternalName: SolarWhipSwordExplosion
+ID-Type: 612
+
+ProjectileName: Célula de Pó das Estrelas
+InternalName: StardustCellMinion
+ID-Type: 613
+
+ProjectileName: Célula de Pó das Estrelas
+InternalName: StardustCellMinionShot
+ID-Type: 614
+
+ProjectileName: Espingarda do Vórtice
+InternalName: VortexBeater
+ID-Type: 615
+
+ProjectileName: Foguete do Vórtice
+InternalName: VortexBeaterRocket
+ID-Type: 616
+
+ProjectileName: Arcano de Nébula
+InternalName: NebulaArcanum
+ID-Type: 617
+
+ProjectileName: Arcano de Nébula
+InternalName: NebulaArcanumSubshot
+ID-Type: 618
+
+ProjectileName: Arcano de Nébula
+InternalName: NebulaArcanumExplosionShot
+ID-Type: 619
+
+ProjectileName: Arcano de Nébula
+InternalName: NebulaArcanumExplosionShotShard
+ID-Type: 620
+
+ProjectileName: Água de Sangue
+InternalName: BloodWater
+ID-Type: 621
+
+ProjectileName: Fumaça de Explosão
+InternalName: BlowupSmokeMoonlord
+ID-Type: 622
+
+ProjectileName: Guardião de Pó das Estrelas
+InternalName: StardustGuardian
+ID-Type: 623
+
+ProjectileName: Explosão das Estrelas
+InternalName: StardustGuardianExplosion
+ID-Type: 624
+
+ProjectileName: Dragão de Pó das Estrelas
+InternalName: StardustDragon1
+ID-Type: 625
+
+ProjectileName: Dragão de Pó das Estrelas
+InternalName: StardustDragon2
+ID-Type: 626
+
+ProjectileName: Dragão de Pó das Estrelas
+InternalName: StardustDragon3
+ID-Type: 627
+
+ProjectileName: Dragão de Pó das Estrelas
+InternalName: StardustDragon4
+ID-Type: 628
+
+ProjectileName: Energia Liberada
+InternalName: TowerDamageBolt
+ID-Type: 629
+
+ProjectileName: Fantasma
+InternalName: Phantasm
+ID-Type: 630
+
+ProjectileName: Fantasma
+InternalName: PhantasmArrow
+ID-Type: 631
+
+ProjectileName: Último Prisma
+InternalName: LastPrismLaser
+ID-Type: 632
+
+ProjectileName: Último Prisma
+InternalName: LastPrism
+ID-Type: 633
+
+ProjectileName: Chama de Nébula
+InternalName: NebulaBlaze1
+ID-Type: 634
+
+ProjectileName: Chama de Nébula X
+InternalName: NebulaBlaze2
+ID-Type: 635
+
+ProjectileName: Nascer do Sol
+InternalName: Daybreak
+ID-Type: 636
+
+ProjectileName: Dinamite Saltitante
+InternalName: BouncyDynamite
+ID-Type: 637
+
+ProjectileName: Projétil de Luminita
+InternalName: MoonlordBullet
+ID-Type: 638
+
+ProjectileName: Flecha de Luminita
+InternalName: MoonlordArrow
+ID-Type: 639
+
+ProjectileName: Flecha de Luminita
+InternalName: MoonlordArrowTrail
+ID-Type: 640
+
+ProjectileName: Portal da Lua
+InternalName: MoonlordTurret
+ID-Type: 641
+
+ProjectileName: Laser do Portal da Lua
+InternalName: MoonlordTurretLaser
+ID-Type: 642
+
+ProjectileName: Cristal Arco-íris
+InternalName: RainbowCrystal
+ID-Type: 643
+
+ProjectileName: Explosão Arco-íris
+InternalName: RainbowCrystalExplosion
+ID-Type: 644
+
+ProjectileName: Chamas da Lua
+InternalName: LunarFlare
+ID-Type: 645
+
+ProjectileName: Gancho da Lua
+InternalName: LunarHookSolar
+ID-Type: 646
+
+ProjectileName: Gancho da Lua
+InternalName: LunarHookVortex
+ID-Type: 647
+
+ProjectileName: Gancho da Lua
+InternalName: LunarHookNebula
+ID-Type: 648
+
+ProjectileName: Gancho da Lua
+InternalName: LunarHookStardust
+ID-Type: 649
+
+ProjectileName: Tentáculo Suspeito
+InternalName: SuspiciousTentacle
+ID-Type: 650
+
+ProjectileName: Kit de Cabos
+InternalName: WireKite
+ID-Type: 651
+
+ProjectileName: Gancho Estático
+InternalName: StaticHook
+ID-Type: 652
+
+ProjectileName: Cubo Companheiro
+InternalName: CompanionCube
+ID-Type: 653
+
+ProjectileName: Gêiser
+InternalName: GeyserTrap
+ID-Type: 654
+
+ProjectileName: Colmeia
+InternalName: BeeHive
+ID-Type: 655
+
+ProjectileName: Tempestade Antiga
+InternalName: SandnadoFriendly
+ID-Type: 656
+
+ProjectileName: Tempestade Antiga
+InternalName: SandnadoHostile
+ID-Type: 657
+
+ProjectileName: Tempestade Antiga
+InternalName: SandnadoHostileMark
+ID-Type: 658
+
+ProjectileName: Chamas Espirituais
+InternalName: SpiritFlame
+ID-Type: 659
+
+ProjectileName: Fratura do Céu
+InternalName: SkyFracture
+ID-Type: 660
+
+ProjectileName: Detonador de Ônix
+InternalName: BlackBolt
+ID-Type: 661
+
+ProjectileName: Dardo
+InternalName: DD2JavelinHostile
+ID-Type: 662
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT1
+ID-Type: 663
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT1Shot
+ID-Type: 664
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT2
+ID-Type: 665
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT2Shot
+ID-Type: 666
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT3
+ID-Type: 667
+
+ProjectileName: Torre das Chamas Explosivas
+InternalName: DD2FlameBurstTowerT3Shot
+ID-Type: 668
+
+ProjectileName: Cerveja
+InternalName: Ale
+ID-Type: 669
+
+ProjectileName: Pisada do Ogro
+InternalName: DD2OgreStomp
+ID-Type: 670
+
+ProjectileName: Drakin
+InternalName: DD2DrakinShot
+ID-Type: 671
+
+ProjectileName: Triste Fim
+InternalName: DD2ElderWins
+ID-Type: 672
+
+ProjectileName: Símbolo Sombrio
+InternalName: DD2DarkMageRaise
+ID-Type: 673
+
+ProjectileName: Símbolo Sombrio
+InternalName: DD2DarkMageHeal
+ID-Type: 674
+
+ProjectileName: Energia Sombria
+InternalName: DD2DarkMageBolt
+ID-Type: 675
+
+ProjectileName: Cusparada do Ogro
+InternalName: DD2OgreSpit
+ID-Type: 676
+
+ProjectileName: Balista
+InternalName: DD2BallistraTowerT1
+ID-Type: 677
+
+ProjectileName: Balista
+InternalName: DD2BallistraTowerT2
+ID-Type: 678
+
+ProjectileName: Balista
+InternalName: DD2BallistraTowerT3
+ID-Type: 679
+
+ProjectileName: Balista
+InternalName: DD2BallistraProj
+ID-Type: 680
+
+ProjectileName: Bomba dos Goblins
+InternalName: DD2GoblinBomb
+ID-Type: 681
+
+ProjectileName: Raio da Definha
+InternalName: DD2LightningBugZap
+ID-Type: 682
+
+ProjectileName: Pisada do Ogro
+InternalName: DD2OgreSmash
+ID-Type: 683
+
+ProjectileName: Corte Poderoso
+InternalName: DD2SquireSonicBoom
+ID-Type: 684
+
+ProjectileName: Dardo
+InternalName: DD2JavelinHostileT3
+ID-Type: 685
+
+ProjectileName: Bola de Fogo de Betsy
+InternalName: DD2BetsyFireball
+ID-Type: 686
+
+ProjectileName: Sopro de Betsy
+InternalName: DD2BetsyFlameBreath
+ID-Type: 687
+
+ProjectileName: Aura de Relâmpagos
+InternalName: DD2LightningAuraT1
+ID-Type: 688
+
+ProjectileName: Aura de Relâmpagos
+InternalName: DD2LightningAuraT2
+ID-Type: 689
+
+ProjectileName: Aura de Relâmpagos
+InternalName: DD2LightningAuraT3
+ID-Type: 690
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT1
+ID-Type: 691
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT2
+ID-Type: 692
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT3
+ID-Type: 693
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT1Explosion
+ID-Type: 694
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT2Explosion
+ID-Type: 695
+
+ProjectileName: Armadilha Explosiva
+InternalName: DD2ExplosiveTrapT3Explosion
+ID-Type: 696
+
+ProjectileName: Octopod Sonolento
+InternalName: MonkStaffT1
+ID-Type: 697
+
+ProjectileName: Golpe com Vara
+InternalName: MonkStaffT1Explosion
+ID-Type: 698
+
+ProjectileName: Gládio Terrível
+InternalName: MonkStaffT2
+ID-Type: 699
+
+ProjectileName: Phantasma
+InternalName: MonkStaffT2Ghast
+ID-Type: 700
+
+ProjectileName: Coleciodragão
+InternalName: DD2PetDragon
+ID-Type: 701
+
+ProjectileName: Velinha
+InternalName: DD2PetGhost
+ID-Type: 702
+
+ProjectileName: Gato de Hélices
+InternalName: DD2PetGato
+ID-Type: 703
+
+ProjectileName: Redemoinho da Sabedoria Infinita
+InternalName: DD2ApprenticeStorm
+ID-Type: 704
+
+ProjectileName: Fantasma da Fênix
+InternalName: DD2PhoenixBow
+ID-Type: 705
+
+ProjectileName: Fantasma da Fênix
+InternalName: DD2PhoenixBowShot
+ID-Type: 706
+
+ProjectileName: Fúria do Dragão Celeste
+InternalName: MonkStaffT3
+ID-Type: 707
+
+ProjectileName: Fúria do Dragão Celeste
+InternalName: MonkStaffT3_Alt
+ID-Type: 708
+
+ProjectileName: Fúria do Dragão Celeste
+InternalName: MonkStaffT3_AltShot
+ID-Type: 709
+
+ProjectileName: Maldição Aérea
+InternalName: DD2BetsyArrow
+ID-Type: 710
+
+ProjectileName: Ira de Betsy
+InternalName: ApprenticeStaffT3Shot
+ID-Type: 711
+
+ProjectileName: Tomo da Sabedoria Infinita
+InternalName: BookStaffShot
+ID-Type: 712
+
+ProjectileName: Vitória!
+InternalName: DD2Win
+ID-Type: 713
+
+ProjectileName: Comemoração v.2
+InternalName: Celeb2Weapon
+ID-Type: 714
+
+ProjectileName: Comemoração v.2
+InternalName: Celeb2Rocket
+ID-Type: 715
+
+ProjectileName: Comemoração v.2
+InternalName: Celeb2RocketExplosive
+ID-Type: 716
+
+ProjectileName: Comemoração v.2
+InternalName: Celeb2RocketLarge
+ID-Type: 717
+
+ProjectileName: ProjectileName.Celeb2RocketExplosiveLarge
+InternalName: Celeb2RocketExplosiveLarge
+ID-Type: 718
+
+ProjectileName: Ferrão da Abelha Rainha
+InternalName: QueenBeeStinger
+ID-Type: 719
+
+ProjectileName: Estrela Cadente
+InternalName: FallingStarSpawner
+ID-Type: 720
+
+ProjectileName: Bola de Golfe
+InternalName: DirtGolfBall
+ID-Type: 721
+
+ProjectileName: Taco de Golfe
+InternalName: GolfClubHelper
+ID-Type: 722
+
+ProjectileName: Capa de Mana
+InternalName: ManaCloakStar
+ID-Type: 723
+
+ProjectileName: Manto de Abelhas
+InternalName: BeeCloakStar
+ID-Type: 724
+
+ProjectileName: Véu das Estrelas
+InternalName: StarVeilStar
+ID-Type: 725
+
+ProjectileName: Manto das Estrelas
+InternalName: StarCloakStar
+ID-Type: 726
+
+ProjectileName: Cacto Rolante
+InternalName: RollingCactus
+ID-Type: 727
+
+ProjectileName: Estrela Supercanhão
+InternalName: SuperStar
+ID-Type: 728
+
+ProjectileName: Estrela Supercanhão
+InternalName: SuperStarSlash
+ID-Type: 729
+
+ProjectileName: Lança da Tempestade
+InternalName: ThunderSpear
+ID-Type: 730
+
+ProjectileName: Lança-Relâmpago
+InternalName: ThunderStaffShot
+ID-Type: 731
+
+ProjectileName: Lança da Tempestade
+InternalName: ThunderSpearShot
+ID-Type: 732
+
+ProjectileName: ProjectileName.ToiletEffect
+InternalName: ToiletEffect
+ID-Type: 733
+
+ProjectileName: ProjectileName.VoidLens
+InternalName: VoidLens
+ID-Type: 734
+
+ProjectileName: Terragrim
+InternalName: Terragrim
+ID-Type: 735
+
+ProjectileName: Destroços
+InternalName: BlueDungeonDebris
+ID-Type: 736
+
+ProjectileName: Destroços
+InternalName: GreenDungeonDebris
+ID-Type: 737
+
+ProjectileName: Destroços
+InternalName: PinkDungeonDebris
+ID-Type: 738
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedBlack
+ID-Type: 739
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedBlue
+ID-Type: 740
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedBrown
+ID-Type: 741
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedCyan
+ID-Type: 742
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedGreen
+ID-Type: 743
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedLimeGreen
+ID-Type: 744
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedOrange
+ID-Type: 745
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedPink
+ID-Type: 746
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedPurple
+ID-Type: 747
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedRed
+ID-Type: 748
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedSkyBlue
+ID-Type: 749
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedTeal
+ID-Type: 750
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedViolet
+ID-Type: 751
+
+ProjectileName: Bola de Golfe
+InternalName: GolfBallDyedYellow
+ID-Type: 752
+
+ProjectileName: ProjectileName.AmberHook
+InternalName: AmberHook
+ID-Type: 753
+
+ProjectileName: ProjectileName.MysticSnakeCoil
+InternalName: MysticSnakeCoil
+ID-Type: 754
+
+ProjectileName: Morcego Carmesim
+InternalName: BatOfLight
+ID-Type: 755
+
+ProjectileName: Espinho Sangrento
+InternalName: SharpTears
+ID-Type: 756
+
+ProjectileName: Mutilador do Drippler
+InternalName: DripplerFlail
+ID-Type: 757
+
+ProjectileName: Sapo Vampiro
+InternalName: VampireFrog
+ID-Type: 758
+
+ProjectileName: Canário
+InternalName: BabyBird
+ID-Type: 759
+
+ProjectileName: ProjectileName.BobberBloody
+InternalName: BobberBloody
+ID-Type: 760
+
+ProjectileName: Aviãozinho de Papel
+InternalName: PaperAirplaneA
+ID-Type: 761
+
+ProjectileName: Aviãozinho de Papel
+InternalName: PaperAirplaneB
+ID-Type: 762
+
+ProjectileName: Espinho de Cacto Rolante
+InternalName: RollingCactusSpike
+ID-Type: 763
+
+ProjectileName: ProjectileName.UpbeatStar
+InternalName: UpbeatStar
+ID-Type: 764
+
+ProjectileName: ProjectileName.SugarGlider
+InternalName: SugarGlider
+ID-Type: 765
+
+ProjectileName: ProjectileName.KiteBlue
+InternalName: KiteBlue
+ID-Type: 766
+
+ProjectileName: ProjectileName.KiteBlueAndYellow
+InternalName: KiteBlueAndYellow
+ID-Type: 767
+
+ProjectileName: ProjectileName.KiteRed
+InternalName: KiteRed
+ID-Type: 768
+
+ProjectileName: ProjectileName.KiteRedAndYellow
+InternalName: KiteRedAndYellow
+ID-Type: 769
+
+ProjectileName: ProjectileName.KiteYellow
+InternalName: KiteYellow
+ID-Type: 770
+
+ProjectileName: ProjectileName.KiteWyvern
+InternalName: KiteWyvern
+ID-Type: 771
+
+ProjectileName: ProjectileName.Geode
+InternalName: Geode
+ID-Type: 772
+
+ProjectileName: Bomba do Escaravelho
+InternalName: ScarabBomb
+ID-Type: 773
+
+ProjectileName: Filhote de Tubarão
+InternalName: SharkPup
+ID-Type: 774
+
+ProjectileName: ProjectileName.BobberScarab
+InternalName: BobberScarab
+ID-Type: 775
+
+ProjectileName: Foguete
+InternalName: ClusterRocketI
+ID-Type: 776
+
+ProjectileName: Granada
+InternalName: ClusterGrenadeI
+ID-Type: 777
+
+ProjectileName: Minas de Proximidade
+InternalName: ClusterMineI
+ID-Type: 778
+
+ProjectileName: Fragmento de Foguete
+InternalName: ClusterFragmentsI
+ID-Type: 779
+
+ProjectileName: Foguete
+InternalName: ClusterRocketII
+ID-Type: 780
+
+ProjectileName: Granada
+InternalName: ClusterGrenadeII
+ID-Type: 781
+
+ProjectileName: Minas de Proximidade
+InternalName: ClusterMineII
+ID-Type: 782
+
+ProjectileName: Fragmento de Foguete
+InternalName: ClusterFragmentsII
+ID-Type: 783
+
+ProjectileName: Foguete
+InternalName: WetRocket
+ID-Type: 784
+
+ProjectileName: Granada
+InternalName: WetGrenade
+ID-Type: 785
+
+ProjectileName: Minas de Proximidade
+InternalName: WetMine
+ID-Type: 786
+
+ProjectileName: Foguete
+InternalName: LavaRocket
+ID-Type: 787
+
+ProjectileName: Granada
+InternalName: LavaGrenade
+ID-Type: 788
+
+ProjectileName: Minas de Proximidade
+InternalName: LavaMine
+ID-Type: 789
+
+ProjectileName: Foguete
+InternalName: HoneyRocket
+ID-Type: 790
+
+ProjectileName: Granada
+InternalName: HoneyGrenade
+ID-Type: 791
+
+ProjectileName: Minas de Proximidade
+InternalName: HoneyMine
+ID-Type: 792
+
+ProjectileName: Foguete
+InternalName: MiniNukeRocketI
+ID-Type: 793
+
+ProjectileName: Granada
+InternalName: MiniNukeGrenadeI
+ID-Type: 794
+
+ProjectileName: Minas de Proximidade
+InternalName: MiniNukeMineI
+ID-Type: 795
+
+ProjectileName: Foguete
+InternalName: MiniNukeRocketII
+ID-Type: 796
+
+ProjectileName: Granada
+InternalName: MiniNukeGrenadeII
+ID-Type: 797
+
+ProjectileName: Minas de Proximidade
+InternalName: MiniNukeMineII
+ID-Type: 798
+
+ProjectileName: Foguete
+InternalName: DryRocket
+ID-Type: 799
+
+ProjectileName: Granada
+InternalName: DryGrenade
+ID-Type: 800
+
+ProjectileName: Minas de Proximidade
+InternalName: DryMine
+ID-Type: 801
+
+ProjectileName: Gládio
+InternalName: GladiusStab
+ID-Type: 802
+
+ProjectileName: Foguete
+InternalName: ClusterSnowmanRocketI
+ID-Type: 803
+
+ProjectileName: Foguete
+InternalName: ClusterSnowmanRocketII
+ID-Type: 804
+
+ProjectileName: Foguete
+InternalName: WetSnowmanRocket
+ID-Type: 805
+
+ProjectileName: Foguete
+InternalName: LavaSnowmanRocket
+ID-Type: 806
+
+ProjectileName: Foguete
+InternalName: HoneySnowmanRocket
+ID-Type: 807
+
+ProjectileName: Foguete
+InternalName: MiniNukeSnowmanRocketI
+ID-Type: 808
+
+ProjectileName: Foguete
+InternalName: MiniNukeSnowmanRocketII
+ID-Type: 809
+
+ProjectileName: Foguete
+InternalName: DrySnowmanRocket
+ID-Type: 810
+
+ProjectileName: Projétil Sangrento
+InternalName: BloodShot
+ID-Type: 811
+
+ProjectileName: Monte de Conchas
+InternalName: ShellPileFalling
+ID-Type: 812
+
+ProjectileName: Lágrimas de Sangue
+InternalName: BloodNautilusTears
+ID-Type: 813
+
+ProjectileName: Projétil Sangrento
+InternalName: BloodNautilusShot
+ID-Type: 814
+
+ProjectileName: Harpinha
+InternalName: LilHarpy
+ID-Type: 815
+
+ProjectileName: Feneco
+InternalName: FennecFox
+ID-Type: 816
+
+ProjectileName: Borboleta Brilhante
+InternalName: GlitteryButterfly
+ID-Type: 817
+
+ProjectileName: Tigre do Deserto
+InternalName: WhiteTigerPounce
+ID-Type: 818
+
+ProjectileName: Chuva de Sangue
+InternalName: BloodArrow
+ID-Type: 819
+
+ProjectileName: ProjectileName.ChumBucket
+InternalName: ChumBucket
+ID-Type: 820
+
+ProjectileName: ProjectileName.BabyImp
+InternalName: BabyImp
+ID-Type: 821
+
+ProjectileName: ProjectileName.KiteBoneSerpent
+InternalName: KiteBoneSerpent
+ID-Type: 822
+
+ProjectileName: ProjectileName.KiteWorldFeeder
+InternalName: KiteWorldFeeder
+ID-Type: 823
+
+ProjectileName: ProjectileName.KiteBunny
+InternalName: KiteBunny
+ID-Type: 824
+
+ProjectileName: ProjectileName.BabyRedPanda
+InternalName: BabyRedPanda
+ID-Type: 825
+
+ProjectileName: ProjectileName.KitePigron
+InternalName: KitePigron
+ID-Type: 826
+
+ProjectileName: ProjectileName.KiteManEater
+InternalName: KiteManEater
+ID-Type: 827
+
+ProjectileName: ProjectileName.KiteJellyfishBlue
+InternalName: KiteJellyfishBlue
+ID-Type: 828
+
+ProjectileName: ProjectileName.KiteJellyfishPink
+InternalName: KiteJellyfishPink
+ID-Type: 829
+
+ProjectileName: ProjectileName.KiteShark
+InternalName: KiteShark
+ID-Type: 830
+
+ProjectileName: Tigre do Deserto
+InternalName: StormTigerGem
+ID-Type: 831
+
+ProjectileName: Tigre do Deserto
+InternalName: StormTigerAttack
+ID-Type: 832
+
+ProjectileName: Tigre do Deserto
+InternalName: StormTigerTier1
+ID-Type: 833
+
+ProjectileName: Tigre do Deserto
+InternalName: StormTigerTier2
+ID-Type: 834
+
+ProjectileName: Tigre do Deserto
+InternalName: StormTigerTier3
+ID-Type: 835
+
+ProjectileName: Semente de Dente-de-leão
+InternalName: DandelionSeed
+ID-Type: 836
+
+ProjectileName: Caveira
+InternalName: BookOfSkullsSkull
+ID-Type: 837
+
+ProjectileName: ProjectileName.KiteSandShark
+InternalName: KiteSandShark
+ID-Type: 838
+
+ProjectileName: ProjectileName.KiteBunnyCorrupt
+InternalName: KiteBunnyCorrupt
+ID-Type: 839
+
+ProjectileName: ProjectileName.KiteBunnyCrimson
+InternalName: KiteBunnyCrimson
+ID-Type: 840
+
+ProjectileName: Chicote de Couro
+InternalName: BlandWhip
+ID-Type: 841
+
+ProjectileName: Régua
+InternalName: RulerStab
+ID-Type: 842
+
+ProjectileName: ProjectileName.KiteGoldfish
+InternalName: KiteGoldfish
+ID-Type: 843
+
+ProjectileName: ProjectileName.KiteAngryTrapper
+InternalName: KiteAngryTrapper
+ID-Type: 844
+
+ProjectileName: ProjectileName.KiteKoi
+InternalName: KiteKoi
+ID-Type: 845
+
+ProjectileName: ProjectileName.KiteCrawltipede
+InternalName: KiteCrawltipede
+ID-Type: 846
+
+ProjectileName: Durindana
+InternalName: SwordWhip
+ID-Type: 847
+
+ProjectileName: Mangual
+InternalName: MaceWhip
+ID-Type: 848
+
+ProjectileName: Colheita Maldita
+InternalName: ScytheWhip
+ID-Type: 849
+
+ProjectileName: ProjectileName.KiteSpectrum
+InternalName: KiteSpectrum
+ID-Type: 850
+
+ProjectileName: ProjectileName.ReleaseDoves
+InternalName: ReleaseDoves
+ID-Type: 851
+
+ProjectileName: ProjectileName.KiteWanderingEye
+InternalName: KiteWanderingEye
+ID-Type: 852
+
+ProjectileName: ProjectileName.KiteUnicorn
+InternalName: KiteUnicorn
+ID-Type: 853
+
+ProjectileName: ProjectileName.Plantero
+InternalName: Plantero
+ID-Type: 854
+
+ProjectileName: ProjectileName.ReleaseLantern
+InternalName: ReleaseLantern
+ID-Type: 855
+
+ProjectileName: Tom Estelar
+InternalName: SparkleGuitar
+ID-Type: 856
+
+ProjectileName: Fractal Primordial
+InternalName: FirstFractal
+ID-Type: 857
+
+ProjectileName: Gatinho Dinamite
+InternalName: DynamiteKitten
+ID-Type: 858
+
+ProjectileName: Filhote de Lobisomem
+InternalName: BabyWerewolf
+ID-Type: 859
+
+ProjectileName: Mímico das Sombras
+InternalName: ShadowMimic
+ID-Type: 860
+
+ProjectileName: ProjectileName.Football
+InternalName: Football
+ID-Type: 861
+
+ProjectileName: Fragmento de Foguete
+InternalName: ClusterSnowmanFragmentsI
+ID-Type: 862
+
+ProjectileName: Fragmento de Foguete
+InternalName: ClusterSnowmanFragmentsII
+ID-Type: 863
+
+ProjectileName: Adaga Enfeitiçada
+InternalName: Smolstar
+ID-Type: 864
+
+ProjectileName: ProjectileName.SquirrelHook
+InternalName: SquirrelHook
+ID-Type: 865
+
+ProjectileName: Escudo do Sargento Unido
+InternalName: BouncingShield
+ID-Type: 866
+
+ProjectileName: Cogumelorangue
+InternalName: Shroomerang
+ID-Type: 867
+
+ProjectileName: ProjectileName.TreeGlobe
+InternalName: TreeGlobe
+ID-Type: 868
+
+ProjectileName: ProjectileName.WorldGlobe
+InternalName: WorldGlobe
+ID-Type: 869
+
+ProjectileName: Bastão Luminoso das Fadas
+InternalName: FairyGlowstick
+ID-Type: 870
+
+ProjectileName: ProjectileName.HallowBossSplitShotCore
+InternalName: HallowBossSplitShotCore
+ID-Type: 871
+
+ProjectileName: Arco-íris Perene
+InternalName: HallowBossLastingRainbow
+ID-Type: 872
+
+ProjectileName: Disparo Prismático
+InternalName: HallowBossRainbowStreak
+ID-Type: 873
+
+ProjectileName: ProjectileName.HallowBossDeathAurora
+InternalName: HallowBossDeathAurora
+ID-Type: 874
+
+ProjectileName: Coelhinho Pilhado
+InternalName: VoltBunny
+ID-Type: 875
+
+ProjectileName: Zapinador
+InternalName: ZapinatorLaser
+ID-Type: 876
+
+ProjectileName: Lança de Justa
+InternalName: JoustingLance
+ID-Type: 877
+
+ProjectileName: Lança de Justa das Sombras
+InternalName: ShadowJoustingLance
+ID-Type: 878
+
+ProjectileName: Lança de Justa Consagrada
+InternalName: HallowJoustingLance
+ID-Type: 879
+
+ProjectileName: ProjectileName.ZoologistStrikeGreen
+InternalName: ZoologistStrikeGreen
+ID-Type: 880
+
+ProjectileName: ProjectileName.KingSlimePet
+InternalName: KingSlimePet
+ID-Type: 881
+
+ProjectileName: ProjectileName.EyeOfCthulhuPet
+InternalName: EyeOfCthulhuPet
+ID-Type: 882
+
+ProjectileName: ProjectileName.EaterOfWorldsPet
+InternalName: EaterOfWorldsPet
+ID-Type: 883
+
+ProjectileName: ProjectileName.BrainOfCthulhuPet
+InternalName: BrainOfCthulhuPet
+ID-Type: 884
+
+ProjectileName: ProjectileName.SkeletronPet
+InternalName: SkeletronPet
+ID-Type: 885
+
+ProjectileName: ProjectileName.QueenBeePet
+InternalName: QueenBeePet
+ID-Type: 886
+
+ProjectileName: ProjectileName.DestroyerPet
+InternalName: DestroyerPet
+ID-Type: 887
+
+ProjectileName: ProjectileName.TwinsPet
+InternalName: TwinsPet
+ID-Type: 888
+
+ProjectileName: ProjectileName.SkeletronPrimePet
+InternalName: SkeletronPrimePet
+ID-Type: 889
+
+ProjectileName: ProjectileName.PlanteraPet
+InternalName: PlanteraPet
+ID-Type: 890
+
+ProjectileName: ProjectileName.GolemPet
+InternalName: GolemPet
+ID-Type: 891
+
+ProjectileName: ProjectileName.DukeFishronPet
+InternalName: DukeFishronPet
+ID-Type: 892
+
+ProjectileName: ProjectileName.LunaticCultistPet
+InternalName: LunaticCultistPet
+ID-Type: 893
+
+ProjectileName: ProjectileName.MoonLordPet
+InternalName: MoonLordPet
+ID-Type: 894
+
+ProjectileName: ProjectileName.FairyQueenPet
+InternalName: FairyQueenPet
+ID-Type: 895
+
+ProjectileName: ProjectileName.PumpkingPet
+InternalName: PumpkingPet
+ID-Type: 896
+
+ProjectileName: ProjectileName.EverscreamPet
+InternalName: EverscreamPet
+ID-Type: 897
+
+ProjectileName: ProjectileName.IceQueenPet
+InternalName: IceQueenPet
+ID-Type: 898
+
+ProjectileName: ProjectileName.MartianPet
+InternalName: MartianPet
+ID-Type: 899
+
+ProjectileName: ProjectileName.DD2OgrePet
+InternalName: DD2OgrePet
+ID-Type: 900
+
+ProjectileName: ProjectileName.DD2BetsyPet
+InternalName: DD2BetsyPet
+ID-Type: 901
+
+ProjectileName: Chave Inglesa de Combate
+InternalName: CombatWrench
+ID-Type: 902
+
+ProjectileName: Bomba Molhada
+InternalName: WetBomb
+ID-Type: 903
+
+ProjectileName: Bomba de Lava
+InternalName: LavaBomb
+ID-Type: 904
+
+ProjectileName: Bomba de Mel
+InternalName: HoneyBomb
+ID-Type: 905
+
+ProjectileName: Bomba Seca
+InternalName: DryBomb
+ID-Type: 906
+
+ProjectileName: Ornamento
+InternalName: OrnamentStar
+ID-Type: 907
+
+ProjectileName: Fragmento de Titânio
+InternalName: TitaniumStormShard
+ID-Type: 908
+
+ProjectileName: Pedra
+InternalName: RockGolemRock
+ID-Type: 909
+
+ProjectileName: Bomba de Terra
+InternalName: DirtBomb
+ID-Type: 910
+
+ProjectileName: Bomba de Terra Adesiva
+InternalName: DirtStickyBomb
+ID-Type: 911
+
+ProjectileName: Chicote Gelado
+InternalName: CoolWhip
+ID-Type: 912
+
+ProjectileName: Estalinho
+InternalName: FireWhip
+ID-Type: 913
+
+ProjectileName: Chicotespinho
+InternalName: ThornWhip
+ID-Type: 914
+
+ProjectileName: Caleidoscópio
+InternalName: RainbowWhip
+ID-Type: 915
+
+ProjectileName: Ceifa
+InternalName: ScytheWhipProj
+ID-Type: 916
+
+ProjectileName: Floco Gelado
+InternalName: CoolWhipProj
+ID-Type: 917
+
+ProjectileName: Estalinho
+InternalName: FireWhipProj
+ID-Type: 918
+
+ProjectileName: Lança Etérea
+InternalName: FairyQueenLance
+ID-Type: 919
+
+ProjectileName: Espinho de Cristal
+InternalName: QueenSlimeMinionBlueSpike
+ID-Type: 920
+
+ProjectileName: Gel Saltitante
+InternalName: QueenSlimeMinionPinkBall
+ID-Type: 921
+
+ProjectileName: Ataque da Rainha
+InternalName: QueenSlimeSmash
+ID-Type: 922
+
+ProjectileName: Dança do Sol
+InternalName: FairyQueenSunDance
+ID-Type: 923
+
+ProjectileName: ProjectileName.FairyQueenHymn
+InternalName: FairyQueenHymn
+ID-Type: 924
+
+ProjectileName: Guardião de Pó das Estrelas
+InternalName: StardustPunch
+ID-Type: 925
+
+ProjectileName: Gel da Realeza
+InternalName: QueenSlimeGelAttack
+ID-Type: 926
+
+ProjectileName: Estrelinha
+InternalName: PiercingStarlight
+ID-Type: 927
+
+ProjectileName: Mutilador do Drippler
+InternalName: DripplerFlailExtraBall
+ID-Type: 928
+
+ProjectileName: ProjectileName.ZoologistStrikeRed
+InternalName: ZoologistStrikeRed
+ID-Type: 929
+
+ProjectileName: Foguete
+InternalName: SantankMountRocket
+ID-Type: 930
+
+ProjectileName: Brilho Noturno
+InternalName: FairyQueenMagicItemShot
+ID-Type: 931
+
+ProjectileName: Lança do Crepúsculo
+InternalName: FairyQueenRangedItemShot
+ID-Type: 932
+
+ProjectileName: Zênite
+InternalName: FinalFractal
+ID-Type: 933
+
+ProjectileName: ProjectileName.QueenSlimePet
+InternalName: QueenSlimePet
+ID-Type: 934
+
+ProjectileName: ProjectileName.QueenSlimeHook
+InternalName: QueenSlimeHook
+ID-Type: 935
+
+ProjectileName: Balão da Geleia Brilhante
+InternalName: GelBalloon
+ID-Type: 936
+
+ProjectileName: Gelatina Volátil
+InternalName: VolatileGelatinBall
+ID-Type: 937
+
+ProjectileName: Espada Curta de Cobre
+InternalName: CopperShortswordStab
+ID-Type: 938
+
+ProjectileName: Espada Curta de Estanho
+InternalName: TinShortswordStab
+ID-Type: 939
+
+ProjectileName: Espada Curta de Ferro
+InternalName: IronShortswordStab
+ID-Type: 940
+
+ProjectileName: Espada Curta de Chumbo
+InternalName: LeadShortswordStab
+ID-Type: 941
+
+ProjectileName: Espada Curta de Prata
+InternalName: SilverShortswordStab
+ID-Type: 942
+
+ProjectileName: Espada Curta de Tungstênio
+InternalName: TungstenShortswordStab
+ID-Type: 943
+
+ProjectileName: Espada Curta de Ouro
+InternalName: GoldShortswordStab
+ID-Type: 944
+
+ProjectileName: Espada Curta de Platina
+InternalName: PlatinumShortswordStab
+ID-Type: 945
+
+ProjectileName: Terraprisma
+InternalName: EmpressBlade
+ID-Type: 946
+
+ProjectileName: Maça
+InternalName: Mace
+ID-Type: 947
+
+ProjectileName: Maça Flamejante
+InternalName: FlamingMace
+ID-Type: 948
+
+ProjectileName: O Deus da Tocha
+InternalName: TorchGod
+ID-Type: 949
+
+ProjectileName: Ressonância Real
+InternalName: PrincessWeapon
+ID-Type: 950
+
+ProjectileName: Flinx
+InternalName: FlinxMinion
+ID-Type: 951
+
+ProjectileName: Punção Lombar
+InternalName: BoneWhip
+ID-Type: 952
+
+ProjectileName: Explosão Solar
+InternalName: DaybreakExplosion
+ID-Type: 953
+
+ProjectileName: Faísca
+InternalName: WandOfSparkingSpark
+ID-Type: 954
+
+ProjectileName: Estrela Cadente
+InternalName: StarCannonStar
+ID-Type: 955
+
+ProjectileName: ProjectileName.BerniePet
+InternalName: BerniePet
+ID-Type: 956
+
+ProjectileName: ProjectileName.GlommerPet
+InternalName: GlommerPet
+ID-Type: 957
+
+ProjectileName: ProjectileName.DeerclopsPet
+InternalName: DeerclopsPet
+ID-Type: 958
+
+ProjectileName: ProjectileName.PigPet
+InternalName: PigPet
+ID-Type: 959
+
+ProjectileName: ProjectileName.ChesterPet
+InternalName: ChesterPet
+ID-Type: 960
+
+ProjectileName: Espeto de Gelo
+InternalName: DeerclopsIceSpike
+ID-Type: 961
+
+ProjectileName: Destroços
+InternalName: DeerclopsRangedProjectile
+ID-Type: 962
+
+ProjectileName: Abigail
+InternalName: AbigailMinion
+ID-Type: 963
+
+ProjectileName: Mão das Sombras
+InternalName: InsanityShadowFriendly
+ID-Type: 964
+
+ProjectileName: Mão das Sombras
+InternalName: InsanityShadowHostile
+ID-Type: 965
+
+ProjectileName: Dispparus Perseguiddorus
+InternalName: HoundiusShootius
+ID-Type: 966
+
+ProjectileName: Dispparus Perseguiddorus
+InternalName: HoundiusShootiusFireball
+ID-Type: 967
+
+ProjectileName: Troço Pou-Mático
+InternalName: PewMaticHornShot
+ID-Type: 968
+
+ProjectileName: Tornadoloroso
+InternalName: WeatherPainShot
+ID-Type: 969
+
+ProjectileName: ProjectileName.AbigailCounter
+InternalName: AbigailCounter
+ID-Type: 970
+
+ProjectileName: Espinho de Tentáculo
+InternalName: TentacleSpike
+ID-Type: 971
+
+ProjectileName: Lâmina da Noite
+InternalName: NightsEdge
+ID-Type: 972
+
+ProjectileName: Verdadeira Lâmina da Noite
+InternalName: TrueNightsEdge
+ID-Type: 973
+
+ProjectileName: Destruidor da Luz
+InternalName: LightsBane
+ID-Type: 974
+
+ProjectileName: Açougueiro Sangrento
+InternalName: BloodButcherer
+ID-Type: 975
+
+ProjectileName: Lâmina da Folha
+InternalName: BladeOfGrass
+ID-Type: 976
+
+ProjectileName: Muramasa
+InternalName: Muramasa
+ID-Type: 977
+
+ProjectileName: Vulcão
+InternalName: Volcano
+ID-Type: 978
+
+ProjectileName: Geada
+InternalName: WandOfFrostingFrost
+ID-Type: 979
+
+ProjectileName: Dardo Peçonhento
+InternalName: VenomDartTrap
+ID-Type: 980
+
+ProjectileName: Bala
+InternalName: SilverBullet
+ID-Type: 981
+
+ProjectileName: Excalibur
+InternalName: Excalibur
+ID-Type: 982
+
+ProjectileName: Verdadeira Excalibur
+InternalName: TrueExcalibur
+ID-Type: 983
+
+ProjectileName: Lâmina da Terra
+InternalName: TerraBlade2
+ID-Type: 984
+
+ProjectileName: Feixe da Terra
+InternalName: TerraBlade2Shot
+ID-Type: 985
+
+ProjectileName: ProjectileName.FishingBobber
+InternalName: FishingBobber
+ID-Type: 986
+
+ProjectileName: ProjectileName.FishingBobberGlowingStar
+InternalName: FishingBobberGlowingStar
+ID-Type: 987
+
+ProjectileName: ProjectileName.FishingBobberGlowingLava
+InternalName: FishingBobberGlowingLava
+ID-Type: 988
+
+ProjectileName: ProjectileName.FishingBobberGlowingKrypton
+InternalName: FishingBobberGlowingKrypton
+ID-Type: 989
+
+ProjectileName: ProjectileName.FishingBobberGlowingXenon
+InternalName: FishingBobberGlowingXenon
+ID-Type: 990
+
+ProjectileName: ProjectileName.FishingBobberGlowingArgon
+InternalName: FishingBobberGlowingArgon
+ID-Type: 991
+
+ProjectileName: ProjectileName.FishingBobberGlowingViolet
+InternalName: FishingBobberGlowingViolet
+ID-Type: 992
+
+ProjectileName: ProjectileName.FishingBobberGlowingRainbow
+InternalName: FishingBobberGlowingRainbow
+ID-Type: 993
+
+ProjectileName: ProjectileName.JunimoPet
+InternalName: JunimoPet
+ID-Type: 994
+
+ProjectileName: ProjectileName.JuminoStardropAnimation
+InternalName: JuminoStardropAnimation
+ID-Type: 995
+
+ProjectileName: ProjectileName.MoonGlobe
+InternalName: MoonGlobe
+ID-Type: 996
+
+ProjectileName: Lâmina do Cavaleiro
+InternalName: TheHorsemansBlade
+ID-Type: 997
+
+ProjectileName: ProjectileName.BlueChickenPet
+InternalName: BlueChickenPet
+ID-Type: 998
+
+ProjectileName: Cincolmeia
+InternalName: HiveFive
+ID-Type: 999
+
+ProjectileName: Trimerangue
+InternalName: Trimarang
+ID-Type: 1000
+
+ProjectileName: Cabeça de Abóbora
+InternalName: HorsemanPumpkin
+ID-Type: 1001
+
+ProjectileName: Barril de TNT
+InternalName: TNTBarrel
+ID-Type: 1002
+
+ProjectileName: ProjectileName.Spiffo
+InternalName: Spiffo
+ID-Type: 1003
+
+ProjectileName: ProjectileName.CavelingGardener
+InternalName: CavelingGardener
+ID-Type: 1004
+
+ProjectileName: Rochedo
+InternalName: MiniBoulder
+ID-Type: 1005
+
+ProjectileName: Flecha Brilhante
+InternalName: ShimmerArrow
+ID-Type: 1006
+
+ProjectileName: Armadilha de Gás
+InternalName: GasTrap
+ID-Type: 1007
+
+ProjectileName: Sinalizador Espeleólogo
+InternalName: SpelunkerFlare
+ID-Type: 1008
+
+ProjectileName: Sinalizador Amaldiçoado
+InternalName: CursedFlare
+ID-Type: 1009
+
+ProjectileName: Sinalizador Arco-íris
+InternalName: RainbowFlare
+ID-Type: 1010
+
+ProjectileName: Sinalizador Brilhante
+InternalName: ShimmerFlare
+ID-Type: 1011
+
+ProjectileName: Waffle
+InternalName: Waffle
+ID-Type: 1012
+
+ProjectileName: Rochedo Saltitante
+InternalName: BouncyBoulder
+ID-Type: 1013
+
+ProjectileName: Rochedo de Cristal da Vida
+InternalName: LifeCrystalBoulder
+ID-Type: 1014
+
+ProjectileName: ProjectileName.SandSpray
+InternalName: SandSpray
+ID-Type: 1015
+
+ProjectileName: ProjectileName.SnowSpray
+InternalName: SnowSpray
+ID-Type: 1016
+
+ProjectileName: ProjectileName.DirtSpray
+InternalName: DirtSpray
+ID-Type: 1017
+
+ProjectileName: ProjectileName.DirtiestBlock
+InternalName: DirtiestBlock
+ID-Type: 1018
+
+ProjectileName: ProjectileName.Fertilizer
+InternalName: Fertilizer
+ID-Type: 1019
+
+ProjectileName: ProjectileName.JimsDrone
+InternalName: JimsDrone
+ID-Type: 1020
+
+ProjectileName: Rochedo Lunar
+InternalName: MoonBoulder
+ID-Type: 1021
+
+ProjectileName: Unknown_Projectile_1022
+InternalName: Count
+ID-Type: 1022
+

@@ -1,0 +1,2082 @@
+InternalName: Dirt
+ID-Type: 0
+
+InternalName: Stone
+ID-Type: 1
+
+InternalName: Grass
+ID-Type: 2
+
+InternalName: Plants
+ID-Type: 3
+
+InternalName: Torches
+ID-Type: 4
+
+InternalName: Trees
+ID-Type: 5
+
+InternalName: Iron
+ID-Type: 6
+
+InternalName: Copper
+ID-Type: 7
+
+InternalName: Gold
+ID-Type: 8
+
+InternalName: Silver
+ID-Type: 9
+
+InternalName: ClosedDoor
+ID-Type: 10
+
+InternalName: OpenDoor
+ID-Type: 11
+
+InternalName: Heart
+ID-Type: 12
+
+InternalName: Bottles
+ID-Type: 13
+
+InternalName: Tables
+ID-Type: 14
+
+InternalName: Chairs
+ID-Type: 15
+
+InternalName: Anvils
+ID-Type: 16
+
+InternalName: Furnaces
+ID-Type: 17
+
+InternalName: WorkBenches
+ID-Type: 18
+
+InternalName: Platforms
+ID-Type: 19
+
+InternalName: Saplings
+ID-Type: 20
+
+InternalName: Containers
+ID-Type: 21
+
+InternalName: Demonite
+ID-Type: 22
+
+InternalName: CorruptGrass
+ID-Type: 23
+
+InternalName: CorruptPlants
+ID-Type: 24
+
+InternalName: Ebonstone
+ID-Type: 25
+
+InternalName: DemonAltar
+ID-Type: 26
+
+InternalName: Sunflower
+ID-Type: 27
+
+InternalName: Pots
+ID-Type: 28
+
+InternalName: PiggyBank
+ID-Type: 29
+
+InternalName: WoodBlock
+ID-Type: 30
+
+InternalName: ShadowOrbs
+ID-Type: 31
+
+InternalName: CorruptThorns
+ID-Type: 32
+
+InternalName: Candles
+ID-Type: 33
+
+InternalName: Chandeliers
+ID-Type: 34
+
+InternalName: Jackolanterns
+ID-Type: 35
+
+InternalName: Presents
+ID-Type: 36
+
+InternalName: Meteorite
+ID-Type: 37
+
+InternalName: GrayBrick
+ID-Type: 38
+
+InternalName: RedBrick
+ID-Type: 39
+
+InternalName: ClayBlock
+ID-Type: 40
+
+InternalName: BlueDungeonBrick
+ID-Type: 41
+
+InternalName: HangingLanterns
+ID-Type: 42
+
+InternalName: GreenDungeonBrick
+ID-Type: 43
+
+InternalName: PinkDungeonBrick
+ID-Type: 44
+
+InternalName: GoldBrick
+ID-Type: 45
+
+InternalName: SilverBrick
+ID-Type: 46
+
+InternalName: CopperBrick
+ID-Type: 47
+
+InternalName: Spikes
+ID-Type: 48
+
+InternalName: WaterCandle
+ID-Type: 49
+
+InternalName: Books
+ID-Type: 50
+
+InternalName: Cobweb
+ID-Type: 51
+
+InternalName: Vines
+ID-Type: 52
+
+InternalName: Sand
+ID-Type: 53
+
+InternalName: Glass
+ID-Type: 54
+
+InternalName: Signs
+ID-Type: 55
+
+InternalName: Obsidian
+ID-Type: 56
+
+InternalName: Ash
+ID-Type: 57
+
+InternalName: Hellstone
+ID-Type: 58
+
+InternalName: Mud
+ID-Type: 59
+
+InternalName: JungleGrass
+ID-Type: 60
+
+InternalName: JunglePlants
+ID-Type: 61
+
+InternalName: JungleVines
+ID-Type: 62
+
+InternalName: Sapphire
+ID-Type: 63
+
+InternalName: Ruby
+ID-Type: 64
+
+InternalName: Emerald
+ID-Type: 65
+
+InternalName: Topaz
+ID-Type: 66
+
+InternalName: Amethyst
+ID-Type: 67
+
+InternalName: Diamond
+ID-Type: 68
+
+InternalName: JungleThorns
+ID-Type: 69
+
+InternalName: MushroomGrass
+ID-Type: 70
+
+InternalName: MushroomPlants
+ID-Type: 71
+
+InternalName: MushroomTrees
+ID-Type: 72
+
+InternalName: Plants2
+ID-Type: 73
+
+InternalName: JunglePlants2
+ID-Type: 74
+
+InternalName: ObsidianBrick
+ID-Type: 75
+
+InternalName: HellstoneBrick
+ID-Type: 76
+
+InternalName: Hellforge
+ID-Type: 77
+
+InternalName: ClayPot
+ID-Type: 78
+
+InternalName: Beds
+ID-Type: 79
+
+InternalName: Cactus
+ID-Type: 80
+
+InternalName: Coral
+ID-Type: 81
+
+InternalName: ImmatureHerbs
+ID-Type: 82
+
+InternalName: MatureHerbs
+ID-Type: 83
+
+InternalName: BloomingHerbs
+ID-Type: 84
+
+InternalName: Tombstones
+ID-Type: 85
+
+InternalName: Loom
+ID-Type: 86
+
+InternalName: Pianos
+ID-Type: 87
+
+InternalName: Dressers
+ID-Type: 88
+
+InternalName: Benches
+ID-Type: 89
+
+InternalName: Bathtubs
+ID-Type: 90
+
+InternalName: Banners
+ID-Type: 91
+
+InternalName: Lampposts
+ID-Type: 92
+
+InternalName: Lamps
+ID-Type: 93
+
+InternalName: Kegs
+ID-Type: 94
+
+InternalName: ChineseLanterns
+ID-Type: 95
+
+InternalName: CookingPots
+ID-Type: 96
+
+InternalName: Safes
+ID-Type: 97
+
+InternalName: SkullLanterns
+ID-Type: 98
+
+InternalName: TrashCan
+ID-Type: 99
+
+InternalName: Candelabras
+ID-Type: 100
+
+InternalName: Bookcases
+ID-Type: 101
+
+InternalName: Thrones
+ID-Type: 102
+
+InternalName: Bowls
+ID-Type: 103
+
+InternalName: GrandfatherClocks
+ID-Type: 104
+
+InternalName: Statues
+ID-Type: 105
+
+InternalName: Sawmill
+ID-Type: 106
+
+InternalName: Cobalt
+ID-Type: 107
+
+InternalName: Mythril
+ID-Type: 108
+
+InternalName: HallowedGrass
+ID-Type: 109
+
+InternalName: HallowedPlants
+ID-Type: 110
+
+InternalName: Adamantite
+ID-Type: 111
+
+InternalName: Ebonsand
+ID-Type: 112
+
+InternalName: HallowedPlants2
+ID-Type: 113
+
+InternalName: TinkerersWorkbench
+ID-Type: 114
+
+InternalName: HallowedVines
+ID-Type: 115
+
+InternalName: Pearlsand
+ID-Type: 116
+
+InternalName: Pearlstone
+ID-Type: 117
+
+InternalName: PearlstoneBrick
+ID-Type: 118
+
+InternalName: IridescentBrick
+ID-Type: 119
+
+InternalName: Mudstone
+ID-Type: 120
+
+InternalName: CobaltBrick
+ID-Type: 121
+
+InternalName: MythrilBrick
+ID-Type: 122
+
+InternalName: Silt
+ID-Type: 123
+
+InternalName: WoodenBeam
+ID-Type: 124
+
+InternalName: CrystalBall
+ID-Type: 125
+
+InternalName: DiscoBall
+ID-Type: 126
+
+InternalName: MagicalIceBlock
+ID-Type: 127
+
+InternalName: Mannequin
+ID-Type: 128
+
+InternalName: Crystals
+ID-Type: 129
+
+InternalName: ActiveStoneBlock
+ID-Type: 130
+
+InternalName: InactiveStoneBlock
+ID-Type: 131
+
+InternalName: Lever
+ID-Type: 132
+
+InternalName: AdamantiteForge
+ID-Type: 133
+
+InternalName: MythrilAnvil
+ID-Type: 134
+
+InternalName: PressurePlates
+ID-Type: 135
+
+InternalName: Switches
+ID-Type: 136
+
+InternalName: Traps
+ID-Type: 137
+
+InternalName: Boulder
+ID-Type: 138
+
+InternalName: MusicBoxes
+ID-Type: 139
+
+InternalName: DemoniteBrick
+ID-Type: 140
+
+InternalName: Explosives
+ID-Type: 141
+
+InternalName: InletPump
+ID-Type: 142
+
+InternalName: OutletPump
+ID-Type: 143
+
+InternalName: Timers
+ID-Type: 144
+
+InternalName: CandyCaneBlock
+ID-Type: 145
+
+InternalName: GreenCandyCaneBlock
+ID-Type: 146
+
+InternalName: SnowBlock
+ID-Type: 147
+
+InternalName: SnowBrick
+ID-Type: 148
+
+InternalName: HolidayLights
+ID-Type: 149
+
+InternalName: AdamantiteBeam
+ID-Type: 150
+
+InternalName: SandstoneBrick
+ID-Type: 151
+
+InternalName: EbonstoneBrick
+ID-Type: 152
+
+InternalName: RedStucco
+ID-Type: 153
+
+InternalName: YellowStucco
+ID-Type: 154
+
+InternalName: GreenStucco
+ID-Type: 155
+
+InternalName: GrayStucco
+ID-Type: 156
+
+InternalName: Ebonwood
+ID-Type: 157
+
+InternalName: RichMahogany
+ID-Type: 158
+
+InternalName: Pearlwood
+ID-Type: 159
+
+InternalName: RainbowBrick
+ID-Type: 160
+
+InternalName: IceBlock
+ID-Type: 161
+
+InternalName: BreakableIce
+ID-Type: 162
+
+InternalName: CorruptIce
+ID-Type: 163
+
+InternalName: HallowedIce
+ID-Type: 164
+
+InternalName: Stalactite
+ID-Type: 165
+
+InternalName: Tin
+ID-Type: 166
+
+InternalName: Lead
+ID-Type: 167
+
+InternalName: Tungsten
+ID-Type: 168
+
+InternalName: Platinum
+ID-Type: 169
+
+InternalName: PineTree
+ID-Type: 170
+
+InternalName: ChristmasTree
+ID-Type: 171
+
+InternalName: Sinks
+ID-Type: 172
+
+InternalName: PlatinumCandelabra
+ID-Type: 173
+
+InternalName: PlatinumCandle
+ID-Type: 174
+
+InternalName: TinBrick
+ID-Type: 175
+
+InternalName: TungstenBrick
+ID-Type: 176
+
+InternalName: PlatinumBrick
+ID-Type: 177
+
+InternalName: ExposedGems
+ID-Type: 178
+
+InternalName: GreenMoss
+ID-Type: 179
+
+InternalName: BrownMoss
+ID-Type: 180
+
+InternalName: RedMoss
+ID-Type: 181
+
+InternalName: BlueMoss
+ID-Type: 182
+
+InternalName: PurpleMoss
+ID-Type: 183
+
+InternalName: LongMoss
+ID-Type: 184
+
+InternalName: SmallPiles
+ID-Type: 185
+
+InternalName: LargePiles
+ID-Type: 186
+
+InternalName: LargePiles2
+ID-Type: 187
+
+InternalName: CactusBlock
+ID-Type: 188
+
+InternalName: Cloud
+ID-Type: 189
+
+InternalName: MushroomBlock
+ID-Type: 190
+
+InternalName: LivingWood
+ID-Type: 191
+
+InternalName: LeafBlock
+ID-Type: 192
+
+InternalName: SlimeBlock
+ID-Type: 193
+
+InternalName: BoneBlock
+ID-Type: 194
+
+InternalName: FleshBlock
+ID-Type: 195
+
+InternalName: RainCloud
+ID-Type: 196
+
+InternalName: FrozenSlimeBlock
+ID-Type: 197
+
+InternalName: Asphalt
+ID-Type: 198
+
+InternalName: CrimsonGrass
+ID-Type: 199
+
+InternalName: FleshIce
+ID-Type: 200
+
+InternalName: CrimsonPlants
+ID-Type: 201
+
+InternalName: Sunplate
+ID-Type: 202
+
+InternalName: Crimstone
+ID-Type: 203
+
+InternalName: Crimtane
+ID-Type: 204
+
+InternalName: CrimsonVines
+ID-Type: 205
+
+InternalName: IceBrick
+ID-Type: 206
+
+InternalName: WaterFountain
+ID-Type: 207
+
+InternalName: Shadewood
+ID-Type: 208
+
+InternalName: Cannon
+ID-Type: 209
+
+InternalName: LandMine
+ID-Type: 210
+
+InternalName: Chlorophyte
+ID-Type: 211
+
+InternalName: SnowballLauncher
+ID-Type: 212
+
+InternalName: Rope
+ID-Type: 213
+
+InternalName: Chain
+ID-Type: 214
+
+InternalName: Campfire
+ID-Type: 215
+
+InternalName: Firework
+ID-Type: 216
+
+InternalName: Blendomatic
+ID-Type: 217
+
+InternalName: MeatGrinder
+ID-Type: 218
+
+InternalName: Extractinator
+ID-Type: 219
+
+InternalName: Solidifier
+ID-Type: 220
+
+InternalName: Palladium
+ID-Type: 221
+
+InternalName: Orichalcum
+ID-Type: 222
+
+InternalName: Titanium
+ID-Type: 223
+
+InternalName: Slush
+ID-Type: 224
+
+InternalName: Hive
+ID-Type: 225
+
+InternalName: LihzahrdBrick
+ID-Type: 226
+
+InternalName: DyePlants
+ID-Type: 227
+
+InternalName: DyeVat
+ID-Type: 228
+
+InternalName: HoneyBlock
+ID-Type: 229
+
+InternalName: CrispyHoneyBlock
+ID-Type: 230
+
+InternalName: Larva
+ID-Type: 231
+
+InternalName: WoodenSpikes
+ID-Type: 232
+
+InternalName: PlantDetritus
+ID-Type: 233
+
+InternalName: Crimsand
+ID-Type: 234
+
+InternalName: Teleporter
+ID-Type: 235
+
+InternalName: LifeFruit
+ID-Type: 236
+
+InternalName: LihzahrdAltar
+ID-Type: 237
+
+InternalName: PlanteraBulb
+ID-Type: 238
+
+InternalName: MetalBars
+ID-Type: 239
+
+InternalName: Painting3X3
+ID-Type: 240
+
+InternalName: Painting4X3
+ID-Type: 241
+
+InternalName: Painting6X4
+ID-Type: 242
+
+InternalName: ImbuingStation
+ID-Type: 243
+
+InternalName: BubbleMachine
+ID-Type: 244
+
+InternalName: Painting2X3
+ID-Type: 245
+
+InternalName: Painting3X2
+ID-Type: 246
+
+InternalName: Autohammer
+ID-Type: 247
+
+InternalName: PalladiumColumn
+ID-Type: 248
+
+InternalName: BubblegumBlock
+ID-Type: 249
+
+InternalName: Titanstone
+ID-Type: 250
+
+InternalName: PumpkinBlock
+ID-Type: 251
+
+InternalName: HayBlock
+ID-Type: 252
+
+InternalName: SpookyWood
+ID-Type: 253
+
+InternalName: Pumpkins
+ID-Type: 254
+
+InternalName: AmethystGemsparkOff
+ID-Type: 255
+
+InternalName: TopazGemsparkOff
+ID-Type: 256
+
+InternalName: SapphireGemsparkOff
+ID-Type: 257
+
+InternalName: EmeraldGemsparkOff
+ID-Type: 258
+
+InternalName: RubyGemsparkOff
+ID-Type: 259
+
+InternalName: DiamondGemsparkOff
+ID-Type: 260
+
+InternalName: AmberGemsparkOff
+ID-Type: 261
+
+InternalName: AmethystGemspark
+ID-Type: 262
+
+InternalName: TopazGemspark
+ID-Type: 263
+
+InternalName: SapphireGemspark
+ID-Type: 264
+
+InternalName: EmeraldGemspark
+ID-Type: 265
+
+InternalName: RubyGemspark
+ID-Type: 266
+
+InternalName: DiamondGemspark
+ID-Type: 267
+
+InternalName: AmberGemspark
+ID-Type: 268
+
+InternalName: Womannequin
+ID-Type: 269
+
+InternalName: FireflyinaBottle
+ID-Type: 270
+
+InternalName: LightningBuginaBottle
+ID-Type: 271
+
+InternalName: Cog
+ID-Type: 272
+
+InternalName: StoneSlab
+ID-Type: 273
+
+InternalName: SandStoneSlab
+ID-Type: 274
+
+InternalName: BunnyCage
+ID-Type: 275
+
+InternalName: SquirrelCage
+ID-Type: 276
+
+InternalName: MallardDuckCage
+ID-Type: 277
+
+InternalName: DuckCage
+ID-Type: 278
+
+InternalName: BirdCage
+ID-Type: 279
+
+InternalName: BlueJay
+ID-Type: 280
+
+InternalName: CardinalCage
+ID-Type: 281
+
+InternalName: FishBowl
+ID-Type: 282
+
+InternalName: HeavyWorkBench
+ID-Type: 283
+
+InternalName: CopperPlating
+ID-Type: 284
+
+InternalName: SnailCage
+ID-Type: 285
+
+InternalName: GlowingSnailCage
+ID-Type: 286
+
+InternalName: AmmoBox
+ID-Type: 287
+
+InternalName: MonarchButterflyJar
+ID-Type: 288
+
+InternalName: PurpleEmperorButterflyJar
+ID-Type: 289
+
+InternalName: RedAdmiralButterflyJar
+ID-Type: 290
+
+InternalName: UlyssesButterflyJar
+ID-Type: 291
+
+InternalName: SulphurButterflyJar
+ID-Type: 292
+
+InternalName: TreeNymphButterflyJar
+ID-Type: 293
+
+InternalName: ZebraSwallowtailButterflyJar
+ID-Type: 294
+
+InternalName: JuliaButterflyJar
+ID-Type: 295
+
+InternalName: ScorpionCage
+ID-Type: 296
+
+InternalName: BlackScorpionCage
+ID-Type: 297
+
+InternalName: FrogCage
+ID-Type: 298
+
+InternalName: MouseCage
+ID-Type: 299
+
+InternalName: BoneWelder
+ID-Type: 300
+
+InternalName: FleshCloningVat
+ID-Type: 301
+
+InternalName: GlassKiln
+ID-Type: 302
+
+InternalName: LihzahrdFurnace
+ID-Type: 303
+
+InternalName: LivingLoom
+ID-Type: 304
+
+InternalName: SkyMill
+ID-Type: 305
+
+InternalName: IceMachine
+ID-Type: 306
+
+InternalName: SteampunkBoiler
+ID-Type: 307
+
+InternalName: HoneyDispenser
+ID-Type: 308
+
+InternalName: PenguinCage
+ID-Type: 309
+
+InternalName: WormCage
+ID-Type: 310
+
+InternalName: DynastyWood
+ID-Type: 311
+
+InternalName: RedDynastyShingles
+ID-Type: 312
+
+InternalName: BlueDynastyShingles
+ID-Type: 313
+
+InternalName: MinecartTrack
+ID-Type: 314
+
+InternalName: Coralstone
+ID-Type: 315
+
+InternalName: BlueJellyfishBowl
+ID-Type: 316
+
+InternalName: GreenJellyfishBowl
+ID-Type: 317
+
+InternalName: PinkJellyfishBowl
+ID-Type: 318
+
+InternalName: ShipInABottle
+ID-Type: 319
+
+InternalName: SeaweedPlanter
+ID-Type: 320
+
+InternalName: BorealWood
+ID-Type: 321
+
+InternalName: PalmWood
+ID-Type: 322
+
+InternalName: PalmTree
+ID-Type: 323
+
+InternalName: BeachPiles
+ID-Type: 324
+
+InternalName: TinPlating
+ID-Type: 325
+
+InternalName: Waterfall
+ID-Type: 326
+
+InternalName: Lavafall
+ID-Type: 327
+
+InternalName: Confetti
+ID-Type: 328
+
+InternalName: ConfettiBlack
+ID-Type: 329
+
+InternalName: CopperCoinPile
+ID-Type: 330
+
+InternalName: SilverCoinPile
+ID-Type: 331
+
+InternalName: GoldCoinPile
+ID-Type: 332
+
+InternalName: PlatinumCoinPile
+ID-Type: 333
+
+InternalName: WeaponsRack
+ID-Type: 334
+
+InternalName: FireworksBox
+ID-Type: 335
+
+InternalName: LivingFire
+ID-Type: 336
+
+InternalName: AlphabetStatues
+ID-Type: 337
+
+InternalName: FireworkFountain
+ID-Type: 338
+
+InternalName: GrasshopperCage
+ID-Type: 339
+
+InternalName: LivingCursedFire
+ID-Type: 340
+
+InternalName: LivingDemonFire
+ID-Type: 341
+
+InternalName: LivingFrostFire
+ID-Type: 342
+
+InternalName: LivingIchor
+ID-Type: 343
+
+InternalName: LivingUltrabrightFire
+ID-Type: 344
+
+InternalName: Honeyfall
+ID-Type: 345
+
+InternalName: ChlorophyteBrick
+ID-Type: 346
+
+InternalName: CrimtaneBrick
+ID-Type: 347
+
+InternalName: ShroomitePlating
+ID-Type: 348
+
+InternalName: MushroomStatue
+ID-Type: 349
+
+InternalName: MartianConduitPlating
+ID-Type: 350
+
+InternalName: ChimneySmoke
+ID-Type: 351
+
+InternalName: CrimsonThorns
+ID-Type: 352
+
+InternalName: VineRope
+ID-Type: 353
+
+InternalName: BewitchingTable
+ID-Type: 354
+
+InternalName: AlchemyTable
+ID-Type: 355
+
+InternalName: Sundial
+ID-Type: 356
+
+InternalName: MarbleBlock
+ID-Type: 357
+
+InternalName: GoldBirdCage
+ID-Type: 358
+
+InternalName: GoldBunnyCage
+ID-Type: 359
+
+InternalName: GoldButterflyCage
+ID-Type: 360
+
+InternalName: GoldFrogCage
+ID-Type: 361
+
+InternalName: GoldGrasshopperCage
+ID-Type: 362
+
+InternalName: GoldMouseCage
+ID-Type: 363
+
+InternalName: GoldWormCage
+ID-Type: 364
+
+InternalName: SilkRope
+ID-Type: 365
+
+InternalName: WebRope
+ID-Type: 366
+
+InternalName: Marble
+ID-Type: 367
+
+InternalName: Granite
+ID-Type: 368
+
+InternalName: GraniteBlock
+ID-Type: 369
+
+InternalName: MeteoriteBrick
+ID-Type: 370
+
+InternalName: PinkSlimeBlock
+ID-Type: 371
+
+InternalName: PeaceCandle
+ID-Type: 372
+
+InternalName: WaterDrip
+ID-Type: 373
+
+InternalName: LavaDrip
+ID-Type: 374
+
+InternalName: HoneyDrip
+ID-Type: 375
+
+InternalName: FishingCrate
+ID-Type: 376
+
+InternalName: SharpeningStation
+ID-Type: 377
+
+InternalName: TargetDummy
+ID-Type: 378
+
+InternalName: Bubble
+ID-Type: 379
+
+InternalName: PlanterBox
+ID-Type: 380
+
+InternalName: LavaMoss
+ID-Type: 381
+
+InternalName: VineFlowers
+ID-Type: 382
+
+InternalName: LivingMahogany
+ID-Type: 383
+
+InternalName: LivingMahoganyLeaves
+ID-Type: 384
+
+InternalName: CrystalBlock
+ID-Type: 385
+
+InternalName: TrapdoorOpen
+ID-Type: 386
+
+InternalName: TrapdoorClosed
+ID-Type: 387
+
+InternalName: TallGateClosed
+ID-Type: 388
+
+InternalName: TallGateOpen
+ID-Type: 389
+
+InternalName: LavaLamp
+ID-Type: 390
+
+InternalName: CageEnchantedNightcrawler
+ID-Type: 391
+
+InternalName: CageBuggy
+ID-Type: 392
+
+InternalName: CageGrubby
+ID-Type: 393
+
+InternalName: CageSluggy
+ID-Type: 394
+
+InternalName: ItemFrame
+ID-Type: 395
+
+InternalName: Sandstone
+ID-Type: 396
+
+InternalName: HardenedSand
+ID-Type: 397
+
+InternalName: CorruptHardenedSand
+ID-Type: 398
+
+InternalName: CrimsonHardenedSand
+ID-Type: 399
+
+InternalName: CorruptSandstone
+ID-Type: 400
+
+InternalName: CrimsonSandstone
+ID-Type: 401
+
+InternalName: HallowHardenedSand
+ID-Type: 402
+
+InternalName: HallowSandstone
+ID-Type: 403
+
+InternalName: DesertFossil
+ID-Type: 404
+
+InternalName: Fireplace
+ID-Type: 405
+
+InternalName: Chimney
+ID-Type: 406
+
+InternalName: FossilOre
+ID-Type: 407
+
+InternalName: LunarOre
+ID-Type: 408
+
+InternalName: LunarBrick
+ID-Type: 409
+
+InternalName: LunarMonolith
+ID-Type: 410
+
+InternalName: Detonator
+ID-Type: 411
+
+InternalName: LunarCraftingStation
+ID-Type: 412
+
+InternalName: SquirrelOrangeCage
+ID-Type: 413
+
+InternalName: SquirrelGoldCage
+ID-Type: 414
+
+InternalName: LunarBlockSolar
+ID-Type: 415
+
+InternalName: LunarBlockVortex
+ID-Type: 416
+
+InternalName: LunarBlockNebula
+ID-Type: 417
+
+InternalName: LunarBlockStardust
+ID-Type: 418
+
+InternalName: LogicGateLamp
+ID-Type: 419
+
+InternalName: LogicGate
+ID-Type: 420
+
+InternalName: ConveyorBeltLeft
+ID-Type: 421
+
+InternalName: ConveyorBeltRight
+ID-Type: 422
+
+InternalName: LogicSensor
+ID-Type: 423
+
+InternalName: WirePipe
+ID-Type: 424
+
+InternalName: AnnouncementBox
+ID-Type: 425
+
+InternalName: TeamBlockRed
+ID-Type: 426
+
+InternalName: TeamBlockRedPlatform
+ID-Type: 427
+
+InternalName: WeightedPressurePlate
+ID-Type: 428
+
+InternalName: WireBulb
+ID-Type: 429
+
+InternalName: TeamBlockGreen
+ID-Type: 430
+
+InternalName: TeamBlockBlue
+ID-Type: 431
+
+InternalName: TeamBlockYellow
+ID-Type: 432
+
+InternalName: TeamBlockPink
+ID-Type: 433
+
+InternalName: TeamBlockWhite
+ID-Type: 434
+
+InternalName: TeamBlockGreenPlatform
+ID-Type: 435
+
+InternalName: TeamBlockBluePlatform
+ID-Type: 436
+
+InternalName: TeamBlockYellowPlatform
+ID-Type: 437
+
+InternalName: TeamBlockPinkPlatform
+ID-Type: 438
+
+InternalName: TeamBlockWhitePlatform
+ID-Type: 439
+
+InternalName: GemLocks
+ID-Type: 440
+
+InternalName: FakeContainers
+ID-Type: 441
+
+InternalName: ProjectilePressurePad
+ID-Type: 442
+
+InternalName: GeyserTrap
+ID-Type: 443
+
+InternalName: BeeHive
+ID-Type: 444
+
+InternalName: PixelBox
+ID-Type: 445
+
+InternalName: SillyBalloonPink
+ID-Type: 446
+
+InternalName: SillyBalloonPurple
+ID-Type: 447
+
+InternalName: SillyBalloonGreen
+ID-Type: 448
+
+InternalName: SillyStreamerBlue
+ID-Type: 449
+
+InternalName: SillyStreamerGreen
+ID-Type: 450
+
+InternalName: SillyStreamerPink
+ID-Type: 451
+
+InternalName: SillyBalloonMachine
+ID-Type: 452
+
+InternalName: SillyBalloonTile
+ID-Type: 453
+
+InternalName: Pigronata
+ID-Type: 454
+
+InternalName: PartyMonolith
+ID-Type: 455
+
+InternalName: PartyBundleOfBalloonTile
+ID-Type: 456
+
+InternalName: PartyPresent
+ID-Type: 457
+
+InternalName: SandFallBlock
+ID-Type: 458
+
+InternalName: SnowFallBlock
+ID-Type: 459
+
+InternalName: SnowCloud
+ID-Type: 460
+
+InternalName: SandDrip
+ID-Type: 461
+
+InternalName: DjinnLamp
+ID-Type: 462
+
+InternalName: DefendersForge
+ID-Type: 463
+
+InternalName: WarTable
+ID-Type: 464
+
+InternalName: WarTableBanner
+ID-Type: 465
+
+InternalName: ElderCrystalStand
+ID-Type: 466
+
+InternalName: Containers2
+ID-Type: 467
+
+InternalName: FakeContainers2
+ID-Type: 468
+
+InternalName: Tables2
+ID-Type: 469
+
+InternalName: DisplayDoll
+ID-Type: 470
+
+InternalName: WeaponsRack2
+ID-Type: 471
+
+InternalName: IronBrick
+ID-Type: 472
+
+InternalName: LeadBrick
+ID-Type: 473
+
+InternalName: LesionBlock
+ID-Type: 474
+
+InternalName: HatRack
+ID-Type: 475
+
+InternalName: GolfHole
+ID-Type: 476
+
+InternalName: GolfGrass
+ID-Type: 477
+
+InternalName: CrimstoneBrick
+ID-Type: 478
+
+InternalName: SmoothSandstone
+ID-Type: 479
+
+InternalName: BloodMoonMonolith
+ID-Type: 480
+
+InternalName: CrackedBlueDungeonBrick
+ID-Type: 481
+
+InternalName: CrackedGreenDungeonBrick
+ID-Type: 482
+
+InternalName: CrackedPinkDungeonBrick
+ID-Type: 483
+
+InternalName: RollingCactus
+ID-Type: 484
+
+InternalName: AntlionLarva
+ID-Type: 485
+
+InternalName: DrumSet
+ID-Type: 486
+
+InternalName: PicnicTable
+ID-Type: 487
+
+InternalName: FallenLog
+ID-Type: 488
+
+InternalName: PinWheel
+ID-Type: 489
+
+InternalName: WeatherVane
+ID-Type: 490
+
+InternalName: VoidVault
+ID-Type: 491
+
+InternalName: GolfGrassHallowed
+ID-Type: 492
+
+InternalName: GolfCupFlag
+ID-Type: 493
+
+InternalName: GolfTee
+ID-Type: 494
+
+InternalName: ShellPile
+ID-Type: 495
+
+InternalName: AntiPortalBlock
+ID-Type: 496
+
+InternalName: Toilets
+ID-Type: 497
+
+InternalName: Spider
+ID-Type: 498
+
+InternalName: LesionStation
+ID-Type: 499
+
+InternalName: SolarBrick
+ID-Type: 500
+
+InternalName: VortexBrick
+ID-Type: 501
+
+InternalName: NebulaBrick
+ID-Type: 502
+
+InternalName: StardustBrick
+ID-Type: 503
+
+InternalName: MysticSnakeRope
+ID-Type: 504
+
+InternalName: GoldGoldfishBowl
+ID-Type: 505
+
+InternalName: CatBast
+ID-Type: 506
+
+InternalName: GoldStarryGlassBlock
+ID-Type: 507
+
+InternalName: BlueStarryGlassBlock
+ID-Type: 508
+
+InternalName: VoidMonolith
+ID-Type: 509
+
+InternalName: ArrowSign
+ID-Type: 510
+
+InternalName: PaintedArrowSign
+ID-Type: 511
+
+InternalName: GreenMossBrick
+ID-Type: 512
+
+InternalName: BrownMossBrick
+ID-Type: 513
+
+InternalName: RedMossBrick
+ID-Type: 514
+
+InternalName: BlueMossBrick
+ID-Type: 515
+
+InternalName: PurpleMossBrick
+ID-Type: 516
+
+InternalName: LavaMossBrick
+ID-Type: 517
+
+InternalName: LilyPad
+ID-Type: 518
+
+InternalName: Cattail
+ID-Type: 519
+
+InternalName: FoodPlatter
+ID-Type: 520
+
+InternalName: BlackDragonflyJar
+ID-Type: 521
+
+InternalName: BlueDragonflyJar
+ID-Type: 522
+
+InternalName: GreenDragonflyJar
+ID-Type: 523
+
+InternalName: OrangeDragonflyJar
+ID-Type: 524
+
+InternalName: RedDragonflyJar
+ID-Type: 525
+
+InternalName: YellowDragonflyJar
+ID-Type: 526
+
+InternalName: GoldDragonflyJar
+ID-Type: 527
+
+InternalName: MushroomVines
+ID-Type: 528
+
+InternalName: SeaOats
+ID-Type: 529
+
+InternalName: OasisPlants
+ID-Type: 530
+
+InternalName: BoulderStatue
+ID-Type: 531
+
+InternalName: MaggotCage
+ID-Type: 532
+
+InternalName: RatCage
+ID-Type: 533
+
+InternalName: KryptonMoss
+ID-Type: 534
+
+InternalName: KryptonMossBrick
+ID-Type: 535
+
+InternalName: XenonMoss
+ID-Type: 536
+
+InternalName: XenonMossBrick
+ID-Type: 537
+
+InternalName: LadybugCage
+ID-Type: 538
+
+InternalName: ArgonMoss
+ID-Type: 539
+
+InternalName: ArgonMossBrick
+ID-Type: 540
+
+InternalName: EchoBlock
+ID-Type: 541
+
+InternalName: OwlCage
+ID-Type: 542
+
+InternalName: PupfishBowl
+ID-Type: 543
+
+InternalName: GoldLadybugCage
+ID-Type: 544
+
+InternalName: LawnFlamingo
+ID-Type: 545
+
+InternalName: Grate
+ID-Type: 546
+
+InternalName: PottedPlants1
+ID-Type: 547
+
+InternalName: PottedPlants2
+ID-Type: 548
+
+InternalName: Seaweed
+ID-Type: 549
+
+InternalName: TurtleCage
+ID-Type: 550
+
+InternalName: TurtleJungleCage
+ID-Type: 551
+
+InternalName: Sandcastles
+ID-Type: 552
+
+InternalName: GrebeCage
+ID-Type: 553
+
+InternalName: SeagullCage
+ID-Type: 554
+
+InternalName: WaterStriderCage
+ID-Type: 555
+
+InternalName: GoldWaterStriderCage
+ID-Type: 556
+
+InternalName: GrateClosed
+ID-Type: 557
+
+InternalName: SeahorseCage
+ID-Type: 558
+
+InternalName: GoldSeahorseCage
+ID-Type: 559
+
+InternalName: GolfTrophies
+ID-Type: 560
+
+InternalName: MarbleColumn
+ID-Type: 561
+
+InternalName: BambooBlock
+ID-Type: 562
+
+InternalName: LargeBambooBlock
+ID-Type: 563
+
+InternalName: PlasmaLamp
+ID-Type: 564
+
+InternalName: FogMachine
+ID-Type: 565
+
+InternalName: AmberStoneBlock
+ID-Type: 566
+
+InternalName: GardenGnome
+ID-Type: 567
+
+InternalName: PinkFairyJar
+ID-Type: 568
+
+InternalName: GreenFairyJar
+ID-Type: 569
+
+InternalName: BlueFairyJar
+ID-Type: 570
+
+InternalName: Bamboo
+ID-Type: 571
+
+InternalName: SoulBottles
+ID-Type: 572
+
+InternalName: TatteredWoodSign
+ID-Type: 573
+
+InternalName: BorealBeam
+ID-Type: 574
+
+InternalName: RichMahoganyBeam
+ID-Type: 575
+
+InternalName: GraniteColumn
+ID-Type: 576
+
+InternalName: SandstoneColumn
+ID-Type: 577
+
+InternalName: MushroomBeam
+ID-Type: 578
+
+InternalName: RockGolemHead
+ID-Type: 579
+
+InternalName: HellButterflyJar
+ID-Type: 580
+
+InternalName: LavaflyinaBottle
+ID-Type: 581
+
+InternalName: MagmaSnailCage
+ID-Type: 582
+
+InternalName: TreeTopaz
+ID-Type: 583
+
+InternalName: TreeAmethyst
+ID-Type: 584
+
+InternalName: TreeSapphire
+ID-Type: 585
+
+InternalName: TreeEmerald
+ID-Type: 586
+
+InternalName: TreeRuby
+ID-Type: 587
+
+InternalName: TreeDiamond
+ID-Type: 588
+
+InternalName: TreeAmber
+ID-Type: 589
+
+InternalName: GemSaplings
+ID-Type: 590
+
+InternalName: PotsSuspended
+ID-Type: 591
+
+InternalName: BrazierSuspended
+ID-Type: 592
+
+InternalName: VolcanoSmall
+ID-Type: 593
+
+InternalName: VolcanoLarge
+ID-Type: 594
+
+InternalName: VanityTreeSakuraSaplings
+ID-Type: 595
+
+InternalName: VanityTreeSakura
+ID-Type: 596
+
+InternalName: TeleportationPylon
+ID-Type: 597
+
+InternalName: LavafishBowl
+ID-Type: 598
+
+InternalName: AmethystBunnyCage
+ID-Type: 599
+
+InternalName: TopazBunnyCage
+ID-Type: 600
+
+InternalName: SapphireBunnyCage
+ID-Type: 601
+
+InternalName: EmeraldBunnyCage
+ID-Type: 602
+
+InternalName: RubyBunnyCage
+ID-Type: 603
+
+InternalName: DiamondBunnyCage
+ID-Type: 604
+
+InternalName: AmberBunnyCage
+ID-Type: 605
+
+InternalName: AmethystSquirrelCage
+ID-Type: 606
+
+InternalName: TopazSquirrelCage
+ID-Type: 607
+
+InternalName: SapphireSquirrelCage
+ID-Type: 608
+
+InternalName: EmeraldSquirrelCage
+ID-Type: 609
+
+InternalName: RubySquirrelCage
+ID-Type: 610
+
+InternalName: DiamondSquirrelCage
+ID-Type: 611
+
+InternalName: AmberSquirrelCage
+ID-Type: 612
+
+InternalName: PottedLavaPlants
+ID-Type: 613
+
+InternalName: PottedLavaPlantTendrils
+ID-Type: 614
+
+InternalName: VanityTreeWillowSaplings
+ID-Type: 615
+
+InternalName: VanityTreeYellowWillow
+ID-Type: 616
+
+InternalName: MasterTrophyBase
+ID-Type: 617
+
+InternalName: AccentSlab
+ID-Type: 618
+
+InternalName: TruffleWormCage
+ID-Type: 619
+
+InternalName: EmpressButterflyJar
+ID-Type: 620
+
+InternalName: SliceOfCake
+ID-Type: 621
+
+InternalName: TeaKettle
+ID-Type: 622
+
+InternalName: PottedCrystalPlants
+ID-Type: 623
+
+InternalName: AbigailsFlower
+ID-Type: 624
+
+InternalName: VioletMoss
+ID-Type: 625
+
+InternalName: VioletMossBrick
+ID-Type: 626
+
+InternalName: RainbowMoss
+ID-Type: 627
+
+InternalName: RainbowMossBrick
+ID-Type: 628
+
+InternalName: StinkbugCage
+ID-Type: 629
+
+InternalName: StinkbugHousingBlocker
+ID-Type: 630
+
+InternalName: StinkbugHousingBlockerEcho
+ID-Type: 631
+
+InternalName: ScarletMacawCage
+ID-Type: 632
+
+InternalName: AshGrass
+ID-Type: 633
+
+InternalName: TreeAsh
+ID-Type: 634
+
+InternalName: AshWood
+ID-Type: 635
+
+InternalName: CorruptVines
+ID-Type: 636
+
+InternalName: AshPlants
+ID-Type: 637
+
+InternalName: AshVines
+ID-Type: 638
+
+InternalName: ManaCrystal
+ID-Type: 639
+
+InternalName: BlueMacawCage
+ID-Type: 640
+
+InternalName: ReefBlock
+ID-Type: 641
+
+InternalName: ChlorophyteExtractinator
+ID-Type: 642
+
+InternalName: ToucanCage
+ID-Type: 643
+
+InternalName: YellowCockatielCage
+ID-Type: 644
+
+InternalName: GrayCockatielCage
+ID-Type: 645
+
+InternalName: ShadowCandle
+ID-Type: 646
+
+InternalName: LargePilesEcho
+ID-Type: 647
+
+InternalName: LargePiles2Echo
+ID-Type: 648
+
+InternalName: SmallPiles2x1Echo
+ID-Type: 649
+
+InternalName: SmallPiles1x1Echo
+ID-Type: 650
+
+InternalName: PlantDetritus3x2Echo
+ID-Type: 651
+
+InternalName: PlantDetritus2x2Echo
+ID-Type: 652
+
+InternalName: PotsEcho
+ID-Type: 653
+
+InternalName: TNTBarrel
+ID-Type: 654
+
+InternalName: PlanteraThorns
+ID-Type: 655
+
+InternalName: GlowTulip
+ID-Type: 656
+
+InternalName: EchoMonolith
+ID-Type: 657
+
+InternalName: ShimmerMonolith
+ID-Type: 658
+
+InternalName: ShimmerBlock
+ID-Type: 659
+
+InternalName: ShimmerflyinaBottle
+ID-Type: 660
+
+InternalName: CorruptJungleGrass
+ID-Type: 661
+
+InternalName: CrimsonJungleGrass
+ID-Type: 662
+
+InternalName: Moondial
+ID-Type: 663
+
+InternalName: BouncyBoulder
+ID-Type: 664
+
+InternalName: LifeCrystalBoulder
+ID-Type: 665
+
+InternalName: PoopBlock
+ID-Type: 666
+
+InternalName: ShimmerBrick
+ID-Type: 667
+
+InternalName: DirtiestBlock
+ID-Type: 668
+
+InternalName: LunarRustBrick
+ID-Type: 669
+
+InternalName: DarkCelestialBrick
+ID-Type: 670
+
+InternalName: AstraBrick
+ID-Type: 671
+
+InternalName: CosmicEmberBrick
+ID-Type: 672
+
+InternalName: CryocoreBrick
+ID-Type: 673
+
+InternalName: MercuryBrick
+ID-Type: 674
+
+InternalName: StarRoyaleBrick
+ID-Type: 675
+
+InternalName: HeavenforgeBrick
+ID-Type: 676
+
+InternalName: AncientBlueBrick
+ID-Type: 677
+
+InternalName: AncientGreenBrick
+ID-Type: 678
+
+InternalName: AncientPinkBrick
+ID-Type: 679
+
+InternalName: AncientGoldBrick
+ID-Type: 680
+
+InternalName: AncientSilverBrick
+ID-Type: 681
+
+InternalName: AncientCopperBrick
+ID-Type: 682
+
+InternalName: AncientObsidianBrick
+ID-Type: 683
+
+InternalName: AncientHellstoneBrick
+ID-Type: 684
+
+InternalName: AncientCobaltBrick
+ID-Type: 685
+
+InternalName: AncientMythrilBrick
+ID-Type: 686
+
+InternalName: LavaMossBlock
+ID-Type: 687
+
+InternalName: ArgonMossBlock
+ID-Type: 688
+
+InternalName: KryptonMossBlock
+ID-Type: 689
+
+InternalName: XenonMossBlock
+ID-Type: 690
+
+InternalName: VioletMossBlock
+ID-Type: 691
+
+InternalName: RainbowMossBlock
+ID-Type: 692
+
+InternalName: Count
+ID-Type: 693
+

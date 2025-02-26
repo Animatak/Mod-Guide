@@ -1,0 +1,3020 @@
+NPCName: Unknown_NPC_-66
+InternalName: NegativeIDCount
+ID-Type: -66
+
+NPCName: Vespa
+InternalName: BigHornetStingy
+ID-Type: -65
+
+NPCName: Vespa
+InternalName: LittleHornetStingy
+ID-Type: -64
+
+NPCName: Vespa
+InternalName: BigHornetSpikey
+ID-Type: -63
+
+NPCName: Vespa
+InternalName: LittleHornetSpikey
+ID-Type: -62
+
+NPCName: Vespa
+InternalName: BigHornetLeafy
+ID-Type: -61
+
+NPCName: Vespa
+InternalName: LittleHornetLeafy
+ID-Type: -60
+
+NPCName: Vespa
+InternalName: BigHornetHoney
+ID-Type: -59
+
+NPCName: Vespa
+InternalName: LittleHornetHoney
+ID-Type: -58
+
+NPCName: Vespa
+InternalName: BigHornetFatty
+ID-Type: -57
+
+NPCName: Vespa
+InternalName: LittleHornetFatty
+ID-Type: -56
+
+NPCName: Zumbi
+InternalName: BigRainZombie
+ID-Type: -55
+
+NPCName: Zumbi
+InternalName: SmallRainZombie
+ID-Type: -54
+
+NPCName: Esqueleto
+InternalName: BigPantlessSkeleton
+ID-Type: -53
+
+NPCName: Esqueleto
+InternalName: SmallPantlessSkeleton
+ID-Type: -52
+
+NPCName: Esqueleto
+InternalName: BigMisassembledSkeleton
+ID-Type: -51
+
+NPCName: Esqueleto
+InternalName: SmallMisassembledSkeleton
+ID-Type: -50
+
+NPCName: Esqueleto
+InternalName: BigHeadacheSkeleton
+ID-Type: -49
+
+NPCName: Esqueleto
+InternalName: SmallHeadacheSkeleton
+ID-Type: -48
+
+NPCName: Esqueleto
+InternalName: BigSkeleton
+ID-Type: -47
+
+NPCName: Esqueleto
+InternalName: SmallSkeleton
+ID-Type: -46
+
+NPCName: Zumbi
+InternalName: BigFemaleZombie
+ID-Type: -45
+
+NPCName: Zumbi
+InternalName: SmallFemaleZombie
+ID-Type: -44
+
+NPCName: Olho Demoníaco
+InternalName: DemonEye2
+ID-Type: -43
+
+NPCName: Olho Demoníaco
+InternalName: PurpleEye2
+ID-Type: -42
+
+NPCName: Olho Demoníaco
+InternalName: GreenEye2
+ID-Type: -41
+
+NPCName: Olho Demoníaco
+InternalName: DialatedEye2
+ID-Type: -40
+
+NPCName: Olho Demoníaco
+InternalName: SleepyEye2
+ID-Type: -39
+
+NPCName: Olho Demoníaco
+InternalName: CataractEye2
+ID-Type: -38
+
+NPCName: Zumbi
+InternalName: BigTwiggyZombie
+ID-Type: -37
+
+NPCName: Zumbi
+InternalName: SmallTwiggyZombie
+ID-Type: -36
+
+NPCName: Zumbi
+InternalName: BigSwampZombie
+ID-Type: -35
+
+NPCName: Zumbi
+InternalName: SmallSwampZombie
+ID-Type: -34
+
+NPCName: Zumbi
+InternalName: BigSlimedZombie
+ID-Type: -33
+
+NPCName: Zumbi
+InternalName: SmallSlimedZombie
+ID-Type: -32
+
+NPCName: Zumbi
+InternalName: BigPincushionZombie
+ID-Type: -31
+
+NPCName: Zumbi
+InternalName: SmallPincushionZombie
+ID-Type: -30
+
+NPCName: Zumbi
+InternalName: BigBaldZombie
+ID-Type: -29
+
+NPCName: Zumbi
+InternalName: SmallBaldZombie
+ID-Type: -28
+
+NPCName: Zumbi
+InternalName: BigZombie
+ID-Type: -27
+
+NPCName: Zumbi
+InternalName: SmallZombie
+ID-Type: -26
+
+NPCName: Geleia de Carmim
+InternalName: BigCrimslime
+ID-Type: -25
+
+NPCName: Geleia de Carmim
+InternalName: LittleCrimslime
+ID-Type: -24
+
+NPCName: Crimera
+InternalName: BigCrimera
+ID-Type: -23
+
+NPCName: Crimera
+InternalName: LittleCrimera
+ID-Type: -22
+
+NPCName: Vespa de Musgo
+InternalName: GiantMossHornet
+ID-Type: -21
+
+NPCName: Vespa de Musgo
+InternalName: BigMossHornet
+ID-Type: -20
+
+NPCName: Vespa de Musgo
+InternalName: LittleMossHornet
+ID-Type: -19
+
+NPCName: Vespa de Musgo
+InternalName: TinyMossHornet
+ID-Type: -18
+
+NPCName: Vespa
+InternalName: BigStinger
+ID-Type: -17
+
+NPCName: Vespa
+InternalName: LittleStinger
+ID-Type: -16
+
+NPCName: Esqueleto com Armadura
+InternalName: HeavySkeleton
+ID-Type: -15
+
+NPCName: Ossos Furiosos
+InternalName: BigBoned
+ID-Type: -14
+
+NPCName: Ossos Furiosos
+InternalName: ShortBones
+ID-Type: -13
+
+NPCName: Devorador de Almas
+InternalName: BigEater
+ID-Type: -12
+
+NPCName: Devorador de Almas
+InternalName: LittleEater
+ID-Type: -11
+
+NPCName: Geleia da Selva
+InternalName: JungleSlime
+ID-Type: -10
+
+NPCName: Geleia amarela
+InternalName: YellowSlime
+ID-Type: -9
+
+NPCName: Geleia vermelha
+InternalName: RedSlime
+ID-Type: -8
+
+NPCName: Geleia roxa
+InternalName: PurpleSlime
+ID-Type: -7
+
+NPCName: Geleia preta
+InternalName: BlackSlime
+ID-Type: -6
+
+NPCName: Bebê de Geleia
+InternalName: BabySlime
+ID-Type: -5
+
+NPCName: Rosado
+InternalName: Pinky
+ID-Type: -4
+
+NPCName: Geleia verde
+InternalName: GreenSlime
+ID-Type: -3
+
+NPCName: Geleia
+InternalName: Slimer2
+ID-Type: -2
+
+NPCName: Geleinha
+InternalName: Slimeling
+ID-Type: -1
+
+NPCName: Unknown_NPC_0
+InternalName: None
+ID-Type: 0
+
+NPCName: Geleia Azul
+InternalName: BlueSlime
+ID-Type: 1
+
+NPCName: Olho Demoníaco
+InternalName: DemonEye
+ID-Type: 2
+
+NPCName: Zumbi
+InternalName: Zombie
+ID-Type: 3
+
+NPCName: Olho de Cthulhu
+InternalName: EyeofCthulhu
+ID-Type: 4
+
+NPCName: Servo de Cthulhu
+InternalName: ServantofCthulhu
+ID-Type: 5
+
+NPCName: Devorador de Almas
+InternalName: EaterofSouls
+ID-Type: 6
+
+NPCName: Devorador
+InternalName: DevourerHead
+ID-Type: 7
+
+NPCName: Devorador
+InternalName: DevourerBody
+ID-Type: 8
+
+NPCName: Devorador
+InternalName: DevourerTail
+ID-Type: 9
+
+NPCName: Verme Gigante
+InternalName: GiantWormHead
+ID-Type: 10
+
+NPCName: Verme Gigante
+InternalName: GiantWormBody
+ID-Type: 11
+
+NPCName: Verme Gigante
+InternalName: GiantWormTail
+ID-Type: 12
+
+NPCName: Devorador de Mundos
+InternalName: EaterofWorldsHead
+ID-Type: 13
+
+NPCName: Devorador de Mundos
+InternalName: EaterofWorldsBody
+ID-Type: 14
+
+NPCName: Devorador de Mundos
+InternalName: EaterofWorldsTail
+ID-Type: 15
+
+NPCName: Geleia Mãe
+InternalName: MotherSlime
+ID-Type: 16
+
+NPCName: Comerciante
+InternalName: Merchant
+ID-Type: 17
+
+NPCName: Enfermeira
+InternalName: Nurse
+ID-Type: 18
+
+NPCName: Comerciante de Armas
+InternalName: ArmsDealer
+ID-Type: 19
+
+NPCName: Dríade
+InternalName: Dryad
+ID-Type: 20
+
+NPCName: Esqueleto
+InternalName: Skeleton
+ID-Type: 21
+
+NPCName: Guia
+InternalName: Guide
+ID-Type: 22
+
+NPCName: Cabeça de Meteoro
+InternalName: MeteorHead
+ID-Type: 23
+
+NPCName: Demônio de Fogo
+InternalName: FireImp
+ID-Type: 24
+
+NPCName: Esfera Ardente
+InternalName: BurningSphere
+ID-Type: 25
+
+NPCName: Peão Goblin
+InternalName: GoblinPeon
+ID-Type: 26
+
+NPCName: Ladrão Goblin
+InternalName: GoblinThief
+ID-Type: 27
+
+NPCName: Guerreiro Goblin
+InternalName: GoblinWarrior
+ID-Type: 28
+
+NPCName: Feiticeiro Goblin
+InternalName: GoblinSorcerer
+ID-Type: 29
+
+NPCName: Bola do Caos
+InternalName: ChaosBall
+ID-Type: 30
+
+NPCName: Ossos Furiosos
+InternalName: AngryBones
+ID-Type: 31
+
+NPCName: Mago das Trevas
+InternalName: DarkCaster
+ID-Type: 32
+
+NPCName: Esfera d'água
+InternalName: WaterSphere
+ID-Type: 33
+
+NPCName: Caveira Amaldiçoada
+InternalName: CursedSkull
+ID-Type: 34
+
+NPCName: Esqueletron
+InternalName: SkeletronHead
+ID-Type: 35
+
+NPCName: Esqueletron
+InternalName: SkeletronHand
+ID-Type: 36
+
+NPCName: Velho
+InternalName: OldMan
+ID-Type: 37
+
+NPCName: Especialista em Demolição
+InternalName: Demolitionist
+ID-Type: 38
+
+NPCName: Serpente de Ossos
+InternalName: BoneSerpentHead
+ID-Type: 39
+
+NPCName: Serpente de Ossos
+InternalName: BoneSerpentBody
+ID-Type: 40
+
+NPCName: Serpente de Ossos
+InternalName: BoneSerpentTail
+ID-Type: 41
+
+NPCName: Vespa
+InternalName: Hornet
+ID-Type: 42
+
+NPCName: Devorador de Homens
+InternalName: ManEater
+ID-Type: 43
+
+NPCName: Minerador Zumbi
+InternalName: UndeadMiner
+ID-Type: 44
+
+NPCName: Tim
+InternalName: Tim
+ID-Type: 45
+
+NPCName: Coelhinho
+InternalName: Bunny
+ID-Type: 46
+
+NPCName: Coelhinho Corrompido
+InternalName: CorruptBunny
+ID-Type: 47
+
+NPCName: Harpia
+InternalName: Harpy
+ID-Type: 48
+
+NPCName: Morcego de Caverna
+InternalName: CaveBat
+ID-Type: 49
+
+NPCName: Geleia Rei
+InternalName: KingSlime
+ID-Type: 50
+
+NPCName: Morcego da Selva
+InternalName: JungleBat
+ID-Type: 51
+
+NPCName: Doutor Bones
+InternalName: DoctorBones
+ID-Type: 52
+
+NPCName: O Noivo
+InternalName: TheGroom
+ID-Type: 53
+
+NPCName: Alfaiate
+InternalName: Clothier
+ID-Type: 54
+
+NPCName: Peixe-dourado
+InternalName: Goldfish
+ID-Type: 55
+
+NPCName: Agarrador
+InternalName: Snatcher
+ID-Type: 56
+
+NPCName: Peixe-dourado Corrompido
+InternalName: CorruptGoldfish
+ID-Type: 57
+
+NPCName: Piranha
+InternalName: Piranha
+ID-Type: 58
+
+NPCName: Geleia de Lava
+InternalName: LavaSlime
+ID-Type: 59
+
+NPCName: Morcego Infernal
+InternalName: Hellbat
+ID-Type: 60
+
+NPCName: Abutre
+InternalName: Vulture
+ID-Type: 61
+
+NPCName: Demônio
+InternalName: Demon
+ID-Type: 62
+
+NPCName: Água-viva Azul
+InternalName: BlueJellyfish
+ID-Type: 63
+
+NPCName: Água-viva Cor-de-rosa
+InternalName: PinkJellyfish
+ID-Type: 64
+
+NPCName: Tubarão
+InternalName: Shark
+ID-Type: 65
+
+NPCName: Demônio Vodu
+InternalName: VoodooDemon
+ID-Type: 66
+
+NPCName: Caranguejo
+InternalName: Crab
+ID-Type: 67
+
+NPCName: Guardião do Calabouço
+InternalName: DungeonGuardian
+ID-Type: 68
+
+NPCName: Formiga-leão
+InternalName: Antlion
+ID-Type: 69
+
+NPCName: Bola com Espinhos
+InternalName: SpikeBall
+ID-Type: 70
+
+NPCName: Geleia do Calabouço
+InternalName: DungeonSlime
+ID-Type: 71
+
+NPCName: Roda Flamejante
+InternalName: BlazingWheel
+ID-Type: 72
+
+NPCName: Batedor Goblin
+InternalName: GoblinScout
+ID-Type: 73
+
+NPCName: Pássaro
+InternalName: Bird
+ID-Type: 74
+
+NPCName: Pixie
+InternalName: Pixie
+ID-Type: 75
+
+NPCName: NPCName.None2
+InternalName: None2
+ID-Type: 76
+
+NPCName: Esqueleto com Armadura
+InternalName: ArmoredSkeleton
+ID-Type: 77
+
+NPCName: Múmia
+InternalName: Mummy
+ID-Type: 78
+
+NPCName: Múmia das Trevas
+InternalName: DarkMummy
+ID-Type: 79
+
+NPCName: Múmia de Luz
+InternalName: LightMummy
+ID-Type: 80
+
+NPCName: Geleia Corrompida
+InternalName: CorruptSlime
+ID-Type: 81
+
+NPCName: Assombração
+InternalName: Wraith
+ID-Type: 82
+
+NPCName: Martelo Amaldiçoado
+InternalName: CursedHammer
+ID-Type: 83
+
+NPCName: Espada Encantada
+InternalName: EnchantedSword
+ID-Type: 84
+
+NPCName: Mímico
+InternalName: Mimic
+ID-Type: 85
+
+NPCName: Unicórnio
+InternalName: Unicorn
+ID-Type: 86
+
+NPCName: Serpe
+InternalName: WyvernHead
+ID-Type: 87
+
+NPCName: Serpe
+InternalName: WyvernLegs
+ID-Type: 88
+
+NPCName: Serpe
+InternalName: WyvernBody
+ID-Type: 89
+
+NPCName: Serpe
+InternalName: WyvernBody2
+ID-Type: 90
+
+NPCName: Serpe
+InternalName: WyvernBody3
+ID-Type: 91
+
+NPCName: Serpe
+InternalName: WyvernTail
+ID-Type: 92
+
+NPCName: Morcego Gigante
+InternalName: GiantBat
+ID-Type: 93
+
+NPCName: Corruptor
+InternalName: Corruptor
+ID-Type: 94
+
+NPCName: Cavador
+InternalName: DiggerHead
+ID-Type: 95
+
+NPCName: Cavador
+InternalName: DiggerBody
+ID-Type: 96
+
+NPCName: Cavador
+InternalName: DiggerTail
+ID-Type: 97
+
+NPCName: Alimentador de Mundos
+InternalName: SeekerHead
+ID-Type: 98
+
+NPCName: Alimentador de Mundos
+InternalName: SeekerBody
+ID-Type: 99
+
+NPCName: Alimentador de Mundos
+InternalName: SeekerTail
+ID-Type: 100
+
+NPCName: Prendedor
+InternalName: Clinger
+ID-Type: 101
+
+NPCName: Peixe-diabo
+InternalName: AnglerFish
+ID-Type: 102
+
+NPCName: Água-viva Verde
+InternalName: GreenJellyfish
+ID-Type: 103
+
+NPCName: Lobisomem
+InternalName: Werewolf
+ID-Type: 104
+
+NPCName: Goblin Amarrado
+InternalName: BoundGoblin
+ID-Type: 105
+
+NPCName: Mago Amarrado
+InternalName: BoundWizard
+ID-Type: 106
+
+NPCName: Inventor Goblin
+InternalName: GoblinTinkerer
+ID-Type: 107
+
+NPCName: Feiticeiro
+InternalName: Wizard
+ID-Type: 108
+
+NPCName: Palhaço
+InternalName: Clown
+ID-Type: 109
+
+NPCName: Arqueiro Esqueleto
+InternalName: SkeletonArcher
+ID-Type: 110
+
+NPCName: Arqueiro Goblin
+InternalName: GoblinArcher
+ID-Type: 111
+
+NPCName: Cusparada Infame
+InternalName: VileSpit
+ID-Type: 112
+
+NPCName: Parede de Carne
+InternalName: WallofFlesh
+ID-Type: 113
+
+NPCName: Parede de Carne
+InternalName: WallofFleshEye
+ID-Type: 114
+
+NPCName: O Faminto
+InternalName: TheHungry
+ID-Type: 115
+
+NPCName: O Faminto
+InternalName: TheHungryII
+ID-Type: 116
+
+NPCName: Sanguessuga
+InternalName: LeechHead
+ID-Type: 117
+
+NPCName: Sanguessuga
+InternalName: LeechBody
+ID-Type: 118
+
+NPCName: Sanguessuga
+InternalName: LeechTail
+ID-Type: 119
+
+NPCName: Elemental do Caos
+InternalName: ChaosElemental
+ID-Type: 120
+
+NPCName: Geleia
+InternalName: Slimer
+ID-Type: 121
+
+NPCName: Gastrópode
+InternalName: Gastropod
+ID-Type: 122
+
+NPCName: Mecânica Amarrada
+InternalName: BoundMechanic
+ID-Type: 123
+
+NPCName: Mecânica
+InternalName: Mechanic
+ID-Type: 124
+
+NPCName: Retinaser
+InternalName: Retinazer
+ID-Type: 125
+
+NPCName: Spazmatismo
+InternalName: Spazmatism
+ID-Type: 126
+
+NPCName: Esqueletron Alfa
+InternalName: SkeletronPrime
+ID-Type: 127
+
+NPCName: Canhão Alfa
+InternalName: PrimeCannon
+ID-Type: 128
+
+NPCName: Serra Alfa
+InternalName: PrimeSaw
+ID-Type: 129
+
+NPCName: Torno Alfa
+InternalName: PrimeVice
+ID-Type: 130
+
+NPCName: Laser Alfa
+InternalName: PrimeLaser
+ID-Type: 131
+
+NPCName: Zumbi
+InternalName: BaldZombie
+ID-Type: 132
+
+NPCName: Olho Errante
+InternalName: WanderingEye
+ID-Type: 133
+
+NPCName: O Destruidor
+InternalName: TheDestroyer
+ID-Type: 134
+
+NPCName: O Destruidor
+InternalName: TheDestroyerBody
+ID-Type: 135
+
+NPCName: O Destruidor
+InternalName: TheDestroyerTail
+ID-Type: 136
+
+NPCName: Morcego Luminoso
+InternalName: IlluminantBat
+ID-Type: 137
+
+NPCName: Geleia Luminosa
+InternalName: IlluminantSlime
+ID-Type: 138
+
+NPCName: Sonda
+InternalName: Probe
+ID-Type: 139
+
+NPCName: Armadura Possuída
+InternalName: PossessedArmor
+ID-Type: 140
+
+NPCName: Lama Tóxica
+InternalName: ToxicSludge
+ID-Type: 141
+
+NPCName: Papai Noel
+InternalName: SantaClaus
+ID-Type: 142
+
+NPCName: Boneco de Neve Mafioso
+InternalName: SnowmanGangsta
+ID-Type: 143
+
+NPCName: Senhor Facas
+InternalName: MisterStabby
+ID-Type: 144
+
+NPCName: Malandro de Neve
+InternalName: SnowBalla
+ID-Type: 145
+
+NPCName: NPCName.None3
+InternalName: None3
+ID-Type: 146
+
+NPCName: Geleia de Gelo
+InternalName: IceSlime
+ID-Type: 147
+
+NPCName: Pinguim
+InternalName: Penguin
+ID-Type: 148
+
+NPCName: Pinguim
+InternalName: PenguinBlack
+ID-Type: 149
+
+NPCName: Morcego de Gelo
+InternalName: IceBat
+ID-Type: 150
+
+NPCName: Morcego de Lava
+InternalName: Lavabat
+ID-Type: 151
+
+NPCName: Raposa Voadora Gigante
+InternalName: GiantFlyingFox
+ID-Type: 152
+
+NPCName: Tartaruga Gigante
+InternalName: GiantTortoise
+ID-Type: 153
+
+NPCName: Tartaruga de Gelo
+InternalName: IceTortoise
+ID-Type: 154
+
+NPCName: Lobo
+InternalName: Wolf
+ID-Type: 155
+
+NPCName: Diabo Vermelho
+InternalName: RedDevil
+ID-Type: 156
+
+NPCName: Arapaima
+InternalName: Arapaima
+ID-Type: 157
+
+NPCName: Vampiro
+InternalName: VampireBat
+ID-Type: 158
+
+NPCName: Vampiro
+InternalName: Vampire
+ID-Type: 159
+
+NPCName: Trufa
+InternalName: Truffle
+ID-Type: 160
+
+NPCName: Zumbi Congelado
+InternalName: ZombieEskimo
+ID-Type: 161
+
+NPCName: Frankenstein
+InternalName: Frankenstein
+ID-Type: 162
+
+NPCName: Aranha Reclusa Negra
+InternalName: BlackRecluse
+ID-Type: 163
+
+NPCName: Aranha Trepadeira
+InternalName: WallCreeper
+ID-Type: 164
+
+NPCName: Aranha Trepadeira
+InternalName: WallCreeperWall
+ID-Type: 165
+
+NPCName: Monstro do Pântano
+InternalName: SwampThing
+ID-Type: 166
+
+NPCName: Viking Zumbi
+InternalName: UndeadViking
+ID-Type: 167
+
+NPCName: Pinguim Corrompido
+InternalName: CorruptPenguin
+ID-Type: 168
+
+NPCName: Elemental de Gelo
+InternalName: IceElemental
+ID-Type: 169
+
+NPCName: Porco-dragão
+InternalName: PigronCorruption
+ID-Type: 170
+
+NPCName: Porco-dragão
+InternalName: PigronHallow
+ID-Type: 171
+
+NPCName: Mago das Runas
+InternalName: RuneWizard
+ID-Type: 172
+
+NPCName: Crimera
+InternalName: Crimera
+ID-Type: 173
+
+NPCName: Herpling
+InternalName: Herpling
+ID-Type: 174
+
+NPCName: Planta Carnívora Furiosa
+InternalName: AngryTrapper
+ID-Type: 175
+
+NPCName: Vespa de Musgo
+InternalName: MossHornet
+ID-Type: 176
+
+NPCName: Derpling
+InternalName: Derpling
+ID-Type: 177
+
+NPCName: Steampunker
+InternalName: Steampunker
+ID-Type: 178
+
+NPCName: Machado de Carmim
+InternalName: CrimsonAxe
+ID-Type: 179
+
+NPCName: Porco-dragão
+InternalName: PigronCrimson
+ID-Type: 180
+
+NPCName: Monstro da Face
+InternalName: FaceMonster
+ID-Type: 181
+
+NPCName: Nojento Flutuante
+InternalName: FloatyGross
+ID-Type: 182
+
+NPCName: Geleia de Carmim
+InternalName: Crimslime
+ID-Type: 183
+
+NPCName: Geleia de Gelo com Espinhos
+InternalName: SpikedIceSlime
+ID-Type: 184
+
+NPCName: Flinx de Neve
+InternalName: SnowFlinx
+ID-Type: 185
+
+NPCName: Zumbi
+InternalName: PincushionZombie
+ID-Type: 186
+
+NPCName: Zumbi
+InternalName: SlimedZombie
+ID-Type: 187
+
+NPCName: Zumbi
+InternalName: SwampZombie
+ID-Type: 188
+
+NPCName: Zumbi
+InternalName: TwiggyZombie
+ID-Type: 189
+
+NPCName: Olho Demoníaco
+InternalName: CataractEye
+ID-Type: 190
+
+NPCName: Olho Demoníaco
+InternalName: SleepyEye
+ID-Type: 191
+
+NPCName: Olho Demoníaco
+InternalName: DialatedEye
+ID-Type: 192
+
+NPCName: Olho Demoníaco
+InternalName: GreenEye
+ID-Type: 193
+
+NPCName: Olho Demoníaco
+InternalName: PurpleEye
+ID-Type: 194
+
+NPCName: Garota Perdida
+InternalName: LostGirl
+ID-Type: 195
+
+NPCName: Ninfa
+InternalName: Nymph
+ID-Type: 196
+
+NPCName: Viking Armado
+InternalName: ArmoredViking
+ID-Type: 197
+
+NPCName: Lagharto
+InternalName: Lihzahrd
+ID-Type: 198
+
+NPCName: Lagharto
+InternalName: LihzahrdCrawler
+ID-Type: 199
+
+NPCName: Zumbi
+InternalName: FemaleZombie
+ID-Type: 200
+
+NPCName: Esqueleto
+InternalName: HeadacheSkeleton
+ID-Type: 201
+
+NPCName: Esqueleto
+InternalName: MisassembledSkeleton
+ID-Type: 202
+
+NPCName: Esqueleto
+InternalName: PantlessSkeleton
+ID-Type: 203
+
+NPCName: Geleia da Selva com Espinhos
+InternalName: SpikedJungleSlime
+ID-Type: 204
+
+NPCName: Mariposa
+InternalName: Moth
+ID-Type: 205
+
+NPCName: Tritão Gelado
+InternalName: IcyMerman
+ID-Type: 206
+
+NPCName: Comerciante de Tinturas
+InternalName: DyeTrader
+ID-Type: 207
+
+NPCName: Garota da Festa
+InternalName: PartyGirl
+ID-Type: 208
+
+NPCName: Ciborgue
+InternalName: Cyborg
+ID-Type: 209
+
+NPCName: Abelha
+InternalName: Bee
+ID-Type: 210
+
+NPCName: Abelha
+InternalName: BeeSmall
+ID-Type: 211
+
+NPCName: Marinheiro Pirata
+InternalName: PirateDeckhand
+ID-Type: 212
+
+NPCName: Corsário Pirata
+InternalName: PirateCorsair
+ID-Type: 213
+
+NPCName: Pirata Caolho
+InternalName: PirateDeadeye
+ID-Type: 214
+
+NPCName: Pirata Atirador
+InternalName: PirateCrossbower
+ID-Type: 215
+
+NPCName: Capitão Pirata
+InternalName: PirateCaptain
+ID-Type: 216
+
+NPCName: Besouro da Cochonilha
+InternalName: CochinealBeetle
+ID-Type: 217
+
+NPCName: Besouro Ciano
+InternalName: CyanBeetle
+ID-Type: 218
+
+NPCName: Besouro da Laca
+InternalName: LacBeetle
+ID-Type: 219
+
+NPCName: Caracol do Mar
+InternalName: SeaSnail
+ID-Type: 220
+
+NPCName: Lula
+InternalName: Squid
+ID-Type: 221
+
+NPCName: Abelha Rainha
+InternalName: QueenBee
+ID-Type: 222
+
+NPCName: Zumbi com Capa de Chuva
+InternalName: ZombieRaincoat
+ID-Type: 223
+
+NPCName: Peixe Voador
+InternalName: FlyingFish
+ID-Type: 224
+
+NPCName: Geleia com Guarda-chuva
+InternalName: UmbrellaSlime
+ID-Type: 225
+
+NPCName: Cobra Voadora
+InternalName: FlyingSnake
+ID-Type: 226
+
+NPCName: Pintor
+InternalName: Painter
+ID-Type: 227
+
+NPCName: Médico Bruxo
+InternalName: WitchDoctor
+ID-Type: 228
+
+NPCName: Pirata
+InternalName: Pirate
+ID-Type: 229
+
+NPCName: Peixe-dourado
+InternalName: GoldfishWalker
+ID-Type: 230
+
+NPCName: Vespa
+InternalName: HornetFatty
+ID-Type: 231
+
+NPCName: Vespa
+InternalName: HornetHoney
+ID-Type: 232
+
+NPCName: Vespa
+InternalName: HornetLeafy
+ID-Type: 233
+
+NPCName: Vespa
+InternalName: HornetSpikey
+ID-Type: 234
+
+NPCName: Vespa
+InternalName: HornetStingy
+ID-Type: 235
+
+NPCName: Aranha da Selva
+InternalName: JungleCreeper
+ID-Type: 236
+
+NPCName: Aranha da Selva
+InternalName: JungleCreeperWall
+ID-Type: 237
+
+NPCName: Aranha Reclusa Negra
+InternalName: BlackRecluseWall
+ID-Type: 238
+
+NPCName: Aranha de Sangue
+InternalName: BloodCrawler
+ID-Type: 239
+
+NPCName: Aranha de Sangue
+InternalName: BloodCrawlerWall
+ID-Type: 240
+
+NPCName: Peixe de Sangue
+InternalName: BloodFeeder
+ID-Type: 241
+
+NPCName: Água-viva de Sangue
+InternalName: BloodJelly
+ID-Type: 242
+
+NPCName: Golem de Gelo
+InternalName: IceGolem
+ID-Type: 243
+
+NPCName: Geleia do Arco-íris
+InternalName: RainbowSlime
+ID-Type: 244
+
+NPCName: Golem
+InternalName: Golem
+ID-Type: 245
+
+NPCName: Cabeça de Golem
+InternalName: GolemHead
+ID-Type: 246
+
+NPCName: Punho de Golem
+InternalName: GolemFistLeft
+ID-Type: 247
+
+NPCName: Punho de Golem
+InternalName: GolemFistRight
+ID-Type: 248
+
+NPCName: Cabeça de Golem
+InternalName: GolemHeadFree
+ID-Type: 249
+
+NPCName: Nuvem com Raiva
+InternalName: AngryNimbus
+ID-Type: 250
+
+NPCName: Zumbolho
+InternalName: Eyezor
+ID-Type: 251
+
+NPCName: Papagaio
+InternalName: Parrot
+ID-Type: 252
+
+NPCName: Ceifador
+InternalName: Reaper
+ID-Type: 253
+
+NPCName: Zumbi com Esporos
+InternalName: ZombieMushroom
+ID-Type: 254
+
+NPCName: Zumbi com Esporos
+InternalName: ZombieMushroomHat
+ID-Type: 255
+
+NPCName: Fungo-peixe
+InternalName: FungoFish
+ID-Type: 256
+
+NPCName: Fungo Anomura
+InternalName: AnomuraFungus
+ID-Type: 257
+
+NPCName: Joaninha Azul
+InternalName: MushiLadybug
+ID-Type: 258
+
+NPCName: Bulbo de Fungos
+InternalName: FungiBulb
+ID-Type: 259
+
+NPCName: Bulbo de Fungos Gigante
+InternalName: GiantFungiBulb
+ID-Type: 260
+
+NPCName: Esporo de Fungos
+InternalName: FungiSpore
+ID-Type: 261
+
+NPCName: Plantera
+InternalName: Plantera
+ID-Type: 262
+
+NPCName: Gancho da Plantera
+InternalName: PlanterasHook
+ID-Type: 263
+
+NPCName: Tentáculo da Plantera
+InternalName: PlanterasTentacle
+ID-Type: 264
+
+NPCName: Esporo
+InternalName: Spore
+ID-Type: 265
+
+NPCName: Cérebro de Cthulhu
+InternalName: BrainofCthulhu
+ID-Type: 266
+
+NPCName: Creeper
+InternalName: Creeper
+ID-Type: 267
+
+NPCName: Adesivo de Ichor
+InternalName: IchorSticker
+ID-Type: 268
+
+NPCName: Ossos com Armadura Enferrujada
+InternalName: RustyArmoredBonesAxe
+ID-Type: 269
+
+NPCName: Ossos com Armadura Enferrujada
+InternalName: RustyArmoredBonesFlail
+ID-Type: 270
+
+NPCName: Ossos com Armadura Enferrujada
+InternalName: RustyArmoredBonesSword
+ID-Type: 271
+
+NPCName: Ossos com Armadura Enferrujada
+InternalName: RustyArmoredBonesSwordNoArmor
+ID-Type: 272
+
+NPCName: Ossos com Armadura Azul
+InternalName: BlueArmoredBones
+ID-Type: 273
+
+NPCName: Ossos com Armadura Azul
+InternalName: BlueArmoredBonesMace
+ID-Type: 274
+
+NPCName: Ossos com Armadura Azul
+InternalName: BlueArmoredBonesNoPants
+ID-Type: 275
+
+NPCName: Ossos com Armadura Azul
+InternalName: BlueArmoredBonesSword
+ID-Type: 276
+
+NPCName: Ossos com Armadura Infernal
+InternalName: HellArmoredBones
+ID-Type: 277
+
+NPCName: Ossos com Armadura Infernal
+InternalName: HellArmoredBonesSpikeShield
+ID-Type: 278
+
+NPCName: Ossos com Armadura Infernal
+InternalName: HellArmoredBonesMace
+ID-Type: 279
+
+NPCName: Ossos com Armadura Infernal
+InternalName: HellArmoredBonesSword
+ID-Type: 280
+
+NPCName: Mago em Trapos
+InternalName: RaggedCaster
+ID-Type: 281
+
+NPCName: Mago em Trapos
+InternalName: RaggedCasterOpenCoat
+ID-Type: 282
+
+NPCName: Necromancer
+InternalName: Necromancer
+ID-Type: 283
+
+NPCName: Necromancer
+InternalName: NecromancerArmored
+ID-Type: 284
+
+NPCName: Satanista
+InternalName: DiabolistRed
+ID-Type: 285
+
+NPCName: Satanista
+InternalName: DiabolistWhite
+ID-Type: 286
+
+NPCName: Bone Lee
+InternalName: BoneLee
+ID-Type: 287
+
+NPCName: Espírito do Calabouço
+InternalName: DungeonSpirit
+ID-Type: 288
+
+NPCName: Caveira Gigante Amaldiçoada
+InternalName: GiantCursedSkull
+ID-Type: 289
+
+NPCName: Paladino
+InternalName: Paladin
+ID-Type: 290
+
+NPCName: Atirador Esqueleto
+InternalName: SkeletonSniper
+ID-Type: 291
+
+NPCName: Esqueleto Tático
+InternalName: TacticalSkeleton
+ID-Type: 292
+
+NPCName: Comando Esqueleto
+InternalName: SkeletonCommando
+ID-Type: 293
+
+NPCName: Ossos Furiosos
+InternalName: AngryBonesBig
+ID-Type: 294
+
+NPCName: Ossos Furiosos
+InternalName: AngryBonesBigMuscle
+ID-Type: 295
+
+NPCName: Ossos Furiosos
+InternalName: AngryBonesBigHelmet
+ID-Type: 296
+
+NPCName: Gaio-azul
+InternalName: BirdBlue
+ID-Type: 297
+
+NPCName: Cardeal
+InternalName: BirdRed
+ID-Type: 298
+
+NPCName: Esquilo
+InternalName: Squirrel
+ID-Type: 299
+
+NPCName: Camundongo
+InternalName: Mouse
+ID-Type: 300
+
+NPCName: Corvo
+InternalName: Raven
+ID-Type: 301
+
+NPCName: Geleia
+InternalName: SlimeMasked
+ID-Type: 302
+
+NPCName: Coelhinho
+InternalName: BunnySlimed
+ID-Type: 303
+
+NPCName: Abóbora Saltitante
+InternalName: HoppinJack
+ID-Type: 304
+
+NPCName: Espantalho
+InternalName: Scarecrow1
+ID-Type: 305
+
+NPCName: Espantalho
+InternalName: Scarecrow2
+ID-Type: 306
+
+NPCName: Espantalho
+InternalName: Scarecrow3
+ID-Type: 307
+
+NPCName: Espantalho
+InternalName: Scarecrow4
+ID-Type: 308
+
+NPCName: Espantalho
+InternalName: Scarecrow5
+ID-Type: 309
+
+NPCName: Espantalho
+InternalName: Scarecrow6
+ID-Type: 310
+
+NPCName: Espantalho
+InternalName: Scarecrow7
+ID-Type: 311
+
+NPCName: Espantalho
+InternalName: Scarecrow8
+ID-Type: 312
+
+NPCName: Espantalho
+InternalName: Scarecrow9
+ID-Type: 313
+
+NPCName: Espantalho
+InternalName: Scarecrow10
+ID-Type: 314
+
+NPCName: Cavaleiro sem Cabeça
+InternalName: HeadlessHorseman
+ID-Type: 315
+
+NPCName: Fantasma
+InternalName: Ghost
+ID-Type: 316
+
+NPCName: Olho Demoníaco
+InternalName: DemonEyeOwl
+ID-Type: 317
+
+NPCName: Olho Demoníaco
+InternalName: DemonEyeSpaceship
+ID-Type: 318
+
+NPCName: Zumbi
+InternalName: ZombieDoctor
+ID-Type: 319
+
+NPCName: Zumbi
+InternalName: ZombieSuperman
+ID-Type: 320
+
+NPCName: Zumbi
+InternalName: ZombiePixie
+ID-Type: 321
+
+NPCName: Esqueleto
+InternalName: SkeletonTopHat
+ID-Type: 322
+
+NPCName: Esqueleto
+InternalName: SkeletonAstonaut
+ID-Type: 323
+
+NPCName: Esqueleto
+InternalName: SkeletonAlien
+ID-Type: 324
+
+NPCName: Árvore da Morte
+InternalName: MourningWood
+ID-Type: 325
+
+NPCName: Galho Vivo
+InternalName: Splinterling
+ID-Type: 326
+
+NPCName: Reibóbora
+InternalName: Pumpking
+ID-Type: 327
+
+NPCName: Reibóbora
+InternalName: PumpkingBlade
+ID-Type: 328
+
+NPCName: Cão do Inferno
+InternalName: Hellhound
+ID-Type: 329
+
+NPCName: Poltergeist
+InternalName: Poltergeist
+ID-Type: 330
+
+NPCName: Zumbi
+InternalName: ZombieXmas
+ID-Type: 331
+
+NPCName: Zumbi
+InternalName: ZombieSweater
+ID-Type: 332
+
+NPCName: Geleia
+InternalName: SlimeRibbonWhite
+ID-Type: 333
+
+NPCName: Geleia
+InternalName: SlimeRibbonYellow
+ID-Type: 334
+
+NPCName: Geleia
+InternalName: SlimeRibbonGreen
+ID-Type: 335
+
+NPCName: Geleia
+InternalName: SlimeRibbonRed
+ID-Type: 336
+
+NPCName: Coelhinho
+InternalName: BunnyXmas
+ID-Type: 337
+
+NPCName: Elfo Zumbi
+InternalName: ZombieElf
+ID-Type: 338
+
+NPCName: Elfo Zumbi
+InternalName: ZombieElfBeard
+ID-Type: 339
+
+NPCName: Elfo Zumbi
+InternalName: ZombieElfGirl
+ID-Type: 340
+
+NPCName: Presente Falso
+InternalName: PresentMimic
+ID-Type: 341
+
+NPCName: Boneco de Gengibre
+InternalName: GingerbreadMan
+ID-Type: 342
+
+NPCName: Yeti
+InternalName: Yeti
+ID-Type: 343
+
+NPCName: Everscream
+InternalName: Everscream
+ID-Type: 344
+
+NPCName: Rainha do Gelo
+InternalName: IceQueen
+ID-Type: 345
+
+NPCName: Papai-Noel-NK1
+InternalName: SantaNK1
+ID-Type: 346
+
+NPCName: Elf-icóptero
+InternalName: ElfCopter
+ID-Type: 347
+
+NPCName: Quebra-nozes
+InternalName: Nutcracker
+ID-Type: 348
+
+NPCName: Quebra-nozes
+InternalName: NutcrackerSpinning
+ID-Type: 349
+
+NPCName: Arqueiro Elfo
+InternalName: ElfArcher
+ID-Type: 350
+
+NPCName: Krampus
+InternalName: Krampus
+ID-Type: 351
+
+NPCName: Flocko
+InternalName: Flocko
+ID-Type: 352
+
+NPCName: Cabeleireira
+InternalName: Stylist
+ID-Type: 353
+
+NPCName: Cabeleireira nas Teias
+InternalName: WebbedStylist
+ID-Type: 354
+
+NPCName: Vagalume
+InternalName: Firefly
+ID-Type: 355
+
+NPCName: Borboleta
+InternalName: Butterfly
+ID-Type: 356
+
+NPCName: Verme
+InternalName: Worm
+ID-Type: 357
+
+NPCName: Inseto Relâmpago
+InternalName: LightningBug
+ID-Type: 358
+
+NPCName: Caracol
+InternalName: Snail
+ID-Type: 359
+
+NPCName: Lesma Brilhante
+InternalName: GlowingSnail
+ID-Type: 360
+
+NPCName: Rã
+InternalName: Frog
+ID-Type: 361
+
+NPCName: Pato
+InternalName: Duck
+ID-Type: 362
+
+NPCName: Pato
+InternalName: Duck2
+ID-Type: 363
+
+NPCName: Pato
+InternalName: DuckWhite
+ID-Type: 364
+
+NPCName: Pato
+InternalName: DuckWhite2
+ID-Type: 365
+
+NPCName: Escorpião
+InternalName: ScorpionBlack
+ID-Type: 366
+
+NPCName: Escorpião
+InternalName: Scorpion
+ID-Type: 367
+
+NPCName: Caixeiro-viajante
+InternalName: TravellingMerchant
+ID-Type: 368
+
+NPCName: Pescador
+InternalName: Angler
+ID-Type: 369
+
+NPCName: Duque Peixe-dragão
+InternalName: DukeFishron
+ID-Type: 370
+
+NPCName: Bolha Explosiva
+InternalName: DetonatingBubble
+ID-Type: 371
+
+NPCName: Tubarão-dragão
+InternalName: Sharkron
+ID-Type: 372
+
+NPCName: Tubarão-dragão
+InternalName: Sharkron2
+ID-Type: 373
+
+NPCName: Verme da Trufa
+InternalName: TruffleWorm
+ID-Type: 374
+
+NPCName: Verme da Trufa
+InternalName: TruffleWormDigger
+ID-Type: 375
+
+NPCName: Pescador Adormecido
+InternalName: SleepingAngler
+ID-Type: 376
+
+NPCName: Gafanhoto
+InternalName: Grasshopper
+ID-Type: 377
+
+NPCName: Bomba de Dentes Falsos
+InternalName: ChatteringTeethBomb
+ID-Type: 378
+
+NPCName: Arqueiro Cultista
+InternalName: CultistArcherBlue
+ID-Type: 379
+
+NPCName: Arqueiro Cultista
+InternalName: CultistArcherWhite
+ID-Type: 380
+
+NPCName: Embaralhador de Cérebros
+InternalName: BrainScrambler
+ID-Type: 381
+
+NPCName: Atirador de Raios
+InternalName: RayGunner
+ID-Type: 382
+
+NPCName: Oficial de Marte
+InternalName: MartianOfficer
+ID-Type: 383
+
+NPCName: Escudo de Bolhas
+InternalName: ForceBubble
+ID-Type: 384
+
+NPCName: Soldado Cinza
+InternalName: GrayGrunt
+ID-Type: 385
+
+NPCName: Engenheiro de Marte
+InternalName: MartianEngineer
+ID-Type: 386
+
+NPCName: Torreão Tesla
+InternalName: MartianTurret
+ID-Type: 387
+
+NPCName: Drone de Marte
+InternalName: MartianDrone
+ID-Type: 388
+
+NPCName: Gigaelétrico
+InternalName: GigaZapper
+ID-Type: 389
+
+NPCName: Atirador no Scutlix
+InternalName: ScutlixRider
+ID-Type: 390
+
+NPCName: Scutlix
+InternalName: Scutlix
+ID-Type: 391
+
+NPCName: Disco Voador de Marte
+InternalName: MartianSaucer
+ID-Type: 392
+
+NPCName: Torreão do Disco Voador de Marte
+InternalName: MartianSaucerTurret
+ID-Type: 393
+
+NPCName: Canhão do Disco Voador de Marte
+InternalName: MartianSaucerCannon
+ID-Type: 394
+
+NPCName: Disco Voador de Marte
+InternalName: MartianSaucerCore
+ID-Type: 395
+
+NPCName: Senhor da Lua
+InternalName: MoonLordHead
+ID-Type: 396
+
+NPCName: Mão do Senhor da Lua
+InternalName: MoonLordHand
+ID-Type: 397
+
+NPCName: Núcleo do Senhor da Lua
+InternalName: MoonLordCore
+ID-Type: 398
+
+NPCName: Sonda de Marte
+InternalName: MartianProbe
+ID-Type: 399
+
+NPCName: Verdadeiro Olho de Cthulhu
+InternalName: MoonLordFreeEye
+ID-Type: 400
+
+NPCName: Coágulo do Sanguessuga da Lua
+InternalName: MoonLordLeechBlob
+ID-Type: 401
+
+NPCName: Explorador da Via-Láctea
+InternalName: StardustWormHead
+ID-Type: 402
+
+NPCName: NPCName.StardustWormBody
+InternalName: StardustWormBody
+ID-Type: 403
+
+NPCName: NPCName.StardustWormTail
+InternalName: StardustWormTail
+ID-Type: 404
+
+NPCName: Célula de Estrelas
+InternalName: StardustCellBig
+ID-Type: 405
+
+NPCName: Minicélula de Estrelas
+InternalName: StardustCellSmall
+ID-Type: 406
+
+NPCName: Invasor de Fluxo
+InternalName: StardustJellyfishBig
+ID-Type: 407
+
+NPCName: NPCName.StardustJellyfishSmall
+InternalName: StardustJellyfishSmall
+ID-Type: 408
+
+NPCName: Criador de Brilhos
+InternalName: StardustSpiderBig
+ID-Type: 409
+
+NPCName: Brilho
+InternalName: StardustSpiderSmall
+ID-Type: 410
+
+NPCName: Observador das Estrelas
+InternalName: StardustSoldier
+ID-Type: 411
+
+NPCName: Centopeia-Lacraia
+InternalName: SolarCrawltipedeHead
+ID-Type: 412
+
+NPCName: Centopeia-Lacraia
+InternalName: SolarCrawltipedeBody
+ID-Type: 413
+
+NPCName: Centopeia-Lacraia
+InternalName: SolarCrawltipedeTail
+ID-Type: 414
+
+NPCName: Dragão de Lava
+InternalName: SolarDrakomire
+ID-Type: 415
+
+NPCName: Cavaleiro do Dragão de Lava
+InternalName: SolarDrakomireRider
+ID-Type: 416
+
+NPCName: Sroller
+InternalName: SolarSroller
+ID-Type: 417
+
+NPCName: Corite
+InternalName: SolarCorite
+ID-Type: 418
+
+NPCName: Seleniano
+InternalName: SolarSolenian
+ID-Type: 419
+
+NPCName: Flutuador de Nébula
+InternalName: NebulaBrain
+ID-Type: 420
+
+NPCName: Sugador de Cérebros
+InternalName: NebulaHeadcrab
+ID-Type: 421
+
+NPCName: Fera da Evolução
+InternalName: NebulaBeast
+ID-Type: 423
+
+NPCName: Vidente
+InternalName: NebulaSoldier
+ID-Type: 424
+
+NPCName: Mergulhador da Tempestade
+InternalName: VortexRifleman
+ID-Type: 425
+
+NPCName: Rainha Vespa
+InternalName: VortexHornetQueen
+ID-Type: 426
+
+NPCName: Vespa Alienígena
+InternalName: VortexHornet
+ID-Type: 427
+
+NPCName: Larva Alienígena
+InternalName: VortexLarva
+ID-Type: 428
+
+NPCName: Filho do Vórtice
+InternalName: VortexSoldier
+ID-Type: 429
+
+NPCName: Zumbi
+InternalName: ArmedZombie
+ID-Type: 430
+
+NPCName: Zumbi Congelado
+InternalName: ArmedZombieEskimo
+ID-Type: 431
+
+NPCName: Zumbi
+InternalName: ArmedZombiePincussion
+ID-Type: 432
+
+NPCName: Zumbi
+InternalName: ArmedZombieSlimed
+ID-Type: 433
+
+NPCName: Zumbi
+InternalName: ArmedZombieSwamp
+ID-Type: 434
+
+NPCName: Zumbi
+InternalName: ArmedZombieTwiggy
+ID-Type: 435
+
+NPCName: Zumbi
+InternalName: ArmedZombieCenx
+ID-Type: 436
+
+NPCName: Placa Misteriosa
+InternalName: CultistTablet
+ID-Type: 437
+
+NPCName: Devoto Lunático
+InternalName: CultistDevote
+ID-Type: 438
+
+NPCName: Cultista Lunático
+InternalName: CultistBoss
+ID-Type: 439
+
+NPCName: Cultista Lunático
+InternalName: CultistBossClone
+ID-Type: 440
+
+NPCName: Pássaro de Ouro
+InternalName: GoldBird
+ID-Type: 442
+
+NPCName: Coelhinho de Ouro
+InternalName: GoldBunny
+ID-Type: 443
+
+NPCName: Borboleta de Ouro
+InternalName: GoldButterfly
+ID-Type: 444
+
+NPCName: Sapo de Ouro
+InternalName: GoldFrog
+ID-Type: 445
+
+NPCName: Gafanhoto de Ouro
+InternalName: GoldGrasshopper
+ID-Type: 446
+
+NPCName: Camundongo de Ouro
+InternalName: GoldMouse
+ID-Type: 447
+
+NPCName: Verme de Ouro
+InternalName: GoldWorm
+ID-Type: 448
+
+NPCName: Esqueleto
+InternalName: BoneThrowingSkeleton
+ID-Type: 449
+
+NPCName: Esqueleto
+InternalName: BoneThrowingSkeleton2
+ID-Type: 450
+
+NPCName: Esqueleto
+InternalName: BoneThrowingSkeleton3
+ID-Type: 451
+
+NPCName: Esqueleto
+InternalName: BoneThrowingSkeleton4
+ID-Type: 452
+
+NPCName: Comerciante Esqueleto
+InternalName: SkeletonMerchant
+ID-Type: 453
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonHead
+ID-Type: 454
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonBody1
+ID-Type: 455
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonBody2
+ID-Type: 456
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonBody3
+ID-Type: 457
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonBody4
+ID-Type: 458
+
+NPCName: Dragão Fantasma
+InternalName: CultistDragonTail
+ID-Type: 459
+
+NPCName: Açougueiro
+InternalName: Butcher
+ID-Type: 460
+
+NPCName: Criatura das Profundezas
+InternalName: CreatureFromTheDeep
+ID-Type: 461
+
+NPCName: Fritz
+InternalName: Fritz
+ID-Type: 462
+
+NPCName: Cabeça de Pregos
+InternalName: Nailhead
+ID-Type: 463
+
+NPCName: Coelhinho Terrível
+InternalName: CrimsonBunny
+ID-Type: 464
+
+NPCName: Peixe-Dourado Terrível
+InternalName: CrimsonGoldfish
+ID-Type: 465
+
+NPCName: Psicopata
+InternalName: Psycho
+ID-Type: 466
+
+NPCName: Esfera Mortal
+InternalName: DeadlySphere
+ID-Type: 467
+
+NPCName: Dr. Homem-Mosca
+InternalName: DrManFly
+ID-Type: 468
+
+NPCName: O Possuído
+InternalName: ThePossessed
+ID-Type: 469
+
+NPCName: Pinguim Terrível
+InternalName: CrimsonPenguin
+ID-Type: 470
+
+NPCName: Feiticeiro Goblin
+InternalName: GoblinSummoner
+ID-Type: 471
+
+NPCName: Aparição de Chamas das Sombras
+InternalName: ShadowFlameApparition
+ID-Type: 472
+
+NPCName: Mímico Corrompido
+InternalName: BigMimicCorruption
+ID-Type: 473
+
+NPCName: Mímico de Carmim
+InternalName: BigMimicCrimson
+ID-Type: 474
+
+NPCName: Mímico Consagrado
+InternalName: BigMimicHallow
+ID-Type: 475
+
+NPCName: Mímico da Selva
+InternalName: BigMimicJungle
+ID-Type: 476
+
+NPCName: Mothron
+InternalName: Mothron
+ID-Type: 477
+
+NPCName: Ovo de Mothron
+InternalName: MothronEgg
+ID-Type: 478
+
+NPCName: Filhote de Mothron
+InternalName: MothronSpawn
+ID-Type: 479
+
+NPCName: Medusa
+InternalName: Medusa
+ID-Type: 480
+
+NPCName: Hoplite
+InternalName: GreekSkeleton
+ID-Type: 481
+
+NPCName: Golem de Granito
+InternalName: GraniteGolem
+ID-Type: 482
+
+NPCName: Elemental de Granito
+InternalName: GraniteFlyer
+ID-Type: 483
+
+NPCName: Nightcrawler Encantado
+InternalName: EnchantedNightcrawler
+ID-Type: 484
+
+NPCName: Larvinha
+InternalName: Grubby
+ID-Type: 485
+
+NPCName: Lesminha
+InternalName: Sluggy
+ID-Type: 486
+
+NPCName: Insetinho
+InternalName: Buggy
+ID-Type: 487
+
+NPCName: Boneco para Treinamento
+InternalName: TargetDummy
+ID-Type: 488
+
+NPCName: Zumbi Sangrento
+InternalName: BloodZombie
+ID-Type: 489
+
+NPCName: Drippler
+InternalName: Drippler
+ID-Type: 490
+
+NPCName: Holandês Voador
+InternalName: PirateShip
+ID-Type: 491
+
+NPCName: Canhão do Holandês
+InternalName: PirateShipCannon
+ID-Type: 492
+
+NPCName: Coluna de Pó das Estrelas
+InternalName: LunarTowerStardust
+ID-Type: 493
+
+NPCName: Caranguejo-Pai
+InternalName: Crawdad
+ID-Type: 494
+
+NPCName: Caranguejo-Pai
+InternalName: Crawdad2
+ID-Type: 495
+
+NPCName: Shelly Gigante
+InternalName: GiantShelly
+ID-Type: 496
+
+NPCName: Shelly Gigante
+InternalName: GiantShelly2
+ID-Type: 497
+
+NPCName: Salamandra
+InternalName: Salamander
+ID-Type: 498
+
+NPCName: Salamandra
+InternalName: Salamander2
+ID-Type: 499
+
+NPCName: Salamandra
+InternalName: Salamander3
+ID-Type: 500
+
+NPCName: Salamandra
+InternalName: Salamander4
+ID-Type: 501
+
+NPCName: Salamandra
+InternalName: Salamander5
+ID-Type: 502
+
+NPCName: Salamandra
+InternalName: Salamander6
+ID-Type: 503
+
+NPCName: Salamandra
+InternalName: Salamander7
+ID-Type: 504
+
+NPCName: Salamandra
+InternalName: Salamander8
+ID-Type: 505
+
+NPCName: Salamandra
+InternalName: Salamander9
+ID-Type: 506
+
+NPCName: Coluna de Nébula
+InternalName: LunarTowerNebula
+ID-Type: 507
+
+NPCName: Coluna do Vórtice
+InternalName: LunarTowerVortex
+ID-Type: 422
+
+NPCName: Cobrador de Impostos
+InternalName: TaxCollector
+ID-Type: 441
+
+NPCName: Formiga-leão Corredora Gigante
+InternalName: GiantWalkingAntlion
+ID-Type: 508
+
+NPCName: Formiga-leão Voadora Gigante
+InternalName: GiantFlyingAntlion
+ID-Type: 509
+
+NPCName: Verme Maldito
+InternalName: DuneSplicerHead
+ID-Type: 510
+
+NPCName: Verme Maldito
+InternalName: DuneSplicerBody
+ID-Type: 511
+
+NPCName: Verme Maldito
+InternalName: DuneSplicerTail
+ID-Type: 512
+
+NPCName: Verme das Covas
+InternalName: TombCrawlerHead
+ID-Type: 513
+
+NPCName: Verme das Covas
+InternalName: TombCrawlerBody
+ID-Type: 514
+
+NPCName: Verme das Covas
+InternalName: TombCrawlerTail
+ID-Type: 515
+
+NPCName: Chamas do Sol
+InternalName: SolarFlare
+ID-Type: 516
+
+NPCName: Coluna do Sol
+InternalName: LunarTowerSolar
+ID-Type: 517
+
+NPCName: Draconiano
+InternalName: SolarSpearman
+ID-Type: 518
+
+NPCName: Fragmento do Sol
+InternalName: SolarGoop
+ID-Type: 519
+
+NPCName: Andarilho de Marte
+InternalName: MartianWalker
+ID-Type: 520
+
+NPCName: Visão Antiga
+InternalName: AncientCultistSquidhead
+ID-Type: 521
+
+NPCName: Luz Antiga
+InternalName: AncientLight
+ID-Type: 522
+
+NPCName: Desgraça Antiga
+InternalName: AncientDoom
+ID-Type: 523
+
+NPCName: Ghoul
+InternalName: DesertGhoul
+ID-Type: 524
+
+NPCName: Ghoul Terrível
+InternalName: DesertGhoulCorruption
+ID-Type: 525
+
+NPCName: Ghoul Marcado
+InternalName: DesertGhoulCrimson
+ID-Type: 526
+
+NPCName: Ghoul Sonhador
+InternalName: DesertGhoulHallow
+ID-Type: 527
+
+NPCName: Cauda de Lâmia
+InternalName: DesertLamiaLight
+ID-Type: 528
+
+NPCName: Cauda de Lâmia
+InternalName: DesertLamiaDark
+ID-Type: 529
+
+NPCName: Caçador de Areia
+InternalName: DesertScorpionWalk
+ID-Type: 530
+
+NPCName: Caçador de Areia
+InternalName: DesertScorpionWall
+ID-Type: 531
+
+NPCName: Basilisco
+InternalName: DesertBeast
+ID-Type: 532
+
+NPCName: Espírito do Deserto
+InternalName: DesertDjinn
+ID-Type: 533
+
+NPCName: Alma Torturada
+InternalName: DemonTaxCollector
+ID-Type: 534
+
+NPCName: Geleia com Espinhos
+InternalName: SlimeSpiked
+ID-Type: 535
+
+NPCName: A Noiva
+InternalName: TheBride
+ID-Type: 536
+
+NPCName: Geleia de Areia
+InternalName: SandSlime
+ID-Type: 537
+
+NPCName: Esquilo Vermelho
+InternalName: SquirrelRed
+ID-Type: 538
+
+NPCName: Esquilo de Ouro
+InternalName: SquirrelGold
+ID-Type: 539
+
+NPCName: Coelhinho
+InternalName: PartyBunny
+ID-Type: 540
+
+NPCName: Elemental de Areia
+InternalName: SandElemental
+ID-Type: 541
+
+NPCName: Tubarão de Areia
+InternalName: SandShark
+ID-Type: 542
+
+NPCName: Mordedor de Ossos
+InternalName: SandsharkCorrupt
+ID-Type: 543
+
+NPCName: Ladrão de Carne
+InternalName: SandsharkCrimson
+ID-Type: 544
+
+NPCName: Moedor de Cristal
+InternalName: SandsharkHallow
+ID-Type: 545
+
+NPCName: Galhos Furiosos
+InternalName: Tumbleweed
+ID-Type: 546
+
+NPCName: ???
+InternalName: DD2AttackerTest
+ID-Type: 547
+
+NPCName: Cristal de Eternia
+InternalName: DD2EterniaCrystal
+ID-Type: 548
+
+NPCName: Portal Misterioso
+InternalName: DD2LanePortal
+ID-Type: 549
+
+NPCName: Taberneiro
+InternalName: DD2Bartender
+ID-Type: 550
+
+NPCName: Betsy
+InternalName: DD2Betsy
+ID-Type: 551
+
+NPCName: Goblin de Éter
+InternalName: DD2GoblinT1
+ID-Type: 552
+
+NPCName: Goblin de Éter
+InternalName: DD2GoblinT2
+ID-Type: 553
+
+NPCName: Goblin de Éter
+InternalName: DD2GoblinT3
+ID-Type: 554
+
+NPCName: Bombardeiro Goblin de Éter
+InternalName: DD2GoblinBomberT1
+ID-Type: 555
+
+NPCName: Bombardeiro Goblin de Éter
+InternalName: DD2GoblinBomberT2
+ID-Type: 556
+
+NPCName: Bombardeiro Goblin de Éter
+InternalName: DD2GoblinBomberT3
+ID-Type: 557
+
+NPCName: Serpe de Éter
+InternalName: DD2WyvernT1
+ID-Type: 558
+
+NPCName: Serpe de Éter
+InternalName: DD2WyvernT2
+ID-Type: 559
+
+NPCName: Serpe de Éter
+InternalName: DD2WyvernT3
+ID-Type: 560
+
+NPCName: Lançador de Dardos de Éter
+InternalName: DD2JavelinstT1
+ID-Type: 561
+
+NPCName: Lançador de Dardos de Éter
+InternalName: DD2JavelinstT2
+ID-Type: 562
+
+NPCName: Lançador de Dardos de Éter
+InternalName: DD2JavelinstT3
+ID-Type: 563
+
+NPCName: Mago Sombrio
+InternalName: DD2DarkMageT1
+ID-Type: 564
+
+NPCName: Mago Sombrio
+InternalName: DD2DarkMageT3
+ID-Type: 565
+
+NPCName: Esqueleto do Ancião
+InternalName: DD2SkeletonT1
+ID-Type: 566
+
+NPCName: Esqueleto do Ancião
+InternalName: DD2SkeletonT3
+ID-Type: 567
+
+NPCName: Fera Definhada
+InternalName: DD2WitherBeastT2
+ID-Type: 568
+
+NPCName: Fera Definhada
+InternalName: DD2WitherBeastT3
+ID-Type: 569
+
+NPCName: Drakin
+InternalName: DD2DrakinT2
+ID-Type: 570
+
+NPCName: Drakin
+InternalName: DD2DrakinT3
+ID-Type: 571
+
+NPCName: Kobold
+InternalName: DD2KoboldWalkerT2
+ID-Type: 572
+
+NPCName: Kobold
+InternalName: DD2KoboldWalkerT3
+ID-Type: 573
+
+NPCName: Kobold Voador
+InternalName: DD2KoboldFlyerT2
+ID-Type: 574
+
+NPCName: Kobold Voador
+InternalName: DD2KoboldFlyerT3
+ID-Type: 575
+
+NPCName: Ogro
+InternalName: DD2OgreT2
+ID-Type: 576
+
+NPCName: Ogro
+InternalName: DD2OgreT3
+ID-Type: 577
+
+NPCName: Inseto Relâmpago de Éter
+InternalName: DD2LightningBugT3
+ID-Type: 578
+
+NPCName: Homem Inconsciente
+InternalName: BartenderUnconscious
+ID-Type: 579
+
+NPCName: Formiga-leão Corredora
+InternalName: WalkingAntlion
+ID-Type: 580
+
+NPCName: Formiga-leão Voadora
+InternalName: FlyingAntlion
+ID-Type: 581
+
+NPCName: Larva de Formiga-leão
+InternalName: LarvaeAntlion
+ID-Type: 582
+
+NPCName: Fada Cor-de-rosa
+InternalName: FairyCritterPink
+ID-Type: 583
+
+NPCName: Fada Verde
+InternalName: FairyCritterGreen
+ID-Type: 584
+
+NPCName: Fada Azul
+InternalName: FairyCritterBlue
+ID-Type: 585
+
+NPCName: Tritão Zumbi
+InternalName: ZombieMerman
+ID-Type: 586
+
+NPCName: Olho Errante
+InternalName: EyeballFlyingFish
+ID-Type: 587
+
+NPCName: Golfista
+InternalName: Golfer
+ID-Type: 588
+
+NPCName: Golfista
+InternalName: GolferRescue
+ID-Type: 589
+
+NPCName: Zumbi
+InternalName: TorchZombie
+ID-Type: 590
+
+NPCName: Zumbi
+InternalName: ArmedTorchZombie
+ID-Type: 591
+
+NPCName: Peixe-dourado de Ouro
+InternalName: GoldGoldfish
+ID-Type: 592
+
+NPCName: Peixe-dourado de Ouro
+InternalName: GoldGoldfishWalker
+ID-Type: 593
+
+NPCName: Balão Ventoso
+InternalName: WindyBalloon
+ID-Type: 594
+
+NPCName: Libélula
+InternalName: BlackDragonfly
+ID-Type: 595
+
+NPCName: Libélula
+InternalName: BlueDragonfly
+ID-Type: 596
+
+NPCName: Libélula
+InternalName: GreenDragonfly
+ID-Type: 597
+
+NPCName: Libélula
+InternalName: OrangeDragonfly
+ID-Type: 598
+
+NPCName: Libélula
+InternalName: RedDragonfly
+ID-Type: 599
+
+NPCName: Libélula
+InternalName: YellowDragonfly
+ID-Type: 600
+
+NPCName: Libélula Dourada
+InternalName: GoldDragonfly
+ID-Type: 601
+
+NPCName: Gaivota
+InternalName: Seagull
+ID-Type: 602
+
+NPCName: Gaivota
+InternalName: Seagull2
+ID-Type: 603
+
+NPCName: Joaninha
+InternalName: LadyBug
+ID-Type: 604
+
+NPCName: Joaninha de Ouro
+InternalName: GoldLadyBug
+ID-Type: 605
+
+NPCName: Nematoide
+InternalName: Maggot
+ID-Type: 606
+
+NPCName: Barrigudinho
+InternalName: Pupfish
+ID-Type: 607
+
+NPCName: Mergulhão
+InternalName: Grebe
+ID-Type: 608
+
+NPCName: Mergulhão
+InternalName: Grebe2
+ID-Type: 609
+
+NPCName: Rato
+InternalName: Rat
+ID-Type: 610
+
+NPCName: Coruja
+InternalName: Owl
+ID-Type: 611
+
+NPCName: Aranha-d'água
+InternalName: WaterStrider
+ID-Type: 612
+
+NPCName: Aranha-d'água de Ouro
+InternalName: GoldWaterStrider
+ID-Type: 613
+
+NPCName: Coelhinho Explosivo
+InternalName: ExplosiveBunny
+ID-Type: 614
+
+NPCName: Golfinho
+InternalName: Dolphin
+ID-Type: 615
+
+NPCName: Tartaruga
+InternalName: Turtle
+ID-Type: 616
+
+NPCName: Tartaruga da Selva
+InternalName: TurtleJungle
+ID-Type: 617
+
+NPCName: Encouranáutilo
+InternalName: BloodNautilus
+ID-Type: 618
+
+NPCName: Lula de Sangue
+InternalName: BloodSquid
+ID-Type: 619
+
+NPCName: Tubarão Hemogoblin
+InternalName: GoblinShark
+ID-Type: 620
+
+NPCName: Enguia de Sangue
+InternalName: BloodEelHead
+ID-Type: 621
+
+NPCName: Enguia de Sangue
+InternalName: BloodEelBody
+ID-Type: 622
+
+NPCName: Enguia de Sangue
+InternalName: BloodEelTail
+ID-Type: 623
+
+NPCName: Gnomo
+InternalName: Gnome
+ID-Type: 624
+
+NPCName: Tartaruga Marinha
+InternalName: SeaTurtle
+ID-Type: 625
+
+NPCName: Cavalo-marinho
+InternalName: Seahorse
+ID-Type: 626
+
+NPCName: Cavalo-marinho de Ouro
+InternalName: GoldSeahorse
+ID-Type: 627
+
+NPCName: Dente-de-leão Furioso
+InternalName: Dandelion
+ID-Type: 628
+
+NPCName: Mímico de Gelo
+InternalName: IceMimic
+ID-Type: 629
+
+NPCName: Múmia do Sangue
+InternalName: BloodMummy
+ID-Type: 630
+
+NPCName: Golem de Pedra
+InternalName: RockGolem
+ID-Type: 631
+
+NPCName: Zumbi Nematoide
+InternalName: MaggotZombie
+ID-Type: 632
+
+NPCName: Zoologista
+InternalName: BestiaryGirl
+ID-Type: 633
+
+NPCName: Morcego com Esporos
+InternalName: SporeBat
+ID-Type: 634
+
+NPCName: Esqueleto com Esporos
+InternalName: SporeSkeleton
+ID-Type: 635
+
+NPCName: Imperatriz da Luz
+InternalName: HallowBoss
+ID-Type: 636
+
+NPCName: Gato
+InternalName: TownCat
+ID-Type: 637
+
+NPCName: Cão
+InternalName: TownDog
+ID-Type: 638
+
+NPCName: Esquilo de Ametista
+InternalName: GemSquirrelAmethyst
+ID-Type: 639
+
+NPCName: Esquilo de Topázio
+InternalName: GemSquirrelTopaz
+ID-Type: 640
+
+NPCName: Esquilo de Safira
+InternalName: GemSquirrelSapphire
+ID-Type: 641
+
+NPCName: Esquilo de Esmeralda
+InternalName: GemSquirrelEmerald
+ID-Type: 642
+
+NPCName: Esquilo de Rubi
+InternalName: GemSquirrelRuby
+ID-Type: 643
+
+NPCName: Esquilo de Diamante
+InternalName: GemSquirrelDiamond
+ID-Type: 644
+
+NPCName: Esquilo de Âmbar
+InternalName: GemSquirrelAmber
+ID-Type: 645
+
+NPCName: Coelhinho de Ametista
+InternalName: GemBunnyAmethyst
+ID-Type: 646
+
+NPCName: Coelhinho de Topázio
+InternalName: GemBunnyTopaz
+ID-Type: 647
+
+NPCName: Coelhinho de Safira
+InternalName: GemBunnySapphire
+ID-Type: 648
+
+NPCName: Coelhinho de Esmeralda
+InternalName: GemBunnyEmerald
+ID-Type: 649
+
+NPCName: Coelhinho de Rubi
+InternalName: GemBunnyRuby
+ID-Type: 650
+
+NPCName: Coelhinho de Diamante
+InternalName: GemBunnyDiamond
+ID-Type: 651
+
+NPCName: Coelhinho de Âmbar
+InternalName: GemBunnyAmber
+ID-Type: 652
+
+NPCName: Borboleta Infernal
+InternalName: HellButterfly
+ID-Type: 653
+
+NPCName: Mosca de Lava
+InternalName: Lavafly
+ID-Type: 654
+
+NPCName: Caracol de Magma
+InternalName: MagmaSnail
+ID-Type: 655
+
+NPCName: Coelhinho
+InternalName: TownBunny
+ID-Type: 656
+
+NPCName: Geleia Rainha
+InternalName: QueenSlimeBoss
+ID-Type: 657
+
+NPCName: Geleia de Cristal
+InternalName: QueenSlimeMinionBlue
+ID-Type: 658
+
+NPCName: Geleia Saltitante
+InternalName: QueenSlimeMinionPink
+ID-Type: 659
+
+NPCName: Geleia Celestial
+InternalName: QueenSlimeMinionPurple
+ID-Type: 660
+
+NPCName: Crisopídeo Prismático
+InternalName: EmpressButterfly
+ID-Type: 661
+
+NPCName: Maldição Pirata
+InternalName: PirateGhost
+ID-Type: 662
+
+NPCName: Princesa
+InternalName: Princess
+ID-Type: 663
+
+NPCName: O Deus da Tocha
+InternalName: TorchGod
+ID-Type: 664
+
+NPCName: Bola do Caos
+InternalName: ChaosBallTim
+ID-Type: 665
+
+NPCName: Cusparada Infame
+InternalName: VileSpitEaterOfWorlds
+ID-Type: 666
+
+NPCName: Geleia Dourada
+InternalName: GoldenSlime
+ID-Type: 667
+
+NPCName: Cervoclope
+InternalName: Deerclops
+ID-Type: 668
+
+NPCName: Maria-fedida
+InternalName: Stinkbug
+ID-Type: 669
+
+NPCName: Geleia Nerdy
+InternalName: TownSlimeBlue
+ID-Type: 670
+
+NPCName: Arara Escarlate
+InternalName: ScarletMacaw
+ID-Type: 671
+
+NPCName: Arara Azul
+InternalName: BlueMacaw
+ID-Type: 672
+
+NPCName: Tucano
+InternalName: Toucan
+ID-Type: 673
+
+NPCName: Calopsita Amarela
+InternalName: YellowCockatiel
+ID-Type: 674
+
+NPCName: Calopsita Acinzentada
+InternalName: GrayCockatiel
+ID-Type: 675
+
+NPCName: Geleia Brilhante
+InternalName: ShimmerSlime
+ID-Type: 676
+
+NPCName: Fadinha
+InternalName: Shimmerfly
+ID-Type: 677
+
+NPCName: Geleia Legal
+InternalName: TownSlimeGreen
+ID-Type: 678
+
+NPCName: Geleia Antiga
+InternalName: TownSlimeOld
+ID-Type: 679
+
+NPCName: Geleia Desajeitada
+InternalName: TownSlimePurple
+ID-Type: 680
+
+NPCName: Geleia Diva
+InternalName: TownSlimeRainbow
+ID-Type: 681
+
+NPCName: Geleia Rude
+InternalName: TownSlimeRed
+ID-Type: 682
+
+NPCName: Geleia Mistica
+InternalName: TownSlimeYellow
+ID-Type: 683
+
+NPCName: Geleia Escudeira
+InternalName: TownSlimeCopper
+ID-Type: 684
+
+NPCName: Baú da Velha Tremedeira
+InternalName: BoundTownSlimeOld
+ID-Type: 685
+
+NPCName: Geleia de Balão Desajeitada
+InternalName: BoundTownSlimePurple
+ID-Type: 686
+
+NPCName: Rã Mistica
+InternalName: BoundTownSlimeYellow
+ID-Type: 687
+
+NPCName: Unknown_NPC_688
+InternalName: Count
+ID-Type: 688
+

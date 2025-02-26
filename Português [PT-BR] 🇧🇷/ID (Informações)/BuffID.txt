@@ -1,0 +1,1420 @@
+BuffName: Pele obsidiana
+InternalName: ObsidianSkin
+ID-Type: 1
+
+BuffName: Regeneração
+InternalName: Regeneration
+ID-Type: 2
+
+BuffName: Rapidez
+InternalName: Swiftness
+ID-Type: 3
+
+BuffName: Guelras
+InternalName: Gills
+ID-Type: 4
+
+BuffName: Pele de ferro
+InternalName: Ironskin
+ID-Type: 5
+
+BuffName: Restauração de mana
+InternalName: ManaRegeneration
+ID-Type: 6
+
+BuffName: Poder mágico
+InternalName: MagicPower
+ID-Type: 7
+
+BuffName: Queda de penas
+InternalName: Featherfall
+ID-Type: 8
+
+BuffName: Espeleólogo
+InternalName: Spelunker
+ID-Type: 9
+
+BuffName: Invisibilidade
+InternalName: Invisibility
+ID-Type: 10
+
+BuffName: Brilho
+InternalName: Shine
+ID-Type: 11
+
+BuffName: Coruja da noite
+InternalName: NightOwl
+ID-Type: 12
+
+BuffName: Batalha
+InternalName: Battle
+ID-Type: 13
+
+BuffName: Espinhos
+InternalName: Thorns
+ID-Type: 14
+
+BuffName: Andar Sobre a Água
+InternalName: WaterWalking
+ID-Type: 15
+
+BuffName: Arco e flecha
+InternalName: Archery
+ID-Type: 16
+
+BuffName: Caçador
+InternalName: Hunter
+ID-Type: 17
+
+BuffName: Gravitação
+InternalName: Gravitation
+ID-Type: 18
+
+BuffName: Esfera das Sombras
+InternalName: ShadowOrb
+ID-Type: 19
+
+BuffName: Envenenado
+InternalName: Poisoned
+ID-Type: 20
+
+BuffName: Enjoo por poção
+InternalName: PotionSickness
+ID-Type: 21
+
+BuffName: Trevas
+InternalName: Darkness
+ID-Type: 22
+
+BuffName: Amaldiçoado
+InternalName: Cursed
+ID-Type: 23
+
+BuffName: Em chamas!
+InternalName: OnFire
+ID-Type: 24
+
+BuffName: Tonto
+InternalName: Tipsy
+ID-Type: 25
+
+BuffName: Bem alimentado
+InternalName: WellFed
+ID-Type: 26
+
+BuffName: Fada
+InternalName: FairyBlue
+ID-Type: 27
+
+BuffName: Lobisomem
+InternalName: Werewolf
+ID-Type: 28
+
+BuffName: Clarividência
+InternalName: Clairvoyance
+ID-Type: 29
+
+BuffName: Sangrando
+InternalName: Bleeding
+ID-Type: 30
+
+BuffName: Confuso
+InternalName: Confused
+ID-Type: 31
+
+BuffName: Lento
+InternalName: Slow
+ID-Type: 32
+
+BuffName: Fraco
+InternalName: Weak
+ID-Type: 33
+
+BuffName: Habitantes do mar
+InternalName: Merfolk
+ID-Type: 34
+
+BuffName: Silenciado
+InternalName: Silenced
+ID-Type: 35
+
+BuffName: Armadura quebrada
+InternalName: BrokenArmor
+ID-Type: 36
+
+BuffName: Aterrorizado
+InternalName: Horrified
+ID-Type: 37
+
+BuffName: A língua
+InternalName: TheTongue
+ID-Type: 38
+
+BuffName: Inferno amaldiçoado
+InternalName: CursedInferno
+ID-Type: 39
+
+BuffName: Coelhinho de estimação
+InternalName: PetBunny
+ID-Type: 40
+
+BuffName: Filhote de pinguim
+InternalName: BabyPenguin
+ID-Type: 41
+
+BuffName: Tartaruga de estimação
+InternalName: PetTurtle
+ID-Type: 42
+
+BuffName: Escudo do Paladino
+InternalName: PaladinsShield
+ID-Type: 43
+
+BuffName: Queimadura de gelo
+InternalName: Frostburn
+ID-Type: 44
+
+BuffName: Devorador de Bebês
+InternalName: BabyEater
+ID-Type: 45
+
+BuffName: Resfriado
+InternalName: Chilled
+ID-Type: 46
+
+BuffName: Congelado
+InternalName: Frozen
+ID-Type: 47
+
+BuffName: Mel
+InternalName: Honey
+ID-Type: 48
+
+BuffName: Pigmeus
+InternalName: Pygmies
+ID-Type: 49
+
+BuffName: Cabeça de Esqueletron Bebê
+InternalName: BabySkeletronHead
+ID-Type: 50
+
+BuffName: Filhote de Vespa
+InternalName: BabyHornet
+ID-Type: 51
+
+BuffName: Espírito Tiki
+InternalName: TikiSpirit
+ID-Type: 52
+
+BuffName: Lagarto de Estimação
+InternalName: PetLizard
+ID-Type: 53
+
+BuffName: Papagaio de estimação
+InternalName: PetParrot
+ID-Type: 54
+
+BuffName: Filhote de trufa
+InternalName: BabyTruffle
+ID-Type: 55
+
+BuffName: Plantinha de estimação
+InternalName: PetSapling
+ID-Type: 56
+
+BuffName: Luz Fantasma
+InternalName: Wisp
+ID-Type: 57
+
+BuffName: Cura rápida
+InternalName: RapidHealing
+ID-Type: 58
+
+BuffName: Proteção Divina
+InternalName: ShadowDodge
+ID-Type: 59
+
+BuffName: Cristal de folha
+InternalName: LeafCrystal
+ID-Type: 60
+
+BuffName: Filhote de dinossauro
+InternalName: BabyDinosaur
+ID-Type: 61
+
+BuffName: Barreira de gelo
+InternalName: IceBarrier
+ID-Type: 62
+
+BuffName: Pânico!
+InternalName: Panic
+ID-Type: 63
+
+BuffName: Bebê de Geleia
+InternalName: BabySlime
+ID-Type: 64
+
+BuffName: Olho saltitante
+InternalName: EyeballSpring
+ID-Type: 65
+
+BuffName: Filhote de Boneco de Neve
+InternalName: BabySnowman
+ID-Type: 66
+
+BuffName: Queimando
+InternalName: Burning
+ID-Type: 67
+
+BuffName: Asfixia
+InternalName: Suffocation
+ID-Type: 68
+
+BuffName: Ichor
+InternalName: Ichor
+ID-Type: 69
+
+BuffName: Peçonha Ácida
+InternalName: Venom
+ID-Type: 70
+
+BuffName: Efeito da arma: Peçonha Ácida
+InternalName: WeaponImbueVenom
+ID-Type: 71
+
+BuffName: Midas
+InternalName: Midas
+ID-Type: 72
+
+BuffName: Efeito da arma: Chamas Amaldiçoadas
+InternalName: WeaponImbueCursedFlames
+ID-Type: 73
+
+BuffName: Efeito da arma: Fogo
+InternalName: WeaponImbueFire
+ID-Type: 74
+
+BuffName: Efeito da arma: Ouro
+InternalName: WeaponImbueGold
+ID-Type: 75
+
+BuffName: Efeito da arma: Ichor
+InternalName: WeaponImbueIchor
+ID-Type: 76
+
+BuffName: Efeito da arma: Nanobôs
+InternalName: WeaponImbueNanites
+ID-Type: 77
+
+BuffName: Efeito da arma: Confetes
+InternalName: WeaponImbueConfetti
+ID-Type: 78
+
+BuffName: Efeito da arma: Veneno
+InternalName: WeaponImbuePoison
+ID-Type: 79
+
+BuffName: Apagão
+InternalName: Blackout
+ID-Type: 80
+
+BuffName: Aranha de estimação
+InternalName: PetSpider
+ID-Type: 81
+
+BuffName: Abóbora
+InternalName: Squashling
+ID-Type: 82
+
+BuffName: Corvos
+InternalName: Ravens
+ID-Type: 83
+
+BuffName: Gato Preto
+InternalName: BlackCat
+ID-Type: 84
+
+BuffName: Plantinha Amaldiçoada
+InternalName: CursedSapling
+ID-Type: 85
+
+BuffName: Vela d'água
+InternalName: WaterCandle
+ID-Type: 86
+
+BuffName: Fogo Aconchegante
+InternalName: Campfire
+ID-Type: 87
+
+BuffName: Estado de caos
+InternalName: ChaosState
+ID-Type: 88
+
+BuffName: Lâmpada do coração
+InternalName: HeartLamp
+ID-Type: 89
+
+BuffName: Rodolfo
+InternalName: Rudolph
+ID-Type: 90
+
+BuffName: Cachorrinho
+InternalName: Puppy
+ID-Type: 91
+
+BuffName: Filhote de Grinch
+InternalName: BabyGrinch
+ID-Type: 92
+
+BuffName: Caixa de Munição
+InternalName: AmmoBox
+ID-Type: 93
+
+BuffName: Enjoo por mana
+InternalName: ManaSickness
+ID-Type: 94
+
+BuffName: Resistência por besouros
+InternalName: BeetleEndurance1
+ID-Type: 95
+
+BuffName: Resistência por besouros
+InternalName: BeetleEndurance2
+ID-Type: 96
+
+BuffName: Resistência por besouros
+InternalName: BeetleEndurance3
+ID-Type: 97
+
+BuffName: Poder dos besouros
+InternalName: BeetleMight1
+ID-Type: 98
+
+BuffName: Poder dos besouros
+InternalName: BeetleMight2
+ID-Type: 99
+
+BuffName: Poder dos besouros
+InternalName: BeetleMight3
+ID-Type: 100
+
+BuffName: Fada
+InternalName: FairyRed
+ID-Type: 101
+
+BuffName: Fada
+InternalName: FairyGreen
+ID-Type: 102
+
+BuffName: Molhado
+InternalName: Wet
+ID-Type: 103
+
+BuffName: Mineração
+InternalName: Mining
+ID-Type: 104
+
+BuffName: Agarra-Corações
+InternalName: Heartreach
+ID-Type: 105
+
+BuffName: Calma
+InternalName: Calm
+ID-Type: 106
+
+BuffName: Construtor
+InternalName: Builder
+ID-Type: 107
+
+BuffName: Titã
+InternalName: Titan
+ID-Type: 108
+
+BuffName: Nadadeira
+InternalName: Flipper
+ID-Type: 109
+
+BuffName: Invocação
+InternalName: Summoning
+ID-Type: 110
+
+BuffName: Instinto-Perigo
+InternalName: Dangersense
+ID-Type: 111
+
+BuffName: Reserva de munição
+InternalName: AmmoReservation
+ID-Type: 112
+
+BuffName: Força-Vital
+InternalName: Lifeforce
+ID-Type: 113
+
+BuffName: Resistência
+InternalName: Endurance
+ID-Type: 114
+
+BuffName: Raiva
+InternalName: Rage
+ID-Type: 115
+
+BuffName: Inferno
+InternalName: Inferno
+ID-Type: 116
+
+BuffName: Ira
+InternalName: Wrath
+ID-Type: 117
+
+BuffName: Vagoneta
+InternalName: MinecartLeft
+ID-Type: 118
+
+BuffName: Apaixonado
+InternalName: Lovestruck
+ID-Type: 119
+
+BuffName: Fedorento
+InternalName: Stinky
+ID-Type: 120
+
+BuffName: Pescaria
+InternalName: Fishing
+ID-Type: 121
+
+BuffName: Sonar
+InternalName: Sonar
+ID-Type: 122
+
+BuffName: Caixote
+InternalName: Crate
+ID-Type: 123
+
+BuffName: Calor
+InternalName: Warmth
+ID-Type: 124
+
+BuffName: Vespa
+InternalName: HornetMinion
+ID-Type: 125
+
+BuffName: Demônio
+InternalName: ImpMinion
+ID-Type: 126
+
+BuffName: Peixe do Zéfiro
+InternalName: ZephyrFish
+ID-Type: 127
+
+BuffName: Montaria de Coelho
+InternalName: BunnyMount
+ID-Type: 128
+
+BuffName: Montaria do Porco-dragão
+InternalName: PigronMount
+ID-Type: 129
+
+BuffName: Montaria da Geleia
+InternalName: SlimeMount
+ID-Type: 130
+
+BuffName: Montaria de Tartaruga
+InternalName: TurtleMount
+ID-Type: 131
+
+BuffName: Montaria da Abelha
+InternalName: BeeMount
+ID-Type: 132
+
+BuffName: Aranha
+InternalName: SpiderMinion
+ID-Type: 133
+
+BuffName: Gêmeos
+InternalName: TwinEyesMinion
+ID-Type: 134
+
+BuffName: Pirata
+InternalName: PirateMinion
+ID-Type: 135
+
+BuffName: Mini-Minotauro
+InternalName: MiniMinotaur
+ID-Type: 136
+
+BuffName: Geleia
+InternalName: Slimed
+ID-Type: 137
+
+BuffName: Vagoneta
+InternalName: MinecartRight
+ID-Type: 138
+
+BuffName: Tornado de Tubarões
+InternalName: SharknadoMinion
+ID-Type: 139
+
+BuffName: OVNI
+InternalName: UFOMinion
+ID-Type: 140
+
+BuffName: Montaria de OVNI
+InternalName: UFOMount
+ID-Type: 141
+
+BuffName: Montaria de Furadeira
+InternalName: DrillMount
+ID-Type: 142
+
+BuffName: Montaria do Scutlix
+InternalName: ScutlixMount
+ID-Type: 143
+
+BuffName: Eletrizado
+InternalName: Electrified
+ID-Type: 144
+
+BuffName: Mordida da Lua
+InternalName: MoonLeech
+ID-Type: 145
+
+BuffName: Feliz!
+InternalName: Sunflower
+ID-Type: 146
+
+BuffName: Bandeira
+InternalName: MonsterBanner
+ID-Type: 147
+
+BuffName: Mordida Feroz
+InternalName: Rabies
+ID-Type: 148
+
+BuffName: Preso
+InternalName: Webbed
+ID-Type: 149
+
+BuffName: Enfeitiçado
+InternalName: Bewitched
+ID-Type: 150
+
+BuffName: Drenagem da Vida
+InternalName: SoulDrain
+ID-Type: 151
+
+BuffName: Lanterna Mágica
+InternalName: MagicLantern
+ID-Type: 152
+
+BuffName: Chamas das Sombras
+InternalName: ShadowFlame
+ID-Type: 153
+
+BuffName: Monstro Cara de Bebê
+InternalName: BabyFaceMonster
+ID-Type: 154
+
+BuffName: Coração de Carmesim
+InternalName: CrimsonHeart
+ID-Type: 155
+
+BuffName: Petrificado
+InternalName: Stoned
+ID-Type: 156
+
+BuffName: Vela da Paz
+InternalName: PeaceCandle
+ID-Type: 157
+
+BuffName: Estrela na Garrafa
+InternalName: StarInBottle
+ID-Type: 158
+
+BuffName: Afiado
+InternalName: Sharpened
+ID-Type: 159
+
+BuffName: Atordoado
+InternalName: Dazed
+ID-Type: 160
+
+BuffName: Esfera Mortal
+InternalName: DeadlySphere
+ID-Type: 161
+
+BuffName: Montaria de Unicórnio
+InternalName: UnicornMount
+ID-Type: 162
+
+BuffName: Obstruído
+InternalName: Obstructed
+ID-Type: 163
+
+BuffName: Distorcido
+InternalName: VortexDebuff
+ID-Type: 164
+
+BuffName: Bênção da Dríade
+InternalName: DryadsWard
+ID-Type: 165
+
+BuffName: Vagoneta
+InternalName: MinecartRightMech
+ID-Type: 166
+
+BuffName: Vagoneta
+InternalName: MinecartLeftMech
+ID-Type: 167
+
+BuffName: Montaria do Peixe-dragão Fofinho
+InternalName: CuteFishronMount
+ID-Type: 168
+
+BuffName: Penetrado
+InternalName: BoneJavelin
+ID-Type: 169
+
+BuffName: Fogo Solar
+InternalName: SolarShield1
+ID-Type: 170
+
+BuffName: Fogo Solar
+InternalName: SolarShield2
+ID-Type: 171
+
+BuffName: Fogo Solar
+InternalName: SolarShield3
+ID-Type: 172
+
+BuffName: Nébula da Vida
+InternalName: NebulaUpLife1
+ID-Type: 173
+
+BuffName: Nébula da Vida
+InternalName: NebulaUpLife2
+ID-Type: 174
+
+BuffName: Nébula da Vida
+InternalName: NebulaUpLife3
+ID-Type: 175
+
+BuffName: Nébula de Mana
+InternalName: NebulaUpMana1
+ID-Type: 176
+
+BuffName: Nébula de Mana
+InternalName: NebulaUpMana2
+ID-Type: 177
+
+BuffName: Nébula de Mana
+InternalName: NebulaUpMana3
+ID-Type: 178
+
+BuffName: Nébula de Danos
+InternalName: NebulaUpDmg1
+ID-Type: 179
+
+BuffName: Nébula de Danos
+InternalName: NebulaUpDmg2
+ID-Type: 180
+
+BuffName: Nébula de Danos
+InternalName: NebulaUpDmg3
+ID-Type: 181
+
+BuffName: Célula de Pó das Estrelas
+InternalName: StardustMinion
+ID-Type: 182
+
+BuffName: Celular
+InternalName: StardustMinionBleed
+ID-Type: 183
+
+BuffName: Vagoneta
+InternalName: MinecartLeftWood
+ID-Type: 184
+
+BuffName: Vagoneta
+InternalName: MinecartRightWood
+ID-Type: 185
+
+BuffName: Maldição da Dríade
+InternalName: DryadsWardDebuff
+ID-Type: 186
+
+BuffName: Guardião de Pó das Estrelas
+InternalName: StardustGuardianMinion
+ID-Type: 187
+
+BuffName: Dragão de Pó das Estrelas
+InternalName: StardustDragonMinion
+ID-Type: 188
+
+BuffName: Queimado pelo Sol
+InternalName: Daybreak
+ID-Type: 189
+
+BuffName: Olho Suspeito
+InternalName: SuspiciousTentacle
+ID-Type: 190
+
+BuffName: Cubo Companheiro
+InternalName: CompanionCube
+ID-Type: 191
+
+BuffName: Pico de Açúcar
+InternalName: SugarRush
+ID-Type: 192
+
+BuffName: Montaria do Basilisco
+InternalName: BasiliskMount
+ID-Type: 193
+
+BuffName: Vento Poderoso
+InternalName: WindPushed
+ID-Type: 194
+
+BuffName: Armadura Ressecada
+InternalName: WitheredArmor
+ID-Type: 195
+
+BuffName: Arma Ressecada
+InternalName: WitheredWeapon
+ID-Type: 196
+
+BuffName: Esvaído
+InternalName: OgreSpit
+ID-Type: 197
+
+BuffName: Momento do Ataque
+InternalName: ParryDamageBuff
+ID-Type: 198
+
+BuffName: Choque de Criatividade
+InternalName: NoBuilding
+ID-Type: 199
+
+BuffName: Gato de Hélices
+InternalName: PetDD2Gato
+ID-Type: 200
+
+BuffName: Velinha
+InternalName: PetDD2Ghost
+ID-Type: 201
+
+BuffName: Coleciodragão
+InternalName: PetDD2Dragon
+ID-Type: 202
+
+BuffName: Maldição de Betsy
+InternalName: BetsysCurse
+ID-Type: 203
+
+BuffName: Oleoso
+InternalName: Oiled
+ID-Type: 204
+
+BuffName: Balista em Pânico!
+InternalName: BallistaPanic
+ID-Type: 205
+
+BuffName: Muito satisfeito
+InternalName: WellFed2
+ID-Type: 206
+
+BuffName: Extremamente satisfeito
+InternalName: WellFed3
+ID-Type: 207
+
+BuffName: Vagoneta
+InternalName: DesertMinecartRight
+ID-Type: 208
+
+BuffName: Vagoneta
+InternalName: DesertMinecartLeft
+ID-Type: 209
+
+BuffName: Vagoneta
+InternalName: FishMinecartRight
+ID-Type: 210
+
+BuffName: Vagoneta
+InternalName: FishMinecartLeft
+ID-Type: 211
+
+BuffName: Carrinho de Golfe
+InternalName: GolfCartMount
+ID-Type: 212
+
+BuffName: Morcego Carmesim
+InternalName: BatOfLight
+ID-Type: 213
+
+BuffName: Sapo Vampiro
+InternalName: VampireFrog
+ID-Type: 214
+
+BuffName: A melhor defesa
+InternalName: CatBast
+ID-Type: 215
+
+BuffName: Filhote de Canário
+InternalName: BabyBird
+ID-Type: 216
+
+BuffName: Estee
+InternalName: UpbeatStar
+ID-Type: 217
+
+BuffName: Petauro-do-açúcar
+InternalName: SugarGlider
+ID-Type: 218
+
+BuffName: Filhote de Tubarão
+InternalName: SharkPup
+ID-Type: 219
+
+BuffName: Vagoneta
+InternalName: BeeMinecartRight
+ID-Type: 220
+
+BuffName: Vagoneta
+InternalName: BeeMinecartLeft
+ID-Type: 221
+
+BuffName: Vagoneta
+InternalName: LadybugMinecartRight
+ID-Type: 222
+
+BuffName: Vagoneta
+InternalName: LadybugMinecartLeft
+ID-Type: 223
+
+BuffName: Vagoneta
+InternalName: PigronMinecartRight
+ID-Type: 224
+
+BuffName: Vagoneta
+InternalName: PigronMinecartLeft
+ID-Type: 225
+
+BuffName: Vagoneta
+InternalName: SunflowerMinecartRight
+ID-Type: 226
+
+BuffName: Vagoneta
+InternalName: SunflowerMinecartLeft
+ID-Type: 227
+
+BuffName: Vagoneta
+InternalName: HellMinecartRight
+ID-Type: 228
+
+BuffName: Vagoneta
+InternalName: HellMinecartLeft
+ID-Type: 229
+
+BuffName: Vassoura da Bruxa
+InternalName: WitchBroom
+ID-Type: 230
+
+BuffName: Vagoneta
+InternalName: ShroomMinecartRight
+ID-Type: 231
+
+BuffName: Vagoneta
+InternalName: ShroomMinecartLeft
+ID-Type: 232
+
+BuffName: Vagoneta
+InternalName: AmethystMinecartRight
+ID-Type: 233
+
+BuffName: Vagoneta
+InternalName: AmethystMinecartLeft
+ID-Type: 234
+
+BuffName: Vagoneta
+InternalName: TopazMinecartRight
+ID-Type: 235
+
+BuffName: Vagoneta
+InternalName: TopazMinecartLeft
+ID-Type: 236
+
+BuffName: Vagoneta
+InternalName: SapphireMinecartRight
+ID-Type: 237
+
+BuffName: Vagoneta
+InternalName: SapphireMinecartLeft
+ID-Type: 238
+
+BuffName: Vagoneta
+InternalName: EmeraldMinecartRight
+ID-Type: 239
+
+BuffName: Vagoneta
+InternalName: EmeraldMinecartLeft
+ID-Type: 240
+
+BuffName: Vagoneta
+InternalName: RubyMinecartRight
+ID-Type: 241
+
+BuffName: Vagoneta
+InternalName: RubyMinecartLeft
+ID-Type: 242
+
+BuffName: Vagoneta
+InternalName: DiamondMinecartRight
+ID-Type: 243
+
+BuffName: Vagoneta
+InternalName: DiamondMinecartLeft
+ID-Type: 244
+
+BuffName: Vagoneta
+InternalName: AmberMinecartRight
+ID-Type: 245
+
+BuffName: Vagoneta
+InternalName: AmberMinecartLeft
+ID-Type: 246
+
+BuffName: Vagoneta
+InternalName: BeetleMinecartRight
+ID-Type: 247
+
+BuffName: Vagoneta
+InternalName: BeetleMinecartLeft
+ID-Type: 248
+
+BuffName: Vagoneta
+InternalName: MeowmereMinecartRight
+ID-Type: 249
+
+BuffName: Vagoneta
+InternalName: MeowmereMinecartLeft
+ID-Type: 250
+
+BuffName: Vagoneta
+InternalName: PartyMinecartRight
+ID-Type: 251
+
+BuffName: Vagoneta
+InternalName: PartyMinecartLeft
+ID-Type: 252
+
+BuffName: Vagoneta
+InternalName: PirateMinecartRight
+ID-Type: 253
+
+BuffName: Vagoneta
+InternalName: PirateMinecartLeft
+ID-Type: 254
+
+BuffName: Vagoneta
+InternalName: SteampunkMinecartRight
+ID-Type: 255
+
+BuffName: Vagoneta
+InternalName: SteampunkMinecartLeft
+ID-Type: 256
+
+BuffName: Sortudo
+InternalName: Lucky
+ID-Type: 257
+
+BuffName: Harpinha
+InternalName: LilHarpy
+ID-Type: 258
+
+BuffName: Feneco
+InternalName: FennecFox
+ID-Type: 259
+
+BuffName: Borboleta Brilhante
+InternalName: GlitteryButterfly
+ID-Type: 260
+
+BuffName: Filhote de Demônio
+InternalName: BabyImp
+ID-Type: 261
+
+BuffName: Filhote de Panda-Vermelho
+InternalName: BabyRedPanda
+ID-Type: 262
+
+BuffName: Tigre do Deserto
+InternalName: StormTiger
+ID-Type: 263
+
+BuffName: Plantero
+InternalName: Plantero
+ID-Type: 264
+
+BuffName: Flamingo
+InternalName: Flamingo
+ID-Type: 265
+
+BuffName: Gatinho Dinamite
+InternalName: DynamiteKitten
+ID-Type: 266
+
+BuffName: Filhote de Lobisomem
+InternalName: BabyWerewolf
+ID-Type: 267
+
+BuffName: Mímico das Sombras
+InternalName: ShadowMimic
+ID-Type: 268
+
+BuffName: Vagoneta
+InternalName: CoffinMinecartRight
+ID-Type: 269
+
+BuffName: Vagoneta
+InternalName: CoffinMinecartLeft
+ID-Type: 270
+
+BuffName: Adagas Enfeitiçadas
+InternalName: Smolstar
+ID-Type: 271
+
+BuffName: Carrotatu Escavador
+InternalName: DiggingMoleMinecartRight
+ID-Type: 272
+
+BuffName: Carrotatu Escavador
+InternalName: DiggingMoleMinecartLeft
+ID-Type: 273
+
+BuffName: Coelhinho Pilhado
+InternalName: VoltBunny
+ID-Type: 274
+
+BuffName: Montaria Cavalo Pintado
+InternalName: PaintedHorseMount
+ID-Type: 275
+
+BuffName: Montaria Cavalo Majestoso
+InternalName: MajesticHorseMount
+ID-Type: 276
+
+BuffName: Montaria Cavalo Sombrio
+InternalName: DarkHorseMount
+ID-Type: 277
+
+BuffName: Montaria Pula-Pula
+InternalName: PogoStickMount
+ID-Type: 278
+
+BuffName: Montaria Navio Pirata
+InternalName: PirateShipMount
+ID-Type: 279
+
+BuffName: Montaria da Árvore
+InternalName: SpookyWoodMount
+ID-Type: 280
+
+BuffName: Montaria Tanquoel
+InternalName: SantankMount
+ID-Type: 281
+
+BuffName: Montaria Cabra
+InternalName: WallOfFleshGoatMount
+ID-Type: 282
+
+BuffName: Montaria Livro
+InternalName: DarkMageBookMount
+ID-Type: 283
+
+BuffName: Príncipe Geleia
+InternalName: KingSlimePet
+ID-Type: 284
+
+BuffName: Olho Suspeito
+InternalName: EyeOfCthulhuPet
+ID-Type: 285
+
+BuffName: Devorador de Vermes
+InternalName: EaterOfWorldsPet
+ID-Type: 286
+
+BuffName: Cérebro de Aranha
+InternalName: BrainOfCthulhuPet
+ID-Type: 287
+
+BuffName: Esqueletron Jr.
+InternalName: SkeletronPet
+ID-Type: 288
+
+BuffName: Abelhinha
+InternalName: QueenBeePet
+ID-Type: 289
+
+BuffName: Minidestruidor
+InternalName: DestroyerPet
+ID-Type: 290
+
+BuffName: Rez e Spaz
+InternalName: TwinsPet
+ID-Type: 291
+
+BuffName: Mini Alfa
+InternalName: SkeletronPrimePet
+ID-Type: 292
+
+BuffName: Muda de Plantera
+InternalName: PlanteraPet
+ID-Type: 293
+
+BuffName: Golem de Brinquedo
+InternalName: GolemPet
+ID-Type: 294
+
+BuffName: Peixe-dragão Pequeno
+InternalName: DukeFishronPet
+ID-Type: 295
+
+BuffName: Dragão Fantasmagórico
+InternalName: LunaticCultistPet
+ID-Type: 296
+
+BuffName: Lunar
+InternalName: MoonLordPet
+ID-Type: 297
+
+BuffName: Princesa Fada
+InternalName: FairyQueenPet
+ID-Type: 298
+
+BuffName: Abóbora do Dia das Bruxas
+InternalName: PumpkingPet
+ID-Type: 299
+
+BuffName: Muda de Everscream
+InternalName: EverscreamPet
+ID-Type: 300
+
+BuffName: Rainha do Gelo
+InternalName: IceQueenPet
+ID-Type: 301
+
+BuffName: Skatista Marciano
+InternalName: MartianPet
+ID-Type: 302
+
+BuffName: Filhote de Ogro
+InternalName: DD2OgrePet
+ID-Type: 303
+
+BuffName: Betsy Pequenina
+InternalName: DD2BetsyPet
+ID-Type: 304
+
+BuffName: Montaria Tubarão de Lava
+InternalName: LavaSharkMount
+ID-Type: 305
+
+BuffName: Barreira de Titânio
+InternalName: TitaniumStorm
+ID-Type: 306
+
+BuffName: BuffName.BlandWhipEnemyDebuff
+InternalName: BlandWhipEnemyDebuff
+ID-Type: 307
+
+BuffName: Bênção de Durindana
+InternalName: SwordWhipPlayerBuff
+ID-Type: 308
+
+BuffName: BuffName.SwordWhipNPCDebuff
+InternalName: SwordWhipNPCDebuff
+ID-Type: 309
+
+BuffName: BuffName.ScytheWhipEnemyDebuff
+InternalName: ScytheWhipEnemyDebuff
+ID-Type: 310
+
+BuffName: Hora da Colheita
+InternalName: ScytheWhipPlayerBuff
+ID-Type: 311
+
+BuffName: Reforço Legal
+InternalName: CoolWhipPlayerBuff
+ID-Type: 312
+
+BuffName: BuffName.FlameWhipEnemyDebuff
+InternalName: FlameWhipEnemyDebuff
+ID-Type: 313
+
+BuffName: Fúria Selvagem
+InternalName: ThornWhipPlayerBuff
+ID-Type: 314
+
+BuffName: BuffName.ThornWhipNPCDebuff
+InternalName: ThornWhipNPCDebuff
+ID-Type: 315
+
+BuffName: BuffName.RainbowWhipNPCDebuff
+InternalName: RainbowWhipNPCDebuff
+ID-Type: 316
+
+BuffName: Princesa Geleia
+InternalName: QueenSlimePet
+ID-Type: 317
+
+BuffName: Montaria Geleia Alada
+InternalName: QueenSlimeMount
+ID-Type: 318
+
+BuffName: BuffName.MaceWhipNPCDebuff
+InternalName: MaceWhipNPCDebuff
+ID-Type: 319
+
+BuffName: Geleia Brilhante
+InternalName: GelBalloonBuff
+ID-Type: 320
+
+BuffName: Truque Cerebral
+InternalName: BrainOfConfusionBuff
+ID-Type: 321
+
+BuffName: Terraprisma
+InternalName: EmpressBlade
+ID-Type: 322
+
+BuffName: Fogo do Inferno
+InternalName: OnFire3
+ID-Type: 323
+
+BuffName: Queimadura de Frio
+InternalName: Frostburn2
+ID-Type: 324
+
+BuffName: Flinx
+InternalName: FlinxMinion
+ID-Type: 325
+
+BuffName: BuffName.BoneWhipNPCDebuff
+InternalName: BoneWhipNPCDebuff
+ID-Type: 326
+
+BuffName: Bernie
+InternalName: BerniePet
+ID-Type: 327
+
+BuffName: Glommer
+InternalName: GlommerPet
+ID-Type: 328
+
+BuffName: Cervoclope Pequeno
+InternalName: DeerclopsPet
+ID-Type: 329
+
+BuffName: Porco
+InternalName: PigPet
+ID-Type: 330
+
+BuffName: Chester
+InternalName: ChesterPet
+ID-Type: 331
+
+BuffName: Com fominha
+InternalName: NeutralHunger
+ID-Type: 332
+
+BuffName: Com fome
+InternalName: Hunger
+ID-Type: 333
+
+BuffName: Morrendo de fome
+InternalName: Starving
+ID-Type: 334
+
+BuffName: Abigail
+InternalName: AbigailMinion
+ID-Type: 335
+
+BuffName: Refeição Farta
+InternalName: HeartyMeal
+ID-Type: 336
+
+BuffName: BuffName.TentacleSpike
+InternalName: TentacleSpike
+ID-Type: 337
+
+BuffName: Carrinho de Pum
+InternalName: FartMinecartRight
+ID-Type: 338
+
+BuffName: Carrinho de Pum
+InternalName: FartMinecartLeft
+ID-Type: 339
+
+BuffName: BuffName.CoolWhipNPCDebuff
+InternalName: CoolWhipNPCDebuff
+ID-Type: 340
+
+BuffName: Geleias Reais
+InternalName: DualSlimePet
+ID-Type: 341
+
+BuffName: Bênção da Lua
+InternalName: WolfMount
+ID-Type: 342
+
+BuffName: Visão do Bioma
+InternalName: BiomeSight
+ID-Type: 343
+
+BuffName: Massacrado Sangrento
+InternalName: BloodButcherer
+ID-Type: 344
+
+BuffName: Junimo
+InternalName: JunimoPet
+ID-Type: 345
+
+BuffName: Carrinho de Pum da Terra
+InternalName: TerraFartMinecartRight
+ID-Type: 346
+
+BuffName: Carrinho de Pum da Terra
+InternalName: TerraFartMinecartLeft
+ID-Type: 347
+
+BuffName: Estrategista
+InternalName: WarTable
+ID-Type: 348
+
+BuffName: Galinha Azul
+InternalName: BlueChickenPet
+ID-Type: 349
+
+BuffName: Vela Sombria
+InternalName: ShadowCandle
+ID-Type: 350
+
+BuffName: Spiffo
+InternalName: Spiffo
+ID-Type: 351
+
+BuffName: Jardineiro Cavernoso
+InternalName: CavelingGardener
+ID-Type: 352
+
+BuffName: Brilhando
+InternalName: Shimmer
+ID-Type: 353
+
+BuffName: O Bloco Mais Sujo
+InternalName: DirtiestBlock
+ID-Type: 354
+
+BuffName: Unknown_Buff_355
+InternalName: Count
+ID-Type: 355
+
